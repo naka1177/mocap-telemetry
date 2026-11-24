@@ -1,1 +1,285 @@
-aW1wb3J0IFN3aWZ0VUkKCi8vLyDjg6njg7Pjg4njg57jg7zjgq/mj4/nlLvjg5Pjg6Xjg7zvvIhBbmRyb2lkIOeJiCBMYW5kbWFya1Bsb3RWaWV3IOOBriBDYW52YXMg56e75qSN77yJ44CCCi8vLwovLy8gLSDjgqvjg6Hjg6njg5fjg6zjg5Pjg6Xjg7zph43jga3nlKjvvIhpc1Bsb3RJbnN0YW5jZT1mYWxzZe+8ieOBqOOAgeS4i+mDqOODl+ODreODg+ODiOWwgueUqO+8iHRydWXvvInjga4y55So6YCUCi8vLyAtIOOCt+ODq+OCqOODg+ODiOOBryBBbmRyb2lkIHYwLjMuMSDjgajlkIzjgZjjgY/jg5fjg63jg4Pjg4jlsILnlKjjgqTjg7Pjgrnjgr/jg7Pjgrnjgafjga7jgb/mj4/jgY8KLy8vIC0g5omL44Gu6ImyOiDlt6bmiYs957eRIC8g5Y+z5omLPei1pOODlOODs+OCr+OCkuODmeODvOOCueOBq+OAgeaOjD3mmpboibIgLyDnlLI95Ya36Imy44G444OG44Kj44Oz44OICi8vLyAtIOaMh+WFiOODnuODvOOCq+ODvOOBr+aMh+OBlOOBqOOBruiJsu+8i+eZveODquODs+OCsOOAgeODlOODs+ODgeaIkOeri+S4reOBruaMh+OBr+aLoeWkp++8i+eZuuWFieODquODs+OCsApzdHJ1Y3QgTGFuZG1hcmtQbG90VmlldzogVmlldyB7CiAgICBsZXQgc25hcHNob3Q6IFRyYWNraW5nU25hcHNob3QKICAgIHZhciBpc1Bsb3RJbnN0YW5jZTogQm9vbCA9IGZhbHNlCiAgICB2YXIgc2lsaG91ZXR0ZUVuYWJsZWQ6IEJvb2wgPSBmYWxzZQoKICAgIHByaXZhdGUgc3RhdGljIGxldCBoYW5kQ29ubmVjdGlvbnM6IFsoSW50LCBJbnQpXSA9IFsKICAgICAgICAoMCwgMSksICgxLCAyKSwgKDIsIDMpLCAoMywgNCksICgwLCA1KSwgKDUsIDYpLCAoNiwgNyksICg3LCA4KSwKICAgICAgICAoNSwgOSksICg5LCAxMCksICgxMCwgMTEpLCAoMTEsIDEyKSwgKDksIDEzKSwgKDEzLCAxNCksICgxNCwgMTUpLCAoMTUsIDE2KSwKICAgICAgICAoMTMsIDE3KSwgKDE3LCAxOCksICgxOCwgMTkpLCAoMTksIDIwKSwgKDAsIDE3KSwKICAgIF0KICAgIHByaXZhdGUgc3RhdGljIGxldCBwb3NlQ29ubmVjdGlvbnM6IFsoSW50LCBJbnQpXSA9IFsKICAgICAgICAoMCwgMSksICgxLCAyKSwgKDIsIDMpLCAoMywgNyksICgwLCA0KSwgKDQsIDUpLCAoNSwgNiksICg2LCAxMCksICg5LCAxMCksCiAgICAgICAgKDExLCAxMiksICgxMSwgMTMpLCAoMTMsIDE1KSwgKDE1LCAxNyksICgxNSwgMTkpLCAoMTUsIDIxKSwgKDE3LCAxOSksCiAgICAgICAgKDEyLCAxNCksICgxNCwgMTYpLCAoMTYsIDE4KSwgKDE2LCAyMCksICgxNiwgMjIpLCAoMTgsIDIwKSwKICAgICAgICAoMTEsIDIzKSwgKDEyLCAyNCksICgyMywgMjQpLCAoMjMsIDI1KSwgKDI0LCAyNiksICgyNSwgMjcpLCAoMjYsIDI4KSwKICAgICAgICAoMjcsIDI5KSwgKDI4LCAzMCksICgyOSwgMzEpLCAoMzAsIDMyKSwgKDI3LCAzMSksICgyOCwgMzIpLAogICAgXQogICAgcHJpdmF0ZSBzdGF0aWMgbGV0IGZpbmdlclRpcHMgPSBbNCwgOCwgMTIsIDE2LCAyMF0KICAgIHByaXZhdGUgc3RhdGljIGxldCBmaW5nZXJDaGFpbnM6IFtbSW50XV0gPSBbCiAgICAgICAgWzAsIDEsIDIsIDMsIDRdLCBbMCwgNSwgNiwgNywgOF0sIFswLCA5LCAxMCwgMTEsIDEyXSwgWzAsIDEzLCAxNCwgMTUsIDE2XSwgWzAsIDE3LCAxOCwgMTksIDIwXSwKICAgIF0KCiAgICB2YXIgYm9keTogc29tZSBWaWV3IHsKICAgICAgICBDYW52YXMgeyBjdHgsIHNpemUgaW4KICAgICAgICAgICAgZHJhdyhpbjogJmN0eCwgc2l6ZTogc2l6ZSkKICAgICAgICB9CiAgICB9CgogICAgLy8gTUFSSzogLSDluqfmqJnlpInmj5vvvIjjg6zjgr/jg7zjg5zjg4Pjgq/jgrk6IOODleODrOODvOODoOWFqOS9k+OCkuWPjuOCgeOAgeWIh+OCiuaKnOOBi+OBquOBhO+8iQoKICAgIHByaXZhdGUgc3RydWN0IFRyYW5zZm9ybSB7CiAgICAgICAgbGV0IHNjYWxlOiBDR0Zsb2F0CiAgICAgICAgbGV0IG94OiBDR0Zsb2F0CiAgICAgICAgbGV0IG95OiBDR0Zsb2F0CiAgICAgICAgbGV0IGl3OiBDR0Zsb2F0CiAgICAgICAgbGV0IGloOiBDR0Zsb2F0CiAgICAgICAgZnVuYyBwb2ludChfIGFycjogW0Zsb2F0XSwgXyBpOiBJbnQpIC0+IENHUG9pbnQgewogICAgICAgICAgICBDR1BvaW50KHg6IG94ICsgQ0dGbG9hdChhcnJbaSAqIDNdKSAqIGl3ICogc2NhbGUsCiAgICAgICAgICAgICAgICAgICAgeTogb3kgKyBDR0Zsb2F0KGFycltpICogMyArIDFdKSAqIGloICogc2NhbGUpCiAgICAgICAgfQogICAgICAgIGZ1bmMgbm9ybShfIHA6IENHUG9pbnQpIC0+IENHUG9pbnQgewogICAgICAgICAgICBDR1BvaW50KHg6IG94ICsgcC54ICogaXcgKiBzY2FsZSwgeTogb3kgKyBwLnkgKiBpaCAqIHNjYWxlKQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1bmMgbWFrZVRyYW5zZm9ybShzaXplOiBDR1NpemUpIC0+IFRyYW5zZm9ybSB7CiAgICAgICAgbGV0IGl3ID0gc25hcHNob3QuaW1hZ2VXaWR0aCA+IDAgPyBDR0Zsb2F0KHNuYXBzaG90LmltYWdlV2lkdGgpIDogNAogICAgICAgIGxldCBpaCA9IHNuYXBzaG90LmltYWdlSGVpZ2h0ID4gMCA/IENHRmxvYXQoc25hcHNob3QuaW1hZ2VIZWlnaHQpIDogMwogICAgICAgIGxldCBzY2FsZSA9IG1pbihzaXplLndpZHRoIC8gaXcsIHNpemUuaGVpZ2h0IC8gaWgpCiAgICAgICAgcmV0dXJuIFRyYW5zZm9ybShzY2FsZTogc2NhbGUsCiAgICAgICAgICAgICAgICAgICAgICAgICBveDogKHNpemUud2lkdGggLSBpdyAqIHNjYWxlKSAvIDIsCiAgICAgICAgICAgICAgICAgICAgICAgICBveTogKHNpemUuaGVpZ2h0IC0gaWggKiBzY2FsZSkgLyAyLAogICAgICAgICAgICAgICAgICAgICAgICAgaXc6IGl3LCBpaDogaWgpCiAgICB9CgogICAgLy8gTUFSSzogLSDmnKzkvZMKCiAgICBwcml2YXRlIGZ1bmMgZHJhdyhpbiBjdHg6IGlub3V0IEdyYXBoaWNzQ29udGV4dCwgc2l6ZTogQ0dTaXplKSB7CiAgICAgICAgbGV0IHQgPSBtYWtlVHJhbnNmb3JtKHNpemU6IHNpemUpCiAgICAgICAgbGV0IHNuYXAgPSBzbmFwc2hvdAoKICAgICAgICBpZiBpc1Bsb3RJbnN0YW5jZSB7CiAgICAgICAgICAgIGN0eC5maWxsKFBhdGgoQ0dSZWN0KG9yaWdpbjogLnplcm8sIHNpemU6IHNpemUpKSwgd2l0aDogLmNvbG9yKENvbG9yKHJlZDogMHgxMSAvIDI1NSwgZ3JlZW46IDB4MTEgLyAyNTUsIGJsdWU6IDB4MTEgLyAyNTUpKSkKICAgICAgICAgICAgdmFyIGdyaWQgPSBQYXRoKCkKICAgICAgICAgICAgZm9yIGkgaW4gMS4uLjMgewogICAgICAgICAgICAgICAgbGV0IGd4ID0gc2l6ZS53aWR0aCAqIENHRmxvYXQoaSkgLyA0CiAgICAgICAgICAgICAgICBsZXQgZ3kgPSBzaXplLmhlaWdodCAqIENHRmxvYXQoaSkgLyA0CiAgICAgICAgICAgICAgICBncmlkLm1vdmUodG86IENHUG9pbnQoeDogZ3gsIHk6IDApKTsgZ3JpZC5hZGRMaW5lKHRvOiBDR1BvaW50KHg6IGd4LCB5OiBzaXplLmhlaWdodCkpCiAgICAgICAgICAgICAgICBncmlkLm1vdmUodG86IENHUG9pbnQoeDogMCwgeTogZ3kpKTsgZ3JpZC5hZGRMaW5lKHRvOiBDR1BvaW50KHg6IHNpemUud2lkdGgsIHk6IGd5KSkKICAgICAgICAgICAgfQogICAgICAgICAgICBjdHguc3Ryb2tlKGdyaWQsIHdpdGg6IC5jb2xvcigud2hpdGUub3BhY2l0eSgwLjA4KSksIGxpbmVXaWR0aDogMSkKICAgICAgICB9CgogICAgICAgIC8vIOOCt+ODq+OCqOODg+ODiO+8iOODl+ODreODg+ODiOWwgueUqOODu+acgOiDjOmdou+8iQogICAgICAgIGlmIGlzUGxvdEluc3RhbmNlICYmIHNpbGhvdWV0dGVFbmFibGVkIHsKICAgICAgICAgICAgZHJhd1NpbGhvdWV0dGUoaW46ICZjdHgsIHQ6IHQpCiAgICAgICAgfQoKICAgICAgICAvLyDpoZTjg53jgqTjg7Pjg4jjgq/jg6njgqbjg4kKICAgICAgICBsZXQgZmFjZSA9IHNuYXAuZmFjZUxhbmRtYXJrcwogICAgICAgIGlmIGZhY2UuY291bnQgPj0gMyB7CiAgICAgICAgICAgIHZhciBpID0gMAogICAgICAgICAgICB3aGlsZSBpICsgMSA8IGZhY2UuY291bnQgewogICAgICAgICAgICAgICAgbGV0IHAgPSB0LnBvaW50KGZhY2UsIGkgLyAzKQogICAgICAgICAgICAgICAgY3R4LmZpbGwoUGF0aChlbGxpcHNlSW46IENHUmVjdCh4OiBwLnggLSAxLjgsIHk6IHAueSAtIDEuOCwgd2lkdGg6IDMuNiwgaGVpZ2h0OiAzLjYpKSwKICAgICAgICAgICAgICAgICAgICAgICAgIHdpdGg6IC5jb2xvcihQbG90Q29sb3JzLmZhY2UpKQogICAgICAgICAgICAgICAgaSArPSAzCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIC8vIOWnv+WLouOCueOCseODq+ODiOODswogICAgICAgIGRyYXdTa2VsZXRvbihpbjogJmN0eCwgcG9pbnRzOiBzbmFwLnBvc2VMYW5kbWFya3MsIGNvbm5lY3Rpb25zOiBTZWxmLnBvc2VDb25uZWN0aW9ucywKICAgICAgICAgICAgICAgICAgICAgY29sb3I6IFBsb3RDb2xvcnMucG9zZSwgdDogdCkKCiAgICAgICAgLy8g5Lih5omL77yI5o6ML+eUsuODhuOCo+ODs+ODiO+8i+aJi+mmluODkOODg+OCuO+8iQogICAgICAgIGRyYXdIYW5kKGluOiAmY3R4LCBwb2ludHM6IHNuYXAubGVmdEhhbmRMYW5kbWFya3MsIGJhc2U6IFBsb3RDb2xvcnMubGVmdEJhc2UsIHNpZGU6IHNuYXAubGVmdEhhbmRTaWRlLCB0OiB0KQogICAgICAgIGRyYXdIYW5kKGluOiAmY3R4LCBwb2ludHM6IHNuYXAucmlnaHRIYW5kTGFuZG1hcmtzLCBiYXNlOiBQbG90Q29sb3JzLnJpZ2h0QmFzZSwgc2lkZTogc25hcC5yaWdodEhhbmRTaWRlLCB0OiB0KQoKICAgICAgICAvLyDmjIflhYjjg57jg7zjgqvjg7zvvIjmjIfjgZTjgajjga7oibLvvIkKICAgICAgICBkcmF3RmluZ2VydGlwTWFya2VycyhpbjogJmN0eCwgcG9pbnRzOiBzbmFwLmxlZnRIYW5kTGFuZG1hcmtzLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGluZGV4UGluY2g6IHNuYXAubGVmdEluZGV4UGluY2gsIG1pZGRsZVBpbmNoOiBzbmFwLmxlZnRNaWRkbGVQaW5jaCwgdDogdCkKICAgICAgICBkcmF3RmluZ2VydGlwTWFya2VycyhpbjogJmN0eCwgcG9pbnRzOiBzbmFwLnJpZ2h0SGFuZExhbmRtYXJrcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmRleFBpbmNoOiBzbmFwLnJpZ2h0SW5kZXhQaW5jaCwgbWlkZGxlUGluY2g6IHNuYXAucmlnaHRNaWRkbGVQaW5jaCwgdDogdCkKCiAgICAgICAgLy8g5bmz5ruR5YyW5riI44G/5Lq65beu44GX5oyH5YWI77yI55m944Oq44Oz44Kw77yJCiAgICAgICAgZm9yIHRpcCBpbiBbc25hcC5zbW9vdGhlZExlZnRJbmRleFRpcCwgc25hcC5zbW9vdGhlZFJpZ2h0SW5kZXhUaXBdIHsKICAgICAgICAgICAgaWYgbGV0IHRpcCA9IHRpcCB7CiAgICAgICAgICAgICAgICBsZXQgcCA9IHQubm9ybSh0aXApCiAgICAgICAgICAgICAgICBjdHguc3Ryb2tlKFBhdGgoZWxsaXBzZUluOiBDR1JlY3QoeDogcC54IC0gMTIsIHk6IHAueSAtIDEyLCB3aWR0aDogMjQsIGhlaWdodDogMjQpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgd2l0aDogLmNvbG9yKC53aGl0ZSksIGxpbmVXaWR0aDogMikKICAgICAgICAgICAgfQogICAgICAgIH0KCiAgICAgICAgaWYgaXNQbG90SW5zdGFuY2UgJiYgIXNuYXAuZmFjZVByZXNlbnQgJiYgIXNuYXAucG9zZVByZXNlbnQgJiYgIXNuYXAubGVmdEhhbmRQcmVzZW50ICYmICFzbmFwLnJpZ2h0SGFuZFByZXNlbnQgewogICAgICAgICAgICBsZXQgdGV4dCA9IFRleHQoIuODiOODqeODg+OCreODs+OCsOODh+ODvOOCv+OBquOBlyIpLmZvbnQoLnN5c3RlbShzaXplOiAxNCkpLmZvcmVncm91bmRDb2xvciguZ3JheSkKICAgICAgICAgICAgY3R4LmRyYXcoY3R4LnJlc29sdmUodGV4dCksIGF0OiBDR1BvaW50KHg6IHNpemUud2lkdGggLyAyLCB5OiBzaXplLmhlaWdodCAvIDIpLCBhbmNob3I6IC5jZW50ZXIpCiAgICAgICAgfQogICAgfQoKICAgIC8vIE1BUks6IC0g6YOo5ZOBCgogICAgcHJpdmF0ZSBmdW5jIGRyYXdTa2VsZXRvbihpbiBjdHg6IGlub3V0IEdyYXBoaWNzQ29udGV4dCwgcG9pbnRzOiBbRmxvYXRdLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb25uZWN0aW9uczogWyhJbnQsIEludCldLCBjb2xvcjogQ29sb3IsIHQ6IFRyYW5zZm9ybSkgewogICAgICAgIGd1YXJkIHBvaW50cy5jb3VudCA+PSAzIGVsc2UgeyByZXR1cm4gfQogICAgICAgIHZhciBwYXRoID0gUGF0aCgpCiAgICAgICAgZm9yIChhLCBiKSBpbiBjb25uZWN0aW9ucyB7CiAgICAgICAgICAgIGd1YXJkIChiICogMyArIDEpIDwgcG9pbnRzLmNvdW50IGVsc2UgeyBjb250aW51ZSB9CiAgICAgICAgICAgIHBhdGgubW92ZSh0bzogdC5wb2ludChwb2ludHMsIGEpKQogICAgICAgICAgICBwYXRoLmFkZExpbmUodG86IHQucG9pbnQocG9pbnRzLCBiKSkKICAgICAgICB9CiAgICAgICAgY3R4LnN0cm9rZShwYXRoLCB3aXRoOiAuY29sb3IoY29sb3IpLCBsaW5lV2lkdGg6IDIpCiAgICAgICAgbGV0IG4gPSBwb2ludHMuY291bnQgLyAzCiAgICAgICAgZm9yIGkgaW4gMC4uPG4gewogICAgICAgICAgICBsZXQgcCA9IHQucG9pbnQocG9pbnRzLCBpKQogICAgICAgICAgICBjdHguZmlsbChQYXRoKGVsbGlwc2VJbjogQ0dSZWN0KHg6IHAueCAtIDIsIHk6IHAueSAtIDIsIHdpZHRoOiA0LCBoZWlnaHQ6IDQpKSwgd2l0aDogLmNvbG9yKGNvbG9yKSkKICAgICAgICB9CiAgICB9CgogICAgcHJpdmF0ZSBmdW5jIHRpbnRGb3JTaWRlKGJhc2U6IENvbG9yLCBzaWRlOiBIYW5kU2lkZSkgLT4gQ29sb3IgewogICAgICAgIHN3aXRjaCBzaWRlIHsKICAgICAgICBjYXNlIC5wYWxtOiByZXR1cm4gYmxlbmQoYmFzZSwgUGxvdENvbG9ycy5wYWxtVGludCwgMC41NSkKICAgICAgICBjYXNlIC5iYWNrOiByZXR1cm4gYmxlbmQoYmFzZSwgUGxvdENvbG9ycy5iYWNrVGludCwgMC41NSkKICAgICAgICBjYXNlIC51bmtub3duOiByZXR1cm4gYmFzZQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1bmMgYmxlbmQoXyBhOiBDb2xvciwgXyBiOiBDb2xvciwgXyB0OiBDR0Zsb2F0KSAtPiBDb2xvciB7CiAgICAgICAgbGV0IHVhID0gVUlDb2xvcihhKSwgdWIgPSBVSUNvbG9yKGIpCiAgICAgICAgdmFyIHIxOiBDR0Zsb2F0ID0gMCwgZzE6IENHRmxvYXQgPSAwLCBiMTogQ0dGbG9hdCA9IDAsIGExOiBDR0Zsb2F0ID0gMAogICAgICAgIHZhciByMjogQ0dGbG9hdCA9IDAsIGcyOiBDR0Zsb2F0ID0gMCwgYjI6IENHRmxvYXQgPSAwLCBhMjogQ0dGbG9hdCA9IDAKICAgICAgICB1YS5nZXRSZWQoJnIxLCBncmVlbjogJmcxLCBibHVlOiAmYjEsIGFscGhhOiAmYTEpCiAgICAgICAgdWIuZ2V0UmVkKCZyMiwgZ3JlZW46ICZnMiwgYmx1ZTogJmIyLCBhbHBoYTogJmEyKQogICAgICAgIHJldHVybiBDb2xvcihyZWQ6IHIxICsgKHIyIC0gcjEpICogdCwgZ3JlZW46IGcxICsgKGcyIC0gZzEpICogdCwgYmx1ZTogYjEgKyAoYjIgLSBiMSkgKiB0KQogICAgfQoKICAgIHByaXZhdGUgZnVuYyBkcmF3SGFuZChpbiBjdHg6IGlub3V0IEdyYXBoaWNzQ29udGV4dCwgcG9pbnRzOiBbRmxvYXRdLCBiYXNlOiBDb2xvciwgc2lkZTogSGFuZFNpZGUsIHQ6IFRyYW5zZm9ybSkgewogICAgICAgIGd1YXJkIHBvaW50cy5jb3VudCA+PSAyMSAqIDMgZWxzZSB7IHJldHVybiB9CiAgICAgICAgbGV0IHRpbnRlZCA9IHRpbnRGb3JTaWRlKGJhc2U6IGJhc2UsIHNpZGU6IHNpZGUpCiAgICAgICAgZHJhd1NrZWxldG9uKGluOiAmY3R4LCBwb2ludHM6IHBvaW50cywgY29ubmVjdGlvbnM6IFNlbGYuaGFuZENvbm5lY3Rpb25zLCBjb2xvcjogdGludGVkLCB0OiB0KQogICAgICAgIC8vIOaJi+mmluODkOODg+OCuO+8iOaOjCAvIOeUsu+8iQogICAgICAgIGlmIHNpZGUgIT0gLnVua25vd24gewogICAgICAgICAgICBsZXQgd3Jpc3QgPSB0LnBvaW50KHBvaW50cywgMCkKICAgICAgICAgICAgbGV0IGJhZGdlID0gQ0dSZWN0KHg6IHdyaXN0LnggLSAxMywgeTogd3Jpc3QueSArIDgsIHdpZHRoOiAyNiwgaGVpZ2h0OiAyMCkKICAgICAgICAgICAgY3R4LmZpbGwoUGF0aChyb3VuZGVkUmVjdDogYmFkZ2UsIGNvcm5lclJhZGl1czogNiksIHdpdGg6IC5jb2xvcih0aW50ZWQub3BhY2l0eSgwLjgpKSkKICAgICAgICAgICAgbGV0IHRleHQgPSBUZXh0KHNpZGUucmF3VmFsdWUpLmZvbnQoLnN5c3RlbShzaXplOiAxMSwgd2VpZ2h0OiAuYm9sZCkpLmZvcmVncm91bmRDb2xvcigud2hpdGUpCiAgICAgICAgICAgIGN0eC5kcmF3KGN0eC5yZXNvbHZlKHRleHQpLCBhdDogQ0dQb2ludCh4OiBiYWRnZS5taWRYLCB5OiBiYWRnZS5taWRZKSwgYW5jaG9yOiAuY2VudGVyKQogICAgICAgIH0KICAgIH0KCiAgICBwcml2YXRlIGZ1bmMgZHJhd0ZpbmdlcnRpcE1hcmtlcnMoaW4gY3R4OiBpbm91dCBHcmFwaGljc0NvbnRleHQsIHBvaW50czogW0Zsb2F0XSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmRleFBpbmNoOiBGbG9hdD8sIG1pZGRsZVBpbmNoOiBGbG9hdD8sIHQ6IFRyYW5zZm9ybSkgewogICAgICAgIGd1YXJkIHBvaW50cy5jb3VudCA+PSAyMSAqIDMgZWxzZSB7IHJldHVybiB9CiAgICAgICAgZm9yIChmaW5nZXIsIHRpcEluZGV4KSBpbiBTZWxmLmZpbmdlclRpcHMuZW51bWVyYXRlZCgpIHsKICAgICAgICAgICAgbGV0IGNvbG9yID0gUGxvdENvbG9ycy5maW5nZXJDb2xvcnNbZmluZ2VyXQogICAgICAgICAgICBsZXQgYWN0aXZlOiBCb29sCiAgICAgICAgICAgIHN3aXRjaCBmaW5nZXIgewogICAgICAgICAgICBjYXNlIDE6IGFjdGl2ZSA9IChpbmRleFBpbmNoID8/IDEpIDw9IEp1ZGdtZW50RW5naW5lLnBpbmNoRW50ZXIKICAgICAgICAgICAgY2FzZSAyOiBhY3RpdmUgPSAobWlkZGxlUGluY2ggPz8gMSkgPD0gSnVkZ21lbnRFbmdpbmUucGluY2hFbnRlcgogICAgICAgICAgICBkZWZhdWx0OiBhY3RpdmUgPSBmYWxzZQogICAgICAgICAgICB9CiAgICAgICAgICAgIGxldCBwID0gdC5wb2ludChwb2ludHMsIHRpcEluZGV4KQogICAgICAgICAgICBsZXQgcjogQ0dGbG9hdCA9IGFjdGl2ZSA/IDggOiA2CiAgICAgICAgICAgIGlmIGFjdGl2ZSB7CiAgICAgICAgICAgICAgICBjdHguc3Ryb2tlKFBhdGgoZWxsaXBzZUluOiBDR1JlY3QoeDogcC54IC0gMTIsIHk6IHAueSAtIDEyLCB3aWR0aDogMjQsIGhlaWdodDogMjQpKSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgd2l0aDogLmNvbG9yKGNvbG9yLm9wYWNpdHkoMC43NSkpLCBsaW5lV2lkdGg6IDMpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgY3R4LmZpbGwoUGF0aChlbGxpcHNlSW46IENHUmVjdCh4OiBwLnggLSByLCB5OiBwLnkgLSByLCB3aWR0aDogciAqIDIsIGhlaWdodDogciAqIDIpKSwgd2l0aDogLmNvbG9yKGNvbG9yKSkKICAgICAgICAgICAgY3R4LnN0cm9rZShQYXRoKGVsbGlwc2VJbjogQ0dSZWN0KHg6IHAueCAtIHIsIHk6IHAueSAtIHIsIHdpZHRoOiByICogMiwgaGVpZ2h0OiByICogMikpLAogICAgICAgICAgICAgICAgICAgICAgIHdpdGg6IC5jb2xvcigud2hpdGUpLCBsaW5lV2lkdGg6IDIpCiAgICAgICAgfQogICAgfQoKICAgIC8vIE1BUks6IC0g44K344Or44Ko44OD44OI77yIQW5kcm9pZCB2MC4zLjE6IOmmluOBpOOBquOBjuODu+WkquOCgeODu+WNiumAj+aYjuOCsOODrOODvO+8iQoKICAgIHByaXZhdGUgZnVuYyBkcmF3U2lsaG91ZXR0ZShpbiBjdHg6IGlub3V0IEdyYXBoaWNzQ29udGV4dCwgdDogVHJhbnNmb3JtKSB7CiAgICAgICAgbGV0IHBvc2UgPSBzbmFwc2hvdC5wb3NlTGFuZG1hcmtzCiAgICAgICAgaWYgcG9zZS5jb3VudCA+PSAyOSAqIDMgewogICAgICAgICAgICBmdW5jIGRpc3QoXyBhOiBJbnQsIF8gYjogSW50KSAtPiBDR0Zsb2F0IHsKICAgICAgICAgICAgICAgIGxldCBwYSA9IHQucG9pbnQocG9zZSwgYSksIHBiID0gdC5wb2ludChwb3NlLCBiKQogICAgICAgICAgICAgICAgcmV0dXJuIGh5cG90KHBhLnggLSBwYi54LCBwYS55IC0gcGIueSkKICAgICAgICAgICAgfQogICAgICAgICAgICBsZXQgc2hvdWxkZXJXID0gbWF4KGRpc3QoMTEsIDEyKSwgMTApCiAgICAgICAgICAgIGxldCBsaW1iVyA9IG1pbig5MCwgbWF4KDksIHNob3VsZGVyVyAqIDAuMzApKSAgIC8vIHYwLjMuMTog5L+C5pWwIDAuMzDvvIjntIQxLjXlgI3jgavlpKrjgY/vvIkKICAgICAgICAgICAgbGV0IGxzID0gdC5wb2ludChwb3NlLCAxMSksIHJzID0gdC5wb2ludChwb3NlLCAxMikKICAgICAgICAgICAgbGV0IGxoID0gdC5wb2ludChwb3NlLCAyMyksIHJoID0gdC5wb2ludChwb3NlLCAyNCkKICAgICAgICAgICAgbGV0IGNlbnRyb2lkID0gQ0dQb2ludCh4OiAobHMueCArIHJzLnggKyBsaC54ICsgcmgueCkgLyA0LCB5OiAobHMueSArIHJzLnkgKyBsaC55ICsgcmgueSkgLyA0KQogICAgICAgICAgICBmdW5jIGV4cGFuZChfIHA6IENHUG9pbnQpIC0+IENHUG9pbnQgewogICAgICAgICAgICAgICAgQ0dQb2ludCh4OiBjZW50cm9pZC54ICsgKHAueCAtIGNlbnRyb2lkLngpICogMS4xNSwgeTogY2VudHJvaWQueSArIChwLnkgLSBjZW50cm9pZC55KSAqIDEuMTUpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgLy8g6IO05L2T44Od44Oq44K044Oz77yI6YeN5b+D44GL44KJ57SEMTUl5ouh5by177yJCiAgICAgICAgICAgIHZhciB0b3JzbyA9IFBhdGgoKQogICAgICAgICAgICB0b3Jzby5tb3ZlKHRvOiBleHBhbmQobHMpKTsgdG9yc28uYWRkTGluZSh0bzogZXhwYW5kKHJzKSkKICAgICAgICAgICAgdG9yc28uYWRkTGluZSh0bzogZXhwYW5kKHJoKSk7IHRvcnNvLmFkZExpbmUodG86IGV4cGFuZChsaCkpCiAgICAgICAgICAgIHRvcnNvLmNsb3NlU3VicGF0aCgpCiAgICAgICAgICAgIGN0eC5maWxsKHRvcnNvLCB3aXRoOiAuY29sb3IoUGxvdENvbG9ycy5zaWxob3VldHRlRmlsbCkpCgogICAgICAgICAgICAvLyDlm5vogqLvvIjlpKrjgYTjgrnjg4jjg63jg7zjgq/vvIvplqLnr4DlhobvvIkKICAgICAgICAgICAgbGV0IGxpbWJTZWdzOiBbKEludCwgSW50KV0gPSBbKDExLCAxMyksICgxMywgMTUpLCAoMTIsIDE0KSwgKDE0LCAxNiksICgyMywgMjUpLCAoMjUsIDI3KSwgKDI0LCAyNiksICgyNiwgMjgpXQogICAgICAgICAgICBmb3IgKGEsIGIpIGluIGxpbWJTZWdzIHsKICAgICAgICAgICAgICAgIHZhciBwYXRoID0gUGF0aCgpCiAgICAgICAgICAgICAgICBwYXRoLm1vdmUodG86IHQucG9pbnQocG9zZSwgYSkpOyBwYXRoLmFkZExpbmUodG86IHQucG9pbnQocG9zZSwgYikpCiAgICAgICAgICAgICAgICBjdHguc3Ryb2tlKHBhdGgsIHdpdGg6IC5jb2xvcihQbG90Q29sb3JzLnNpbGhvdWV0dGVTdHJva2UpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZTogU3Ryb2tlU3R5bGUobGluZVdpZHRoOiBsaW1iVywgbGluZUNhcDogLnJvdW5kLCBsaW5lSm9pbjogLnJvdW5kKSkKICAgICAgICAgICAgfQogICAgICAgICAgICBmb3Igam9pbnQgaW4gWzEzLCAxNSwgMTQsIDE2LCAyNSwgMjcsIDI0LCAyNiwgMjhdIHsKICAgICAgICAgICAgICAgIGxldCBwID0gdC5wb2ludChwb3NlLCBqb2ludCkKICAgICAgICAgICAgICAgIGxldCByID0gbGltYlcgKiAwLjU1CiAgICAgICAgICAgICAgICBjdHguZmlsbChQYXRoKGVsbGlwc2VJbjogQ0dSZWN0KHg6IHAueCAtIHIsIHk6IHAueSAtIHIsIHdpZHRoOiByICogMiwgaGVpZ2h0OiByICogMikpLAogICAgICAgICAgICAgICAgICAgICAgICAgd2l0aDogLmNvbG9yKFBsb3RDb2xvcnMuc2lsaG91ZXR0ZUZpbGwpKQogICAgICAgICAgICB9CgogICAgICAgICAgICAvLyDpppbvvIjlj7DlvaLvvInvvIvpoK3pg6jlhoYg4oCUIHYwLjMuMSDjga7jgIzpppbjgaTjgarjgY7jgI3ku5Xmp5gKICAgICAgICAgICAgbGV0IHNob3VsZGVyTWlkID0gQ0dQb2ludCh4OiAobHMueCArIHJzLngpIC8gMiwgeTogKGxzLnkgKyBycy55KSAvIDIpCiAgICAgICAgICAgIGxldCBlYXJNaWQgPSBDR1BvaW50KHg6ICh0LnBvaW50KHBvc2UsIDcpLnggKyB0LnBvaW50KHBvc2UsIDgpLngpIC8gMiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgeTogKHQucG9pbnQocG9zZSwgNykueSArIHQucG9pbnQocG9zZSwgOCkueSkgLyAyKQogICAgICAgICAgICBsZXQgaGVhZFIgPSBtYXgoZGlzdCg3LCA4KSAqIDAuOCwgc2hvdWxkZXJXICogMC4xOSkKICAgICAgICAgICAgbGV0IGhlYWRDZW50ZXIgPSBDR1BvaW50KHg6IGVhck1pZC54LCB5OiBlYXJNaWQueSAtIGhlYWRSICogMC4yNSkKICAgICAgICAgICAgbGV0IG5lY2tIYWxmID0gbGltYlcgKiAwLjUKICAgICAgICAgICAgdmFyIG5lY2sgPSBQYXRoKCkKICAgICAgICAgICAgbmVjay5tb3ZlKHRvOiBDR1BvaW50KHg6IHNob3VsZGVyTWlkLnggLSBuZWNrSGFsZiwgeTogc2hvdWxkZXJNaWQueSkpCiAgICAgICAgICAgIG5lY2suYWRkTGluZSh0bzogQ0dQb2ludCh4OiBzaG91bGRlck1pZC54ICsgbmVja0hhbGYsIHk6IHNob3VsZGVyTWlkLnkpKQogICAgICAgICAgICBuZWNrLmFkZExpbmUodG86IENHUG9pbnQoeDogaGVhZENlbnRlci54ICsgbmVja0hhbGYgKiAxLjIsIHk6IGhlYWRDZW50ZXIueSArIGhlYWRSICogMC42KSkKICAgICAgICAgICAgbmVjay5hZGRMaW5lKHRvOiBDR1BvaW50KHg6IGhlYWRDZW50ZXIueCAtIG5lY2tIYWxmICogMS4yLCB5OiBoZWFkQ2VudGVyLnkgKyBoZWFkUiAqIDAuNikpCiAgICAgICAgICAgIG5lY2suY2xvc2VTdWJwYXRoKCkKICAgICAgICAgICAgY3R4LmZpbGwobmVjaywgd2l0aDogLmNvbG9yKFBsb3RDb2xvcnMuc2lsaG91ZXR0ZUZpbGwpKQogICAgICAgICAgICBjdHguZmlsbChQYXRoKGVsbGlwc2VJbjogQ0dSZWN0KHg6IGhlYWRDZW50ZXIueCAtIGhlYWRSLCB5OiBoZWFkQ2VudGVyLnkgLSBoZWFkUiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICB3aWR0aDogaGVhZFIgKiAyLCBoZWlnaHQ6IGhlYWRSICogMikpLAogICAgICAgICAgICAgICAgICAgICB3aXRoOiAuY29sb3IoUGxvdENvbG9ycy5zaWxob3VldHRlRmlsbCkpCiAgICAgICAgfQoKICAgICAgICAvLyDmiYvjga7jgrfjg6vjgqjjg4Pjg4jvvIjmjowgYmxvYu+8i+WkquOBhOaMh+OCueODiOODreODvOOCr++8iQogICAgICAgIGZvciBoYW5kIGluIFtzbmFwc2hvdC5sZWZ0SGFuZExhbmRtYXJrcywgc25hcHNob3QucmlnaHRIYW5kTGFuZG1hcmtzXSB7CiAgICAgICAgICAgIGd1YXJkIGhhbmQuY291bnQgPj0gMjEgKiAzIGVsc2UgeyBjb250aW51ZSB9CiAgICAgICAgICAgIGxldCBpdyA9IEZsb2F0KHNuYXBzaG90LmltYWdlV2lkdGgpLCBpaCA9IEZsb2F0KHNuYXBzaG90LmltYWdlSGVpZ2h0KQogICAgICAgICAgICBsZXQgcGFsbUxlbiA9IEhhbmRHZW9tZXRyeS5wYWxtTGVuZ3RoUHgoaGFuZDogaGFuZCwgaXc6IGl3LCBpaDogaWgpICogRmxvYXQodC5zY2FsZSkKICAgICAgICAgICAgZ3VhcmQgcGFsbUxlbiA+IDEgZWxzZSB7IGNvbnRpbnVlIH0KICAgICAgICAgICAgdmFyIGN4OiBDR0Zsb2F0ID0gMCwgY3k6IENHRmxvYXQgPSAwCiAgICAgICAgICAgIGZvciBpIGluIFswLCA1LCA5LCAxMywgMTddIHsKICAgICAgICAgICAgICAgIGxldCBwID0gdC5wb2ludChoYW5kLCBpKTsgY3ggKz0gcC54OyBjeSArPSBwLnkKICAgICAgICAgICAgfQogICAgICAgICAgICBsZXQgYmxvYkNlbnRlciA9IENHUG9pbnQoeDogY3ggLyA1LCB5OiBjeSAvIDUpCiAgICAgICAgICAgIGxldCBibG9iUiA9IENHRmxvYXQocGFsbUxlbikgKiAwLjUwCiAgICAgICAgICAgIGN0eC5maWxsKFBhdGgoZWxsaXBzZUluOiBDR1JlY3QoeDogYmxvYkNlbnRlci54IC0gYmxvYlIsIHk6IGJsb2JDZW50ZXIueSAtIGJsb2JSLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHdpZHRoOiBibG9iUiAqIDIsIGhlaWdodDogYmxvYlIgKiAyKSksCiAgICAgICAgICAgICAgICAgICAgIHdpdGg6IC5jb2xvcihQbG90Q29sb3JzLnNpbGhvdWV0dGVGaWxsKSkKICAgICAgICAgICAgZm9yIGNoYWluIGluIFNlbGYuZmluZ2VyQ2hhaW5zIHsKICAgICAgICAgICAgICAgIHZhciBwYXRoID0gUGF0aCgpCiAgICAgICAgICAgICAgICBmb3IgKGosIGlkeCkgaW4gY2hhaW4uZW51bWVyYXRlZCgpIHsKICAgICAgICAgICAgICAgICAgICBsZXQgcCA9IHQucG9pbnQoaGFuZCwgaWR4KQogICAgICAgICAgICAgICAgICAgIGlmIGogPT0gMCB7IHBhdGgubW92ZSh0bzogcCkgfSBlbHNlIHsgcGF0aC5hZGRMaW5lKHRvOiBwKSB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICBjdHguc3Ryb2tlKHBhdGgsIHdpdGg6IC5jb2xvcihQbG90Q29sb3JzLnNpbGhvdWV0dGVTdHJva2UpLAogICAgICAgICAgICAgICAgICAgICAgICAgICBzdHlsZTogU3Ryb2tlU3R5bGUobGluZVdpZHRoOiBDR0Zsb2F0KHBhbG1MZW4pICogMC4yNCwgbGluZUNhcDogLnJvdW5kLCBsaW5lSm9pbjogLnJvdW5kKSkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=
+import SwiftUI
+
+/// ランドマーク描画ビュー（Android 版 LandmarkPlotView の Canvas 移植）。
+///
+/// - カメラプレビュー重ね用（isPlotInstance=false）と、下部プロット専用（true）の2用途
+/// - シルエットは Android v0.3.1 と同じくプロット専用インスタンスでのみ描く
+/// - 手の色: 左手=緑 / 右手=赤ピンクをベースに、掌=暖色 / 甲=冷色へティント
+/// - 指先マーカーは指ごとの色＋白リング、ピンチ成立中の指は拡大＋発光リング
+struct LandmarkPlotView: View {
+    let snapshot: TrackingSnapshot
+    var isPlotInstance: Bool = false
+    var silhouetteEnabled: Bool = false
+
+    private static let handConnections: [(Int, Int)] = [
+        (0, 1), (1, 2), (2, 3), (3, 4), (0, 5), (5, 6), (6, 7), (7, 8),
+        (5, 9), (9, 10), (10, 11), (11, 12), (9, 13), (13, 14), (14, 15), (15, 16),
+        (13, 17), (17, 18), (18, 19), (19, 20), (0, 17),
+    ]
+    private static let poseConnections: [(Int, Int)] = [
+        (0, 1), (1, 2), (2, 3), (3, 7), (0, 4), (4, 5), (5, 6), (6, 10), (9, 10),
+        (11, 12), (11, 13), (13, 15), (15, 17), (15, 19), (15, 21), (17, 19),
+        (12, 14), (14, 16), (16, 18), (16, 20), (16, 22), (18, 20),
+        (11, 23), (12, 24), (23, 24), (23, 25), (24, 26), (25, 27), (26, 28),
+        (27, 29), (28, 30), (29, 31), (30, 32), (27, 31), (28, 32),
+    ]
+    private static let fingerTips = [4, 8, 12, 16, 20]
+    private static let fingerChains: [[Int]] = [
+        [0, 1, 2, 3, 4], [0, 5, 6, 7, 8], [0, 9, 10, 11, 12], [0, 13, 14, 15, 16], [0, 17, 18, 19, 20],
+    ]
+
+    var body: some View {
+        Canvas { ctx, size in
+            draw(in: &ctx, size: size)
+        }
+    }
+
+    // MARK: - 座標変換（レターボックス: フレーム全体を収め、切り抜かない）
+
+    private struct Transform {
+        let scale: CGFloat
+        let ox: CGFloat
+        let oy: CGFloat
+        let iw: CGFloat
+        let ih: CGFloat
+        func point(_ arr: [Float], _ i: Int) -> CGPoint {
+            CGPoint(x: ox + CGFloat(arr[i * 3]) * iw * scale,
+                    y: oy + CGFloat(arr[i * 3 + 1]) * ih * scale)
+        }
+        func norm(_ p: CGPoint) -> CGPoint {
+            CGPoint(x: ox + p.x * iw * scale, y: oy + p.y * ih * scale)
+        }
+    }
+
+    private func makeTransform(size: CGSize) -> Transform {
+        let iw = snapshot.imageWidth > 0 ? CGFloat(snapshot.imageWidth) : 4
+        let ih = snapshot.imageHeight > 0 ? CGFloat(snapshot.imageHeight) : 3
+        let scale = min(size.width / iw, size.height / ih)
+        return Transform(scale: scale,
+                         ox: (size.width - iw * scale) / 2,
+                         oy: (size.height - ih * scale) / 2,
+                         iw: iw, ih: ih)
+    }
+
+    // MARK: - 本体
+
+    private func draw(in ctx: inout GraphicsContext, size: CGSize) {
+        let t = makeTransform(size: size)
+        let snap = snapshot
+
+        if isPlotInstance {
+            ctx.fill(Path(CGRect(origin: .zero, size: size)), with: .color(Color(red: 0x11 / 255, green: 0x11 / 255, blue: 0x11 / 255)))
+            var grid = Path()
+            for i in 1...3 {
+                let gx = size.width * CGFloat(i) / 4
+                let gy = size.height * CGFloat(i) / 4
+                grid.move(to: CGPoint(x: gx, y: 0)); grid.addLine(to: CGPoint(x: gx, y: size.height))
+                grid.move(to: CGPoint(x: 0, y: gy)); grid.addLine(to: CGPoint(x: size.width, y: gy))
+            }
+            ctx.stroke(grid, with: .color(.white.opacity(0.08)), lineWidth: 1)
+        }
+
+        // シルエット（プロット専用・最背面）
+        if isPlotInstance && silhouetteEnabled {
+            drawSilhouette(in: &ctx, t: t)
+        }
+
+        // 顔ポイントクラウド
+        let face = snap.faceLandmarks
+        if face.count >= 3 {
+            var i = 0
+            while i + 1 < face.count {
+                let p = t.point(face, i / 3)
+                ctx.fill(Path(ellipseIn: CGRect(x: p.x - 1.8, y: p.y - 1.8, width: 3.6, height: 3.6)),
+                         with: .color(PlotColors.face))
+                i += 3
+            }
+        }
+
+        // 姿勢スケルトン
+        drawSkeleton(in: &ctx, points: snap.poseLandmarks, connections: Self.poseConnections,
+                     color: PlotColors.pose, t: t)
+
+        // 両手（掌/甲ティント＋手首バッジ）
+        drawHand(in: &ctx, points: snap.leftHandLandmarks, base: PlotColors.leftBase, side: snap.leftHandSide, t: t)
+        drawHand(in: &ctx, points: snap.rightHandLandmarks, base: PlotColors.rightBase, side: snap.rightHandSide, t: t)
+
+        // 指先マーカー（指ごとの色）
+        drawFingertipMarkers(in: &ctx, points: snap.leftHandLandmarks,
+                             indexPinch: snap.leftIndexPinch, middlePinch: snap.leftMiddlePinch, t: t)
+        drawFingertipMarkers(in: &ctx, points: snap.rightHandLandmarks,
+                             indexPinch: snap.rightIndexPinch, middlePinch: snap.rightMiddlePinch, t: t)
+
+        // 平滑化済み人差し指先（白リング）
+        for tip in [snap.smoothedLeftIndexTip, snap.smoothedRightIndexTip] {
+            if let tip = tip {
+                let p = t.norm(tip)
+                ctx.stroke(Path(ellipseIn: CGRect(x: p.x - 12, y: p.y - 12, width: 24, height: 24)),
+                           with: .color(.white), lineWidth: 2)
+            }
+        }
+
+        if isPlotInstance && !snap.facePresent && !snap.posePresent && !snap.leftHandPresent && !snap.rightHandPresent {
+            let text = Text("トラッキングデータなし").font(.system(size: 14)).foregroundColor(.gray)
+            ctx.draw(ctx.resolve(text), at: CGPoint(x: size.width / 2, y: size.height / 2), anchor: .center)
+        }
+    }
+
+    // MARK: - 部品
+
+    private func drawSkeleton(in ctx: inout GraphicsContext, points: [Float],
+                              connections: [(Int, Int)], color: Color, t: Transform) {
+        guard points.count >= 3 else { return }
+        var path = Path()
+        for (a, b) in connections {
+            guard (b * 3 + 1) < points.count else { continue }
+            path.move(to: t.point(points, a))
+            path.addLine(to: t.point(points, b))
+        }
+        ctx.stroke(path, with: .color(color), lineWidth: 2)
+        let n = points.count / 3
+        for i in 0..<n {
+            let p = t.point(points, i)
+            ctx.fill(Path(ellipseIn: CGRect(x: p.x - 2, y: p.y - 2, width: 4, height: 4)), with: .color(color))
+        }
+    }
+
+    private func tintForSide(base: Color, side: HandSide) -> Color {
+        switch side {
+        case .palm: return blend(base, PlotColors.palmTint, 0.55)
+        case .back: return blend(base, PlotColors.backTint, 0.55)
+        case .unknown: return base
+        }
+    }
+
+    private func blend(_ a: Color, _ b: Color, _ t: CGFloat) -> Color {
+        let ua = UIColor(a), ub = UIColor(b)
+        var r1: CGFloat = 0, g1: CGFloat = 0, b1: CGFloat = 0, a1: CGFloat = 0
+        var r2: CGFloat = 0, g2: CGFloat = 0, b2: CGFloat = 0, a2: CGFloat = 0
+        ua.getRed(&r1, green: &g1, blue: &b1, alpha: &a1)
+        ub.getRed(&r2, green: &g2, blue: &b2, alpha: &a2)
+        return Color(red: r1 + (r2 - r1) * t, green: g1 + (g2 - g1) * t, blue: b1 + (b2 - b1) * t)
+    }
+
+    private func drawHand(in ctx: inout GraphicsContext, points: [Float], base: Color, side: HandSide, t: Transform) {
+        guard points.count >= 21 * 3 else { return }
+        let tinted = tintForSide(base: base, side: side)
+        drawSkeleton(in: &ctx, points: points, connections: Self.handConnections, color: tinted, t: t)
+        // 手首バッジ（掌 / 甲）
+        if side != .unknown {
+            let wrist = t.point(points, 0)
+            let badge = CGRect(x: wrist.x - 13, y: wrist.y + 8, width: 26, height: 20)
+            ctx.fill(Path(roundedRect: badge, cornerRadius: 6), with: .color(tinted.opacity(0.8)))
+            let text = Text(side.rawValue).font(.system(size: 11, weight: .bold)).foregroundColor(.white)
+            ctx.draw(ctx.resolve(text), at: CGPoint(x: badge.midX, y: badge.midY), anchor: .center)
+        }
+    }
+
+    private func drawFingertipMarkers(in ctx: inout GraphicsContext, points: [Float],
+                                      indexPinch: Float?, middlePinch: Float?, t: Transform) {
+        guard points.count >= 21 * 3 else { return }
+        for (finger, tipIndex) in Self.fingerTips.enumerated() {
+            let color = PlotColors.fingerColors[finger]
+            let active: Bool
+            switch finger {
+            case 1: active = (indexPinch ?? 1) <= JudgmentEngine.pinchEnter
+            case 2: active = (middlePinch ?? 1) <= JudgmentEngine.pinchEnter
+            default: active = false
+            }
+            let p = t.point(points, tipIndex)
+            let r: CGFloat = active ? 8 : 6
+            if active {
+                ctx.stroke(Path(ellipseIn: CGRect(x: p.x - 12, y: p.y - 12, width: 24, height: 24)),
+                           with: .color(color.opacity(0.75)), lineWidth: 3)
+            }
+            ctx.fill(Path(ellipseIn: CGRect(x: p.x - r, y: p.y - r, width: r * 2, height: r * 2)), with: .color(color))
+            ctx.stroke(Path(ellipseIn: CGRect(x: p.x - r, y: p.y - r, width: r * 2, height: r * 2)),
+                       with: .color(.white), lineWidth: 2)
+        }
+    }
+
+    // MARK: - シルエット（Android v0.3.1: 首つなぎ・太め・半透明グレー）
+
+    private func drawSilhouette(in ctx: inout GraphicsContext, t: Transform) {
+        let pose = snapshot.poseLandmarks
+        if pose.count >= 29 * 3 {
+            func dist(_ a: Int, _ b: Int) -> CGFloat {
+                let pa = t.point(pose, a), pb = t.point(pose, b)
+                return hypot(pa.x - pb.x, pa.y - pb.y)
+            }
+            let shoulderW = max(dist(11, 12), 10)
+            let limbW = min(90, max(9, shoulderW * 0.30))   // v0.3.1: 係数 0.30（約1.5倍に太く）
+            let ls = t.point(pose, 11), rs = t.point(pose, 12)
+            let lh = t.point(pose, 23), rh = t.point(pose, 24)
+            let centroid = CGPoint(x: (ls.x + rs.x + lh.x + rh.x) / 4, y: (ls.y + rs.y + lh.y + rh.y) / 4)
+            func expand(_ p: CGPoint) -> CGPoint {
+                CGPoint(x: centroid.x + (p.x - centroid.x) * 1.15, y: centroid.y + (p.y - centroid.y) * 1.15)
+            }
+            // 胴体ポリゴン（重心から約15%拡張）
+            var torso = Path()
+            torso.move(to: expand(ls)); torso.addLine(to: expand(rs))
+            torso.addLine(to: expand(rh)); torso.addLine(to: expand(lh))
+            torso.closeSubpath()
+            ctx.fill(torso, with: .color(PlotColors.silhouetteFill))
+
+            // 四肢（太いストローク＋関節円）
+            let limbSegs: [(Int, Int)] = [(11, 13), (13, 15), (12, 14), (14, 16), (23, 25), (25, 27), (24, 26), (26, 28)]
+            for (a, b) in limbSegs {
+                var path = Path()
+                path.move(to: t.point(pose, a)); path.addLine(to: t.point(pose, b))
+                ctx.stroke(path, with: .color(PlotColors.silhouetteStroke),
+                           style: StrokeStyle(lineWidth: limbW, lineCap: .round, lineJoin: .round))
+            }
+            for joint in [13, 15, 14, 16, 25, 27, 24, 26, 28] {
+                let p = t.point(pose, joint)
+                let r = limbW * 0.55
+                ctx.fill(Path(ellipseIn: CGRect(x: p.x - r, y: p.y - r, width: r * 2, height: r * 2)),
+                         with: .color(PlotColors.silhouetteFill))
+            }
+
+            // 首（台形）＋頭部円 — v0.3.1 の「首つなぎ」仕様
+            let shoulderMid = CGPoint(x: (ls.x + rs.x) / 2, y: (ls.y + rs.y) / 2)
+            let earMid = CGPoint(x: (t.point(pose, 7).x + t.point(pose, 8).x) / 2,
+                                 y: (t.point(pose, 7).y + t.point(pose, 8).y) / 2)
+            let headR = max(dist(7, 8) * 0.8, shoulderW * 0.19)
+            let headCenter = CGPoint(x: earMid.x, y: earMid.y - headR * 0.25)
+            let neckHalf = limbW * 0.5
+            var neck = Path()
+            neck.move(to: CGPoint(x: shoulderMid.x - neckHalf, y: shoulderMid.y))
+            neck.addLine(to: CGPoint(x: shoulderMid.x + neckHalf, y: shoulderMid.y))
+            neck.addLine(to: CGPoint(x: headCenter.x + neckHalf * 1.2, y: headCenter.y + headR * 0.6))
+            neck.addLine(to: CGPoint(x: headCenter.x - neckHalf * 1.2, y: headCenter.y + headR * 0.6))
+            neck.closeSubpath()
+            ctx.fill(neck, with: .color(PlotColors.silhouetteFill))
+            ctx.fill(Path(ellipseIn: CGRect(x: headCenter.x - headR, y: headCenter.y - headR,
+                                            width: headR * 2, height: headR * 2)),
+                     with: .color(PlotColors.silhouetteFill))
+        }
+
+        // 手のシルエット（掌 blob＋太い指ストローク）
+        for hand in [snapshot.leftHandLandmarks, snapshot.rightHandLandmarks] {
+            guard hand.count >= 21 * 3 else { continue }
+            let iw = Float(snapshot.imageWidth), ih = Float(snapshot.imageHeight)
+            let palmLen = HandGeometry.palmLengthPx(hand: hand, iw: iw, ih: ih) * Float(t.scale)
+            guard palmLen > 1 else { continue }
+            var cx: CGFloat = 0, cy: CGFloat = 0
+            for i in [0, 5, 9, 13, 17] {
+                let p = t.point(hand, i); cx += p.x; cy += p.y
+            }
+            let blobCenter = CGPoint(x: cx / 5, y: cy / 5)
+            let blobR = CGFloat(palmLen) * 0.50
+            ctx.fill(Path(ellipseIn: CGRect(x: blobCenter.x - blobR, y: blobCenter.y - blobR,
+                                            width: blobR * 2, height: blobR * 2)),
+                     with: .color(PlotColors.silhouetteFill))
+            for chain in Self.fingerChains {
+                var path = Path()
+                for (j, idx) in chain.enumerated() {
+                    let p = t.point(hand, idx)
+                    if j == 0 { path.move(to: p) } else { path.addLine(to: p) }
+                }
+                ctx.stroke(path, with: .color(PlotColors.silhouetteStroke),
+                           style: StrokeStyle(lineWidth: CGFloat(palmLen) * 0.24, lineCap: .round, lineJoin: .round))
+            }
+        }
+    }
+}
