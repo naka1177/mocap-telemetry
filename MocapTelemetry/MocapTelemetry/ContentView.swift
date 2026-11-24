@@ -1,1 +1,225 @@
-aW1wb3J0IFN3aWZ0VUkKCi8vLyDjg4bjg6zjg6Hjg4jjg6rnlLvpnaLvvIhBbmRyb2lkIOeJiCBUZWxlbWV0cnlBY3Rpdml0eSDjgavlr77lv5zvvInjgIIKLy8vIOS4ijog44Kr44Oh44Op44OX44Os44OT44Ol44O877yL44Op44Oz44OJ44Oe44O844Kv6YeN44Gt77yL5Yik5a6a44OQ44OK44O8Ci8vLyDkuK06IOODl+ODreODg+ODiOWwgueUqOODk+ODpeODvO+8iOOCt+ODq+OCqOODg+ODiOihqOekuuOBr+OBk+OBoeOCieOBoOOBke+8iQovLy8g5LiLOiDntbHoqIjjg5Hjg43jg6vvvIvliKTlrprjg5XjgqPjg7zjg4kKc3RydWN0IENvbnRlbnRWaWV3OiBWaWV3IHsKICAgIEBTdGF0ZU9iamVjdCBwcml2YXRlIHZhciB2aWV3TW9kZWwgPSBUZWxlbWV0cnlWaWV3TW9kZWwoKQogICAgQEFwcFN0b3JhZ2UoInNpbGhvdWV0dGVFbmFibGVkIikgcHJpdmF0ZSB2YXIgc2lsaG91ZXR0ZUVuYWJsZWQgPSB0cnVlCgogICAgdmFyIGJvZHk6IHNvbWUgVmlldyB7CiAgICAgICAgWlN0YWNrIHsKICAgICAgICAgICAgVGhlbWUuYmFja2dyb3VuZEdyYWRpZW50Lmlnbm9yZXNTYWZlQXJlYSgpCiAgICAgICAgICAgIFNjcm9sbFZpZXcgewogICAgICAgICAgICAgICAgVlN0YWNrKHNwYWNpbmc6IDE0KSB7CiAgICAgICAgICAgICAgICAgICAgaGVhZGVyCiAgICAgICAgICAgICAgICAgICAgcHJldmlld1BhbmVsCiAgICAgICAgICAgICAgICAgICAgcGxvdFBhbmVsCiAgICAgICAgICAgICAgICAgICAgc3RhdHNQYW5lbAogICAgICAgICAgICAgICAgICAgIGZlZWRQYW5lbAogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLnBhZGRpbmcoMTYpCiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgLy8gTUFSSzogLSDjg5jjg4Pjg4Djg7wKCiAgICBwcml2YXRlIHZhciBoZWFkZXI6IHNvbWUgVmlldyB7CiAgICAgICAgVlN0YWNrKGFsaWdubWVudDogLmxlYWRpbmcsIHNwYWNpbmc6IDgpIHsKICAgICAgICAgICAgVGV4dCgiTW9jYXAgQ29udHJvbGxlciIpCiAgICAgICAgICAgICAgICAuZm9udCgubGFyZ2VUaXRsZS5ib2xkKCkpCiAgICAgICAgICAgICAgICAuZm9yZWdyb3VuZENvbG9yKFRoZW1lLnRleHRQcmltYXJ5KQogICAgICAgICAgICBUZXh0KCLmiYvjgajpoZTjga7jg4jjg6njg4Pjgq3jg7PjgrAg44OG44Os44Oh44OI44Oq77yIaVBhZOeJiOODu+WIpOWumuOBr+ihqOekuuOBruOBv++8iSIpCiAgICAgICAgICAgICAgICAuZm9udCguc3ViaGVhZGxpbmUpCiAgICAgICAgICAgICAgICAuZm9yZWdyb3VuZENvbG9yKFRoZW1lLnRleHRTZWNvbmRhcnkpCiAgICAgICAgICAgIEhTdGFjayhzcGFjaW5nOiAxMikgewogICAgICAgICAgICAgICAgQnV0dG9uKHZpZXdNb2RlbC5pc1J1bm5pbmcgPyAi44Kt44Oj44OX44OB44Oj5YGc5q2iIiA6ICLjgq3jg6Pjg5fjg4Hjg6Pplovlp4siKSB7CiAgICAgICAgICAgICAgICAgICAgdmlld01vZGVsLnRvZ2dsZSgpCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAuZm9udCguaGVhZGxpbmUpCiAgICAgICAgICAgICAgICAucGFkZGluZyguaG9yaXpvbnRhbCwgMjIpCiAgICAgICAgICAgICAgICAucGFkZGluZygudmVydGljYWwsIDEyKQogICAgICAgICAgICAgICAgLmJhY2tncm91bmQodmlld01vZGVsLmlzUnVubmluZyA/IENvbG9yLnJlZC5vcGFjaXR5KDAuNzUpIDogVGhlbWUuYWNjZW50Qmx1ZSkKICAgICAgICAgICAgICAgIC5mb3JlZ3JvdW5kQ29sb3IoLndoaXRlKQogICAgICAgICAgICAgICAgLmNsaXBTaGFwZShSb3VuZGVkUmVjdGFuZ2xlKGNvcm5lclJhZGl1czogMTYpKQogICAgICAgICAgICAgICAgVG9nZ2xlKCLjgrfjg6vjgqjjg4Pjg4giLCBpc09uOiAkc2lsaG91ZXR0ZUVuYWJsZWQpCiAgICAgICAgICAgICAgICAgICAgLnRvZ2dsZVN0eWxlKC5zd2l0Y2gpCiAgICAgICAgICAgICAgICAgICAgLnRpbnQoVGhlbWUuYWNjZW50R3JlZW4pCiAgICAgICAgICAgICAgICAgICAgLmZpeGVkU2l6ZSgpCiAgICAgICAgICAgICAgICBTcGFjZXIoKQogICAgICAgICAgICB9CiAgICAgICAgICAgIFRleHQoIueKtuaFizogXCh2aWV3TW9kZWwuc3RhdHVzTWVzc2FnZSkiKQogICAgICAgICAgICAgICAgLmZvbnQoLmZvb3Rub3RlKQogICAgICAgICAgICAgICAgLmZvcmVncm91bmRDb2xvcihUaGVtZS50ZXh0U2Vjb25kYXJ5KQogICAgICAgIH0KICAgIH0KCiAgICAvLyBNQVJLOiAtIOODl+ODrOODk+ODpeODvO+8iOODqeODs+ODieODnuODvOOCr+mHjeOBre+8i+ODkOODiuODvO+8iQoKICAgIHByaXZhdGUgdmFyIHByZXZpZXdQYW5lbDogc29tZSBWaWV3IHsKICAgICAgICBaU3RhY2sgewogICAgICAgICAgICBQcmV2aWV3VmlldyhwcmV2aWV3TGF5ZXI6IHZpZXdNb2RlbC5jYW1lcmEucHJldmlld0xheWVyKQogICAgICAgICAgICBMYW5kbWFya1Bsb3RWaWV3KHNuYXBzaG90OiB2aWV3TW9kZWwuc25hcHNob3QsIGlzUGxvdEluc3RhbmNlOiBmYWxzZSkKICAgICAgICAgICAgaWYgbGV0IGJhbm5lciA9IHZpZXdNb2RlbC5iYW5uZXJUZXh0IHsKICAgICAgICAgICAgICAgIFZTdGFjayB7CiAgICAgICAgICAgICAgICAgICAgU3BhY2VyKCkKICAgICAgICAgICAgICAgICAgICBUZXh0KGJhbm5lcikKICAgICAgICAgICAgICAgICAgICAgICAgLmZvbnQoLnRpdGxlMi5ib2xkKCkpCiAgICAgICAgICAgICAgICAgICAgICAgIC5mb3JlZ3JvdW5kQ29sb3IoLndoaXRlKQogICAgICAgICAgICAgICAgICAgICAgICAucGFkZGluZyguaG9yaXpvbnRhbCwgMjApCiAgICAgICAgICAgICAgICAgICAgICAgIC5wYWRkaW5nKC52ZXJ0aWNhbCwgMTIpCiAgICAgICAgICAgICAgICAgICAgICAgIC5iYWNrZ3JvdW5kKC51bHRyYVRoaW5NYXRlcmlhbCkKICAgICAgICAgICAgICAgICAgICAgICAgLmJhY2tncm91bmQoQ29sb3IuYmxhY2sub3BhY2l0eSgwLjM1KSkKICAgICAgICAgICAgICAgICAgICAgICAgLmNsaXBTaGFwZShSb3VuZGVkUmVjdGFuZ2xlKGNvcm5lclJhZGl1czogMTgpKQogICAgICAgICAgICAgICAgICAgICAgICAub3ZlcmxheShSb3VuZGVkUmVjdGFuZ2xlKGNvcm5lclJhZGl1czogMTgpLnN0cm9rZShUaGVtZS5wYW5lbFN0cm9rZSkpCiAgICAgICAgICAgICAgICAgICAgU3BhY2VyKCkuZnJhbWUoaGVpZ2h0OiAxOCkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIC50cmFuc2l0aW9uKC5vcGFjaXR5KQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIC5hc3BlY3RSYXRpbyg0LjAgLyAzLjAsIGNvbnRlbnRNb2RlOiAuZml0KQogICAgICAgIC5iYWNrZ3JvdW5kKENvbG9yLmJsYWNrKQogICAgICAgIC5jbGlwU2hhcGUoUm91bmRlZFJlY3RhbmdsZShjb3JuZXJSYWRpdXM6IDIyKSkKICAgICAgICAub3ZlcmxheShSb3VuZGVkUmVjdGFuZ2xlKGNvcm5lclJhZGl1czogMjIpLnN0cm9rZShUaGVtZS5wYW5lbFN0cm9rZSkpCiAgICB9CgogICAgLy8gTUFSSzogLSDjg5fjg63jg4Pjg4jvvIjjgrfjg6vjgqjjg4Pjg4jjga/jgZPjgaHjgonjgaDjgZHvvIkKCiAgICBwcml2YXRlIHZhciBwbG90UGFuZWw6IHNvbWUgVmlldyB7CiAgICAgICAgVlN0YWNrKGFsaWdubWVudDogLmxlYWRpbmcsIHNwYWNpbmc6IDYpIHsKICAgICAgICAgICAgVGV4dCgi44OX44Ot44OD44OI77yI44K344Or44Ko44OD44OI6KGo56S677yJIikKICAgICAgICAgICAgICAgIC5mb250KC5oZWFkbGluZSkKICAgICAgICAgICAgICAgIC5mb3JlZ3JvdW5kQ29sb3IoVGhlbWUudGV4dFByaW1hcnkpCiAgICAgICAgICAgIExhbmRtYXJrUGxvdFZpZXcoc25hcHNob3Q6IHZpZXdNb2RlbC5zbmFwc2hvdCwgaXNQbG90SW5zdGFuY2U6IHRydWUsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgc2lsaG91ZXR0ZUVuYWJsZWQ6IHNpbGhvdWV0dGVFbmFibGVkKQogICAgICAgICAgICAgICAgLmFzcGVjdFJhdGlvKDQuMCAvIDMuMCwgY29udGVudE1vZGU6IC5maXQpCiAgICAgICAgICAgICAgICAuY2xpcFNoYXBlKFJvdW5kZWRSZWN0YW5nbGUoY29ybmVyUmFkaXVzOiAyMikpCiAgICAgICAgICAgICAgICAub3ZlcmxheShSb3VuZGVkUmVjdGFuZ2xlKGNvcm5lclJhZGl1czogMjIpLnN0cm9rZShUaGVtZS5wYW5lbFN0cm9rZSkpCiAgICAgICAgICAgIC8vIOaMh+WFiOOCq+ODqeODvOOBruWHoeS+iwogICAgICAgICAgICBIU3RhY2soc3BhY2luZzogMTApIHsKICAgICAgICAgICAgICAgIEZvckVhY2goMC4uPDUsIGlkOiBcLnNlbGYpIHsgaSBpbgogICAgICAgICAgICAgICAgICAgIEhTdGFjayhzcGFjaW5nOiA0KSB7CiAgICAgICAgICAgICAgICAgICAgICAgIENpcmNsZSgpLmZpbGwoUGxvdENvbG9ycy5maW5nZXJDb2xvcnNbaV0pLmZyYW1lKHdpZHRoOiA5LCBoZWlnaHQ6IDkpCiAgICAgICAgICAgICAgICAgICAgICAgIFRleHQoUGxvdENvbG9ycy5maW5nZXJOYW1lc0phW2ldKS5mb250KC5jYXB0aW9uMikuZm9yZWdyb3VuZENvbG9yKFRoZW1lLnRleHRTZWNvbmRhcnkpCiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIC5wYWRkaW5nKDE0KQogICAgICAgIC5iYWNrZ3JvdW5kKFRoZW1lLnBhbmVsRmlsbCkKICAgICAgICAuY2xpcFNoYXBlKFJvdW5kZWRSZWN0YW5nbGUoY29ybmVyUmFkaXVzOiAyMikpCiAgICAgICAgLm92ZXJsYXkoUm91bmRlZFJlY3RhbmdsZShjb3JuZXJSYWRpdXM6IDIyKS5zdHJva2UoVGhlbWUucGFuZWxTdHJva2UpKQogICAgfQoKICAgIC8vIE1BUks6IC0g57Wx6KiICgogICAgcHJpdmF0ZSB2YXIgc3RhdHNQYW5lbDogc29tZSBWaWV3IHsKICAgICAgICBsZXQgcyA9IHZpZXdNb2RlbC5zbmFwc2hvdAogICAgICAgIHJldHVybiBWU3RhY2soYWxpZ25tZW50OiAubGVhZGluZywgc3BhY2luZzogNikgewogICAgICAgICAgICBUZXh0KCLntbHoqIgiKQogICAgICAgICAgICAgICAgLmZvbnQoLmhlYWRsaW5lKQogICAgICAgICAgICAgICAgLmZvcmVncm91bmRDb2xvcihUaGVtZS50ZXh0UHJpbWFyeSkKICAgICAgICAgICAgR3JvdXAgewogICAgICAgICAgICAgICAgc3RhdFJvdygiRlBTIiwgU3RyaW5nKGZvcm1hdDogIiUuMWYiLCBzLmZwcykpCiAgICAgICAgICAgICAgICBzdGF0Um93KCLmjqjoq5YgKOaJiyAvIOmhlCAvIOWnv+WLoikiLAogICAgICAgICAgICAgICAgICAgICAgICBTdHJpbmcoZm9ybWF0OiAiJS4wZiAvICUuMGYgLyAlLjBmIG1zIiwgcy5oYW5kSW5mZXJlbmNlTXMsIHMuZmFjZUluZmVyZW5jZU1zLCBzLnBvc2VJbmZlcmVuY2VNcykpCiAgICAgICAgICAgICAgICBzdGF0Um93KCLmp4vmiJAgLyDjg4fjg6rjgrLjg7zjg4giLCAiXChzLmFyY2hpdGVjdHVyZSkgLyBcKHMuZGVsZWdhdGVOYW1lKSIpCiAgICAgICAgICAgICAgICBzdGF0Um93KCLpoZQiLCBzLmZhY2VQcmVzZW50ID8gIuKckyIgOiAi4oCUIikKICAgICAgICAgICAgICAgIHN0YXRSb3coIuWnv+WLoiIsIHMucG9zZVByZXNlbnQKICAgICAgICAgICAgICAgICAgICAgICAgPyAi4pyT77yI5Y+v6KaW5bqmIFwocy5wb3NlVmlzaWJpbGl0eS5tYXAgeyBTdHJpbmcoZm9ybWF0OiAiJS4yZiIsICQwKSB9ID8/ICLigJQiKe+8iSIgOiAi4oCUIikKICAgICAgICAgICAgICAgIHN0YXRSb3coIumgremDqOWnv+WLoiAoeWF3IC8gcGl0Y2gpIiwKICAgICAgICAgICAgICAgICAgICAgICAgIlwocy5oZWFkWWF3Lm1hcCB7IFN0cmluZyhmb3JtYXQ6ICIlKy4yZiIsICQwKSB9ID8/ICLigJQiKSAvIFwocy5oZWFkUGl0Y2gubWFwIHsgU3RyaW5nKGZvcm1hdDogIiUrLjJmIiwgJDApIH0gPz8gIuKAlCIpIikKICAgICAgICAgICAgICAgIHN0YXRSb3coIuW3puaJiyIsIGhhbmRTdGF0KHByZXNlbnQ6IHMubGVmdEhhbmRQcmVzZW50LCBzaWRlOiBzLmxlZnRIYW5kU2lkZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmRleDogcy5sZWZ0SW5kZXhQaW5jaCwgbWlkZGxlOiBzLmxlZnRNaWRkbGVQaW5jaCkpCiAgICAgICAgICAgICAgICBzdGF0Um93KCLlj7PmiYsiLCBoYW5kU3RhdChwcmVzZW50OiBzLnJpZ2h0SGFuZFByZXNlbnQsIHNpZGU6IHMucmlnaHRIYW5kU2lkZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbmRleDogcy5yaWdodEluZGV4UGluY2gsIG1pZGRsZTogcy5yaWdodE1pZGRsZVBpbmNoKSkKICAgICAgICAgICAgfQogICAgICAgICAgICBpZiAhcy50b3BCbGVuZHNoYXBlcy5pc0VtcHR5IHsKICAgICAgICAgICAgICAgIFRleHQoIuODluODrOODs+ODieOCt+OCp+OCpOODl+S4iuS9jSIpCiAgICAgICAgICAgICAgICAgICAgLmZvbnQoLnN1YmhlYWRsaW5lLmJvbGQoKSkKICAgICAgICAgICAgICAgICAgICAuZm9yZWdyb3VuZENvbG9yKFRoZW1lLnRleHRQcmltYXJ5KQogICAgICAgICAgICAgICAgICAgIC5wYWRkaW5nKC50b3AsIDQpCiAgICAgICAgICAgICAgICBGb3JFYWNoKEFycmF5KHMudG9wQmxlbmRzaGFwZXMuZW51bWVyYXRlZCgpKSwgaWQ6IFwub2Zmc2V0KSB7IF8sIGl0ZW0gaW4KICAgICAgICAgICAgICAgICAgICBzdGF0Um93KGl0ZW0ubmFtZSwgU3RyaW5nKGZvcm1hdDogIiUuMmYiLCBpdGVtLnNjb3JlKSkKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgICAgICBpZiBsZXQgZXJyb3IgPSBzLmVycm9yIHsKICAgICAgICAgICAgICAgIFRleHQoIuOCqOODqeODvDogXChlcnJvcikiKS5mb250KC5jYXB0aW9uKS5mb3JlZ3JvdW5kQ29sb3IoLnJlZCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICAucGFkZGluZygxNCkKICAgICAgICAuZnJhbWUobWF4V2lkdGg6IC5pbmZpbml0eSwgYWxpZ25tZW50OiAubGVhZGluZykKICAgICAgICAuYmFja2dyb3VuZChUaGVtZS5wYW5lbEZpbGwpCiAgICAgICAgLmNsaXBTaGFwZShSb3VuZGVkUmVjdGFuZ2xlKGNvcm5lclJhZGl1czogMjIpKQogICAgICAgIC5vdmVybGF5KFJvdW5kZWRSZWN0YW5nbGUoY29ybmVyUmFkaXVzOiAyMikuc3Ryb2tlKFRoZW1lLnBhbmVsU3Ryb2tlKSkKICAgIH0KCiAgICBwcml2YXRlIGZ1bmMgaGFuZFN0YXQocHJlc2VudDogQm9vbCwgc2lkZTogSGFuZFNpZGUsIGluZGV4OiBGbG9hdD8sIG1pZGRsZTogRmxvYXQ/KSAtPiBTdHJpbmcgewogICAgICAgIGd1YXJkIHByZXNlbnQgZWxzZSB7IHJldHVybiAi4oCUIiB9CiAgICAgICAgbGV0IGlkeCA9IGluZGV4Lm1hcCB7IFN0cmluZyhmb3JtYXQ6ICIlLjJmIiwgJDApIH0gPz8gIuKAlCIKICAgICAgICBsZXQgbWlkID0gbWlkZGxlLm1hcCB7IFN0cmluZyhmb3JtYXQ6ICIlLjJmIiwgJDApIH0gPz8gIuKAlCIKICAgICAgICByZXR1cm4gIuKckyBcKHNpZGUucmF3VmFsdWUp77yI44OU44Oz44OBIOS6uuW3ruOBlyBcKGlkeCkgLyDkuK3mjIcgXChtaWQp77yJIgogICAgfQoKICAgIHByaXZhdGUgZnVuYyBzdGF0Um93KF8gbGFiZWw6IFN0cmluZywgXyB2YWx1ZTogU3RyaW5nKSAtPiBzb21lIFZpZXcgewogICAgICAgIEhTdGFjayB7CiAgICAgICAgICAgIFRleHQobGFiZWwpLmZvbnQoLmZvb3Rub3RlKS5mb3JlZ3JvdW5kQ29sb3IoVGhlbWUudGV4dFNlY29uZGFyeSkKICAgICAgICAgICAgU3BhY2VyKCkKICAgICAgICAgICAgVGV4dCh2YWx1ZSkuZm9udCguZm9vdG5vdGUubW9ub3NwYWNlZERpZ2l0KCkpLmZvcmVncm91bmRDb2xvcihUaGVtZS50ZXh0UHJpbWFyeSkKICAgICAgICB9CiAgICB9CgogICAgLy8gTUFSSzogLSDliKTlrprjg5XjgqPjg7zjg4nvvIjmnIDmlrDjgYzkuIvjgIHoh6rli5Xjgrnjgq/jg63jg7zjg6vvvIkKCiAgICBwcml2YXRlIHZhciBmZWVkUGFuZWw6IHNvbWUgVmlldyB7CiAgICAgICAgVlN0YWNrKGFsaWdubWVudDogLmxlYWRpbmcsIHNwYWNpbmc6IDYpIHsKICAgICAgICAgICAgSFN0YWNrIHsKICAgICAgICAgICAgICAgIFRleHQoIuWIpOWumuODleOCo+ODvOODiSIpCiAgICAgICAgICAgICAgICAgICAgLmZvbnQoLmhlYWRsaW5lKQogICAgICAgICAgICAgICAgICAgIC5mb3JlZ3JvdW5kQ29sb3IoVGhlbWUudGV4dFByaW1hcnkpCiAgICAgICAgICAgICAgICBTcGFjZXIoKQogICAgICAgICAgICAgICAgQnV0dG9uKCLjgq/jg6rjgqIiKSB7IHZpZXdNb2RlbC5jbGVhckZlZWQoKSB9CiAgICAgICAgICAgICAgICAgICAgLmZvbnQoLmNhcHRpb24pCiAgICAgICAgICAgIH0KICAgICAgICAgICAgU2Nyb2xsVmlldyB7CiAgICAgICAgICAgICAgICBMYXp5VlN0YWNrKGFsaWdubWVudDogLmxlYWRpbmcsIHNwYWNpbmc6IDMpIHsKICAgICAgICAgICAgICAgICAgICBGb3JFYWNoKHZpZXdNb2RlbC5mZWVkRW50cmllcykgeyBlbnRyeSBpbgogICAgICAgICAgICAgICAgICAgICAgICBIU3RhY2soYWxpZ25tZW50OiAudG9wLCBzcGFjaW5nOiA2KSB7CiAgICAgICAgICAgICAgICAgICAgICAgICAgICBDaXJjbGUoKS5maWxsKGVudHJ5LnJlc3VsdC5jb2xvcikuZnJhbWUod2lkdGg6IDgsIGhlaWdodDogOCkucGFkZGluZygudG9wLCA0KQogICAgICAgICAgICAgICAgICAgICAgICAgICAgVGV4dChlbnRyeS5kaXNwbGF5TGluZSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZm9udCguY2FwdGlvbi5tb25vc3BhY2VkRGlnaXQoKSkKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAuZm9yZWdyb3VuZENvbG9yKFRoZW1lLnRleHRQcmltYXJ5KQogICAgICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgLmZyYW1lKG1heFdpZHRoOiAuaW5maW5pdHksIGFsaWdubWVudDogLmxlYWRpbmcpCiAgICAgICAgICAgIH0KICAgICAgICAgICAgLmZyYW1lKGhlaWdodDogMTgwKQogICAgICAgICAgICAuZGVmYXVsdFNjcm9sbEFuY2hvciguYm90dG9tKQogICAgICAgIH0KICAgICAgICAucGFkZGluZygxNCkKICAgICAgICAuYmFja2dyb3VuZChUaGVtZS5wYW5lbEZpbGwpCiAgICAgICAgLmNsaXBTaGFwZShSb3VuZGVkUmVjdGFuZ2xlKGNvcm5lclJhZGl1czogMjIpKQogICAgICAgIC5vdmVybGF5KFJvdW5kZWRSZWN0YW5nbGUoY29ybmVyUmFkaXVzOiAyMikuc3Ryb2tlKFRoZW1lLnBhbmVsU3Ryb2tlKSkKICAgIH0KfQo=
+import SwiftUI
+
+/// テレメトリ画面（Android 版 TelemetryActivity に対応）。
+/// 上: カメラプレビュー＋ランドマーク重ね＋判定バナー
+/// 中: プロット専用ビュー（シルエット表示はこちらだけ）
+/// 下: 統計パネル＋判定フィード
+struct ContentView: View {
+    @StateObject private var viewModel = TelemetryViewModel()
+    @AppStorage("silhouetteEnabled") private var silhouetteEnabled = true
+
+    var body: some View {
+        ZStack {
+            Theme.backgroundGradient.ignoresSafeArea()
+            ScrollView {
+                VStack(spacing: 14) {
+                    header
+                    previewPanel
+                    plotPanel
+                    statsPanel
+                    feedPanel
+                }
+                .padding(16)
+            }
+            // バージョン表示（画面右上に小さく）
+            Text("2.3.1.i")
+                .font(.caption2)
+                .foregroundColor(Theme.textSecondary)
+                .padding(10)
+                .frame(maxWidth: .infinity, maxHeight: .infinity, alignment: .topTrailing)
+                .allowsHitTesting(false)
+        }
+    }
+
+    // MARK: - ヘッダー
+
+    private var header: some View {
+        VStack(alignment: .leading, spacing: 8) {
+            Text("Mocap Controller")
+                .font(.largeTitle.bold())
+                .foregroundColor(Theme.textPrimary)
+            Text("手と顔のトラッキング テレメトリ（iPad版・判定は表示のみ）")
+                .font(.subheadline)
+                .foregroundColor(Theme.textSecondary)
+            HStack(spacing: 12) {
+                Button(viewModel.isRunning ? "キャプチャ停止" : "キャプチャ開始") {
+                    viewModel.toggle()
+                }
+                .font(.headline)
+                .padding(.horizontal, 22)
+                .padding(.vertical, 12)
+                .background(viewModel.isRunning ? Color.red.opacity(0.75) : Theme.accentBlue)
+                .foregroundColor(.white)
+                .clipShape(RoundedRectangle(cornerRadius: 16))
+                Toggle("シルエット", isOn: $silhouetteEnabled)
+                    .toggleStyle(.switch)
+                    .tint(Theme.accentGreen)
+                    .fixedSize()
+                Spacer()
+            }
+            Toggle("判定バナー＋クールダウン", isOn: $viewModel.bannerEnabled)
+                .toggleStyle(.switch)
+                .tint(Theme.accentGreen)
+                .fixedSize()
+            HStack(spacing: 12) {
+                Text("バナー表示 \(viewModel.bannerDurationSec, specifier: "%.1f")秒")
+                    .font(.footnote)
+                    .foregroundColor(Theme.textSecondary)
+                Slider(value: $viewModel.bannerDurationSec, in: 1...5, step: 0.5)
+                    .disabled(!viewModel.bannerEnabled)
+            }
+            Text("状態: \(viewModel.statusMessage)")
+                .font(.footnote)
+                .foregroundColor(Theme.textSecondary)
+        }
+    }
+
+    // MARK: - プレビュー（ランドマーク重ね＋バナー）
+
+    private var previewPanel: some View {
+        ZStack {
+            PreviewView(previewLayer: viewModel.camera.previewLayer)
+            LandmarkPlotView(snapshot: viewModel.snapshot, isPlotInstance: false)
+            if let banner = viewModel.bannerText {
+                VStack {
+                    Spacer()
+                    Text(banner)
+                        .font(.title2.bold())
+                        .foregroundColor(.white)
+                        .padding(.horizontal, 20)
+                        .padding(.vertical, 12)
+                        .background(.ultraThinMaterial)
+                        .background(Color.black.opacity(0.35))
+                        .clipShape(RoundedRectangle(cornerRadius: 18))
+                        .overlay(RoundedRectangle(cornerRadius: 18).stroke(Theme.panelStroke))
+                    Spacer().frame(height: 18)
+                }
+                .transition(.opacity)
+            }
+        }
+        .aspectRatio(4.0 / 3.0, contentMode: .fit)
+        .background(Color.black)
+        .clipShape(RoundedRectangle(cornerRadius: 22))
+        .overlay(RoundedRectangle(cornerRadius: 22).stroke(Theme.panelStroke))
+    }
+
+    // MARK: - プロット（シルエットはこちらだけ）
+
+    private var plotPanel: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            Text("プロット（シルエット表示）")
+                .font(.headline)
+                .foregroundColor(Theme.textPrimary)
+            LandmarkPlotView(snapshot: viewModel.snapshot, isPlotInstance: true,
+                             silhouetteEnabled: silhouetteEnabled)
+                .aspectRatio(4.0 / 3.0, contentMode: .fit)
+                .clipShape(RoundedRectangle(cornerRadius: 22))
+                .overlay(RoundedRectangle(cornerRadius: 22).stroke(Theme.panelStroke))
+            // 指先カラーの凡例
+            HStack(spacing: 10) {
+                ForEach(0..<5, id: \.self) { i in
+                    HStack(spacing: 4) {
+                        Circle().fill(PlotColors.fingerColors[i]).frame(width: 9, height: 9)
+                        Text(PlotColors.fingerNamesJa[i]).font(.caption2).foregroundColor(Theme.textSecondary)
+                    }
+                }
+            }
+        }
+        .padding(14)
+        .background(Theme.panelFill)
+        .clipShape(RoundedRectangle(cornerRadius: 22))
+        .overlay(RoundedRectangle(cornerRadius: 22).stroke(Theme.panelStroke))
+    }
+
+    // MARK: - 統計
+
+    private var statsPanel: some View {
+        let s = viewModel.snapshot
+        return VStack(alignment: .leading, spacing: 6) {
+            Text("統計")
+                .font(.headline)
+                .foregroundColor(Theme.textPrimary)
+            Group {
+                statRow("FPS", String(format: "%.1f", s.fps))
+                statRow("推論 (手 / 顔 / 姿勢)",
+                        String(format: "%.0f / %.0f / %.0f ms", s.handInferenceMs, s.faceInferenceMs, s.poseInferenceMs))
+                statRow("構成 / デリゲート", "\(s.architecture) / \(s.delegateName)")
+                statRow("顔", s.facePresent ? "✓" : "—")
+                statRow("姿勢", s.posePresent
+                        ? "✓（可視度 \(s.poseVisibility.map { String(format: "%.2f", $0) } ?? "—")）" : "—")
+                statRow("頭部姿勢 (yaw / pitch)",
+                        "\(s.headYaw.map { String(format: "%+.2f", $0) } ?? "—") / \(s.headPitch.map { String(format: "%+.2f", $0) } ?? "—")")
+                statRow("左手", handStat(present: s.leftHandPresent, side: s.leftHandSide,
+                                         index: s.leftIndexPinch, middle: s.leftMiddlePinch))
+                statRow("右手", handStat(present: s.rightHandPresent, side: s.rightHandSide,
+                                         index: s.rightIndexPinch, middle: s.rightMiddlePinch))
+            }
+            if !s.topBlendshapes.isEmpty {
+                Text("ブレンドシェイプ上位")
+                    .font(.subheadline.bold())
+                    .foregroundColor(Theme.textPrimary)
+                    .padding(.top, 4)
+                ForEach(Array(s.topBlendshapes.enumerated()), id: \.offset) { _, item in
+                    statRow(item.name, String(format: "%.2f", item.score))
+                }
+            }
+            if let error = s.error {
+                Text("エラー: \(error)").font(.caption).foregroundColor(.red)
+            }
+        }
+        .padding(14)
+        .frame(maxWidth: .infinity, alignment: .leading)
+        .background(Theme.panelFill)
+        .clipShape(RoundedRectangle(cornerRadius: 22))
+        .overlay(RoundedRectangle(cornerRadius: 22).stroke(Theme.panelStroke))
+    }
+
+    private func handStat(present: Bool, side: HandSide, index: Float?, middle: Float?) -> String {
+        guard present else { return "—" }
+        let idx = index.map { String(format: "%.2f", $0) } ?? "—"
+        let mid = middle.map { String(format: "%.2f", $0) } ?? "—"
+        return "✓ \(side.rawValue)（ピンチ 人差し \(idx) / 中指 \(mid)）"
+    }
+
+    private func statRow(_ label: String, _ value: String) -> some View {
+        HStack {
+            Text(label).font(.footnote).foregroundColor(Theme.textSecondary)
+            Spacer()
+            Text(value).font(.footnote.monospacedDigit()).foregroundColor(Theme.textPrimary)
+        }
+    }
+
+    // MARK: - 判定フィード（最新が下、自動スクロール）
+
+    private var feedPanel: some View {
+        VStack(alignment: .leading, spacing: 6) {
+            HStack {
+                Text("判定フィード")
+                    .font(.headline)
+                    .foregroundColor(Theme.textPrimary)
+                Spacer()
+                Button("クリア") { viewModel.clearFeed() }
+                    .font(.caption)
+            }
+            ScrollView {
+                LazyVStack(alignment: .leading, spacing: 3) {
+                    ForEach(viewModel.feedEntries) { entry in
+                        HStack(alignment: .top, spacing: 6) {
+                            Circle().fill(entry.result.color).frame(width: 8, height: 8).padding(.top, 4)
+                            Text(entry.displayLine)
+                                .font(.caption.monospacedDigit())
+                                .foregroundColor(Theme.textPrimary)
+                        }
+                    }
+                }
+                .frame(maxWidth: .infinity, alignment: .leading)
+            }
+            .frame(height: 180)
+            .defaultScrollAnchor(.bottom)
+        }
+        .padding(14)
+        .background(Theme.panelFill)
+        .clipShape(RoundedRectangle(cornerRadius: 22))
+        .overlay(RoundedRectangle(cornerRadius: 22).stroke(Theme.panelStroke))
+    }
+}
