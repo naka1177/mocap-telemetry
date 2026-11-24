@@ -1,1 +1,99 @@
-aW1wb3J0IEZvdW5kYXRpb24KaW1wb3J0IEFWRm91bmRhdGlvbgppbXBvcnQgQ29yZU1lZGlhCgovLy8g44OG44Os44Oh44OI44Oq55S76Z2i44Gu54q25oWL566h55CG44CC44Kr44Oh44OpIOKGkiBUcmFja2luZ0VuZ2luZSDihpIgSnVkZ21lbnRFbmdpbmUg44KS44Gk44Gq44GQ44CCCkBNYWluQWN0b3IKZmluYWwgY2xhc3MgVGVsZW1ldHJ5Vmlld01vZGVsOiBPYnNlcnZhYmxlT2JqZWN0IHsKICAgIEBQdWJsaXNoZWQgcHJpdmF0ZShzZXQpIHZhciBzbmFwc2hvdCA9IFRyYWNraW5nU25hcHNob3QoKQogICAgQFB1Ymxpc2hlZCBwcml2YXRlKHNldCkgdmFyIGZlZWRFbnRyaWVzOiBbRmVlZEVudHJ5XSA9IFtdCiAgICBAUHVibGlzaGVkIHByaXZhdGUoc2V0KSB2YXIgYmFubmVyVGV4dDogU3RyaW5nPyA9IG5pbAogICAgQFB1Ymxpc2hlZCBwcml2YXRlKHNldCkgdmFyIGlzUnVubmluZyA9IGZhbHNlCiAgICBAUHVibGlzaGVkIHZhciBzdGF0dXNNZXNzYWdlID0gIuWBnOatouS4rSIKCiAgICBsZXQgY2FtZXJhID0gQ2FtZXJhRmVlZFNlcnZpY2UoKQogICAgcHJpdmF0ZSBsZXQgZW5naW5lID0gVHJhY2tpbmdFbmdpbmUoKQogICAgcHJpdmF0ZSBsZXQganVkZ21lbnQgPSBKdWRnbWVudEVuZ2luZSgpCgogICAgaW5pdCgpIHsKICAgICAgICBjYW1lcmEub25GcmFtZSA9IHsgW3dlYWsgc2VsZl0gc2FtcGxlQnVmZmVyIGluCiAgICAgICAgICAgIHNlbGY/LmVuZ2luZS5kZXRlY3Qoc2FtcGxlQnVmZmVyOiBzYW1wbGVCdWZmZXIpCiAgICAgICAgfQogICAgICAgIGVuZ2luZS5vblNuYXBzaG90ID0geyBbd2VhayBzZWxmXSBzbmFwIGluCiAgICAgICAgICAgIFRhc2sgeyBATWFpbkFjdG9yIFt3ZWFrIHNlbGZdIGluCiAgICAgICAgICAgICAgICBndWFyZCBsZXQgc2VsZiA9IHNlbGYgZWxzZSB7IHJldHVybiB9CiAgICAgICAgICAgICAgICBzZWxmLmp1ZGdtZW50LnByb2Nlc3Moc25hcCkKICAgICAgICAgICAgICAgIHNlbGYuc25hcHNob3QgPSBzbmFwCiAgICAgICAgICAgICAgICBzZWxmLmZlZWRFbnRyaWVzID0gc2VsZi5qdWRnbWVudC5mZWVkLmVudHJpZXMKICAgICAgICAgICAgICAgIHNlbGYuYmFubmVyVGV4dCA9IHNlbGYuanVkZ21lbnQuYmFubmVyVGV4dAogICAgICAgICAgICAgICAgaWYgbGV0IGVycm9yID0gc25hcC5lcnJvciB7CiAgICAgICAgICAgICAgICAgICAgc2VsZi5zdGF0dXNNZXNzYWdlID0gIuWun+ihjOS4re+8iOOCqOODqeODvDogXChlcnJvcinvvIkiCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICB9CgogICAgZnVuYyB0b2dnbGUoKSB7CiAgICAgICAgaWYgaXNSdW5uaW5nIHsgc3RvcCgpIH0gZWxzZSB7IHN0YXJ0KCkgfQogICAgfQoKICAgIGZ1bmMgc3RhcnQoKSB7CiAgICAgICAgQVZDYXB0dXJlRGV2aWNlLnJlcXVlc3RBY2Nlc3MoZm9yOiAudmlkZW8pIHsgW3dlYWsgc2VsZl0gZ3JhbnRlZCBpbgogICAgICAgICAgICBUYXNrIHsgQE1haW5BY3RvciBbd2VhayBzZWxmXSBpbgogICAgICAgICAgICAgICAgZ3VhcmQgbGV0IHNlbGYgPSBzZWxmIGVsc2UgeyByZXR1cm4gfQogICAgICAgICAgICAgICAgZ3VhcmQgZ3JhbnRlZCBlbHNlIHsKICAgICAgICAgICAgICAgICAgICBzZWxmLnN0YXR1c01lc3NhZ2UgPSAi44Kr44Oh44Op6Kix5Y+v44GM5b+F6KaB44Gn44GZ77yI6Kit5a6a44Ki44OX44Oq44Gn6Kix5Y+v44GX44Gm44GP44Gg44GV44GE77yJIgogICAgICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgZG8gewogICAgICAgICAgICAgICAgICAgIHRyeSBzZWxmLmNhbWVyYS5jb25maWd1cmUoKQogICAgICAgICAgICAgICAgICAgIHRyeSBzZWxmLmVuZ2luZS5zdGFydCgpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5qdWRnbWVudC5yZXNldCgpCiAgICAgICAgICAgICAgICAgICAgc2VsZi5jYW1lcmEuc3RhcnQoKQogICAgICAgICAgICAgICAgICAgIHNlbGYuaXNSdW5uaW5nID0gdHJ1ZQogICAgICAgICAgICAgICAgICAgIHNlbGYuc3RhdHVzTWVzc2FnZSA9ICLlrp/ooYzkuK3vvIhcKHNlbGYuZW5naW5lLmRlbGVnYXRlTmFtZSkgLyBcKHNlbGYuZW5naW5lLmFyY2hpdGVjdHVyZSnvvIkiCiAgICAgICAgICAgICAgICB9IGNhdGNoIHsKICAgICAgICAgICAgICAgICAgICBzZWxmLnN0YXR1c01lc3NhZ2UgPSAi6ZaL5aeL44Gr5aSx5pWXOiBcKGVycm9yLmxvY2FsaXplZERlc2NyaXB0aW9uKSIKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KCiAgICBmdW5jIHN0b3AoKSB7CiAgICAgICAgY2FtZXJhLnN0b3AoKQogICAgICAgIGVuZ2luZS5zdG9wKCkKICAgICAgICBpc1J1bm5pbmcgPSBmYWxzZQogICAgICAgIGJhbm5lclRleHQgPSBuaWwKICAgICAgICBzdGF0dXNNZXNzYWdlID0gIuWBnOatouS4rSIKICAgIH0KCiAgICBmdW5jIGNsZWFyRmVlZCgpIHsKICAgICAgICBqdWRnbWVudC5mZWVkLmNsZWFyKCkKICAgICAgICBmZWVkRW50cmllcyA9IFtdCiAgICB9Cn0K
+import Foundation
+import AVFoundation
+import CoreMedia
+
+/// テレメトリ画面の状態管理。カメラ → TrackingEngine → JudgmentEngine をつなぐ。
+@MainActor
+final class TelemetryViewModel: ObservableObject {
+    @Published private(set) var snapshot = TrackingSnapshot()
+    @Published private(set) var feedEntries: [FeedEntry] = []
+    @Published private(set) var bannerText: String? = nil
+    @Published private(set) var isRunning = false
+    @Published var statusMessage = "停止中"
+
+    /// 判定バナー＋クールダウンのON/OFF（UserDefaultsに保存、既定ON）
+    @Published var bannerEnabled: Bool = true {
+        didSet {
+            UserDefaults.standard.set(bannerEnabled, forKey: "bannerEnabled")
+            judgment.bannerEnabled = bannerEnabled
+        }
+    }
+    /// バナー表示時間（秒、UserDefaultsに保存、既定2.5）
+    @Published var bannerDurationSec: Double = 2.5 {
+        didSet {
+            UserDefaults.standard.set(bannerDurationSec, forKey: "bannerDurationSec")
+            judgment.bannerDurationSec = bannerDurationSec
+        }
+    }
+
+    let camera = CameraFeedService()
+    private let engine = TrackingEngine()
+    private let judgment = JudgmentEngine()
+
+    init() {
+        // バナー設定を UserDefaults から復元し、判定エンジンへ反映する
+        let defaults = UserDefaults.standard
+        if defaults.object(forKey: "bannerEnabled") != nil {
+            bannerEnabled = defaults.bool(forKey: "bannerEnabled")
+        }
+        if defaults.object(forKey: "bannerDurationSec") != nil {
+            bannerDurationSec = defaults.double(forKey: "bannerDurationSec")
+        }
+        judgment.bannerEnabled = bannerEnabled
+        judgment.bannerDurationSec = bannerDurationSec
+        camera.onFrame = { [weak self] sampleBuffer in
+            self?.engine.detect(sampleBuffer: sampleBuffer)
+        }
+        engine.onSnapshot = { [weak self] snap in
+            Task { @MainActor [weak self] in
+                guard let self = self else { return }
+                self.judgment.process(snap)
+                self.snapshot = snap
+                self.feedEntries = self.judgment.feed.entries
+                self.bannerText = self.judgment.bannerText
+                if let error = snap.error {
+                    self.statusMessage = "実行中（エラー: \(error)）"
+                }
+            }
+        }
+    }
+
+    func toggle() {
+        if isRunning { stop() } else { start() }
+    }
+
+    func start() {
+        AVCaptureDevice.requestAccess(for: .video) { [weak self] granted in
+            Task { @MainActor [weak self] in
+                guard let self = self else { return }
+                guard granted else {
+                    self.statusMessage = "カメラ許可が必要です（設定アプリで許可してください）"
+                    return
+                }
+                do {
+                    try self.camera.configure()
+                    try self.engine.start()
+                    self.judgment.reset()
+                    self.camera.start()
+                    self.isRunning = true
+                    self.statusMessage = "実行中（\(self.engine.delegateName) / \(self.engine.architecture)）"
+                } catch {
+                    self.statusMessage = "開始に失敗: \(error.localizedDescription)"
+                }
+            }
+        }
+    }
+
+    func stop() {
+        camera.stop()
+        engine.stop()
+        isRunning = false
+        bannerText = nil
+        statusMessage = "停止中"
+    }
+
+    func clearFeed() {
+        judgment.feed.clear()
+        feedEntries = []
+    }
+}
