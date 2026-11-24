@@ -1,0 +1,116 @@
+name: Build unsigned IPA (Mocap Telemetry for iPad)
+
+# 署名なし .ipa をビルドして Artifact として配布する。
+# ダウンロードした .ipa は SideStore / AltStore が手元の Apple ID で再署名して入れる。
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: {}   # Actions タブから手動実行も可
+
+# .ipa を GitHub Release に添付するために必要
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: macos-latest   # 最新の Xcode が入った macOS ランナー
+    timeout-minutes: 90     # mediapipe リポジトリが大きく、SPM 解決に時間がかかる場合がある
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Show Xcode version
+        run: xcodebuild -version
+
+      # バイナリ資産（.task モデル / アイコン PNG）は Git に格納していないため CI で復元する。
+      # モデルは Google 公式 URL から取得し、SHA-256 が手元の正本と一致することを検証する。
+      - name: Fetch model files (not stored in git)
+        run: |
+          MODELS_DIR="MocapTelemetry/MocapTelemetry/Models"
+          mkdir -p "$MODELS_DIR"
+          BASE="https://storage.googleapis.com/mediapipe-models"
+          curl -sSL -o "$MODELS_DIR/hand_landmarker.task"       "$BASE/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task"
+          curl -sSL -o "$MODELS_DIR/face_landmarker.task"       "$BASE/face_landmarker/face_landmarker/float16/1/face_landmarker.task"
+          curl -sSL -o "$MODELS_DIR/pose_landmarker_lite.task"  "$BASE/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task"
+          cd "$MODELS_DIR"
+          cat > SHA256SUMS <<'EOF'
+          64184e229b263107bc2b804c6625db1341ff2bb731874b0bcc2fe6544e0bc9ff  face_landmarker.task
+          fbc2a30080c3c557093b5ddfc334698132eb341044ccee322ccf8bcf3607cde1  hand_landmarker.task
+          59929e1d1ee95287735ddd833b19cf4ac46d29bc7afddbbf6753c459690d574a  pose_landmarker_lite.task
+          EOF
+          shasum -a 256 -c SHA256SUMS
+          rm SHA256SUMS
+          ls -la
+
+      - name: Restore app icon from base64 (not stored in git)
+        run: |
+          ICONSET="MocapTelemetry/MocapTelemetry/Assets.xcassets/AppIcon.appiconset"
+          base64 -d -i "$ICONSET/AppIcon-1024.png.b64" -o "$ICONSET/AppIcon-1024.png"
+          rm "$ICONSET/AppIcon-1024.png.b64"
+          ls -la "$ICONSET"
+
+      - name: Resolve Swift package dependencies
+        working-directory: MocapTelemetry
+        run: |
+          xcodebuild -resolvePackageDependencies \
+            -project MocapTelemetry.xcodeproj \
+            -scheme MocapTelemetry
+
+      - name: Build (no code signing)
+        working-directory: MocapTelemetry
+        run: |
+          set -o pipefail
+          xcodebuild build \
+            -project MocapTelemetry.xcodeproj \
+            -scheme MocapTelemetry \
+            -configuration Release \
+            -destination 'generic/platform=iOS' \
+            -derivedDataPath "$RUNNER_TEMP/DerivedData" \
+            CODE_SIGNING_ALLOWED=NO \
+            CODE_SIGNING_REQUIRED=NO \
+            CODE_SIGNING_IDENTITY="" \
+            | tee "$RUNNER_TEMP/xcodebuild.log"
+
+      - name: Package unsigned .ipa
+        run: |
+          APP_PATH="$RUNNER_TEMP/DerivedData/Build/Products/Release-iphoneos/MocapTelemetry.app"
+          if [ ! -d "$APP_PATH" ]; then
+            echo "ERROR: .app not found at $APP_PATH"
+            ls -R "$RUNNER_TEMP/DerivedData/Build/Products" || true
+            exit 1
+          fi
+          rm -rf Payload MocapTelemetry-unsigned.ipa
+          mkdir -p Payload
+          cp -R "$APP_PATH" Payload/
+          # 念のため署名ディレクトリがあれば取り除く（SideStore 側で再署名される）
+          rm -rf "Payload/MocapTelemetry.app/_CodeSignature"
+          zip -r MocapTelemetry-unsigned.ipa Payload
+          ls -la MocapTelemetry-unsigned.ipa
+
+      - name: Upload .ipa artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: MocapTelemetry-unsigned-ipa
+          path: MocapTelemetry-unsigned.ipa
+          retention-days: 14
+
+      - name: Publish .ipa to GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: build-${{ github.run_number }}
+          name: Build ${{ github.run_number }}
+          body: |
+            署名なし .ipa（Mocap Telemetry for iPad）。
+            このページの Assets から MocapTelemetry-unsigned.ipa をダウンロードし、
+            SideStore / AltStore で再署名してインストールしてください。
+          files: MocapTelemetry-unsigned.ipa
+          fail_on_unmatched_files: true
+
+      - name: Upload build log (on failure)
+        if: failure()
+        uses: actions/upload-artifact@v4
+        with:
+          name: xcodebuild-log
+          path: ${{ runner.temp }}/xcodebuild.log
+          retention-days: 7
