@@ -22,7 +22,7 @@ struct ContentView: View {
                 .padding(16)
             }
             // バージョン表示（画面右上に小さく）
-            Text("2.3.1.i")
+            Text("1.0.1")
                 .font(.caption2)
                 .foregroundColor(Theme.textSecondary)
                 .padding(10)
