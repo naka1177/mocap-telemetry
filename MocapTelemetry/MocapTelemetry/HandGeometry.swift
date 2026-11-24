@@ -1,1 +1,142 @@
-aW1wb3J0IEZvdW5kYXRpb24KCi8vLyBBbmRyb2lkIOeJiCBIYW5kR2VvbWV0cnkua3QgLyBGYWNlR2VvbWV0cnkg44GuIFN3aWZ0IOenu+akjeOAggovLy8g5o6ML+eUsuWIpOWumuOBruespuWPt+imj+e0hOODu+ODj+OCpOODluODquODg+ODieODlOODs+ODgeavlOODu+aMh+OBruabsuOBkuWIpOWumuOBryBBbmRyb2lkIOOBqOWQjOS4gOOAggplbnVtIEhhbmRHZW9tZXRyeSB7CiAgICAvLyBNZWRpYVBpcGUg44OP44Oz44OJ44OI44Od44Ot44K444Gu44Op44Oz44OJ44Oe44O844Kv55Wq5Y+3CiAgICBzdGF0aWMgbGV0IHdyaXN0ID0gMAogICAgc3RhdGljIGxldCB0aHVtYlRpcCA9IDQKICAgIHN0YXRpYyBsZXQgaW5kZXhNQ1AgPSA1CiAgICBzdGF0aWMgbGV0IG1pZGRsZU1DUCA9IDkKICAgIHN0YXRpYyBsZXQgcGlua3lNQ1AgPSAxNwoKICAgIC8vLyDmjIflhYjjg6njg7Pjg4njg57jg7zjgq/nlarlj7fvvIjopqrmjIcsIOS6uuW3ruOBl+aMhywg5Lit5oyHLCDolqzmjIcsIOWwj+aMh++8iQogICAgc3RhdGljIGxldCB0aXBJbmRpY2VzID0gWzQsIDgsIDEyLCAxNiwgMjBdCiAgICAvLy8gUElQIOmWouevgO+8iOimquaMh+OBryBJUD0z77yJCiAgICBzdGF0aWMgbGV0IHBpcEluZGljZXMgPSBbMywgNiwgMTAsIDE0LCAxOF0KICAgIC8vLyBNQ1Ag6Zai56+A77yI6Kaq5oyH44GvIENNQyDlr4Tjgorjga4gMiDjgpLkvb/nlKgg4oCUIEFuZHJvaWQg44GuIEZpbmdlciDlrprnvqnjgajlkIznrYnvvIkKICAgIHN0YXRpYyBsZXQgbWNwSW5kaWNlcyA9IFsyLCA1LCA5LCAxMywgMTddCgogICAgLy8gTUFSSzogLSDmjowgLyDnlLIg5Yik5a6aCgogICAgLy8vIEFuZHJvaWQg44Go5ZCM44GY6KaP57SEOiBwYWxtRmFjaW5nIOKHlCAoY3ogPCAwKSA9PSBpc1JpZ2h0SGFuZAogICAgLy8vIO+8iOODn+ODqeODvOa4iOOBv+eUu+WDj+epuumWk+OBpyBhID0gaW5kZXhNQ1Ag4oiSIHdyaXN0LCBiID0gcGlua3lNQ1Ag4oiSIHdyaXN0IOOBruWkluepjSB6IOaIkOWIhu+8ieOAggogICAgLy8vIOWun+apn+OBp+WPjeWvvuOBq+OBquOBo+OBn+OCiSBQQUxNX1NJR04g44KS5Y+N6Lui44GZ44KL77yIQW5kcm9pZCDniYjjgajlkIzjgZjpgYvnlKjvvInjgIIKICAgIHByaXZhdGUgc3RhdGljIGxldCBwYWxtU2lnbiA9IDEKCiAgICBzdGF0aWMgZnVuYyBoYW5kU2lkZShoYW5kOiBbRmxvYXRdLCBpc1JpZ2h0SGFuZDogQm9vbCkgLT4gSGFuZFNpZGUgewogICAgICAgIGd1YXJkIGhhbmQuY291bnQgPj0gMjEgKiAzIGVsc2UgeyByZXR1cm4gLnVua25vd24gfQogICAgICAgIGxldCBheCA9IGhhbmRbaW5kZXhNQ1AgKiAzXSAtIGhhbmRbd3Jpc3QgKiAzXQogICAgICAgIGxldCBheSA9IGhhbmRbaW5kZXhNQ1AgKiAzICsgMV0gLSBoYW5kW3dyaXN0ICogMyArIDFdCiAgICAgICAgbGV0IGJ4ID0gaGFuZFtwaW5reU1DUCAqIDNdIC0gaGFuZFt3cmlzdCAqIDNdCiAgICAgICAgbGV0IGJ5ID0gaGFuZFtwaW5reU1DUCAqIDMgKyAxXSAtIGhhbmRbd3Jpc3QgKiAzICsgMV0KICAgICAgICBsZXQgY3ogPSBheCAqIGJ5IC0gYXkgKiBieAogICAgICAgIGlmIGFicyhjeikgPCAxZS02IHsgcmV0dXJuIC51bmtub3duIH0KICAgICAgICBsZXQgcGFsbUZhY2luZyA9ICgoY3ogPCAwKSA9PSBpc1JpZ2h0SGFuZCkgPT0gKHBhbG1TaWduID4gMCkKICAgICAgICByZXR1cm4gcGFsbUZhY2luZyA/IC5wYWxtIDogLmJhY2sKICAgIH0KCiAgICAvLyBNQVJLOiAtIOODj+OCpOODluODquODg+ODieODlOODs+ODgeavlO+8iDJEIDAuNzAgKyDjg6/jg7zjg6vjg4kzRCAwLjMw77yJCgogICAgc3RhdGljIGxldCB3M2Q6IEZsb2F0ID0gMC4zMAoKICAgIHByaXZhdGUgc3RhdGljIGZ1bmMgZGlzdDJkUHgoXyBoYW5kOiBbRmxvYXRdLCBfIGE6IEludCwgXyBiOiBJbnQsIGl3OiBGbG9hdCwgaWg6IEZsb2F0KSAtPiBGbG9hdCB7CiAgICAgICAgbGV0IGR4ID0gKGhhbmRbYSAqIDNdIC0gaGFuZFtiICogM10pICogaXcKICAgICAgICBsZXQgZHkgPSAoaGFuZFthICogMyArIDFdIC0gaGFuZFtiICogMyArIDFdKSAqIGloCiAgICAgICAgcmV0dXJuIGh5cG90KGR4LCBkeSkKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBmdW5jIGRpc3QzZChfIHdvcmxkOiBbRmxvYXRdLCBfIGE6IEludCwgXyBiOiBJbnQpIC0+IEZsb2F0IHsKICAgICAgICBsZXQgZHggPSB3b3JsZFthICogM10gLSB3b3JsZFtiICogM10KICAgICAgICBsZXQgZHkgPSB3b3JsZFthICogMyArIDFdIC0gd29ybGRbYiAqIDMgKyAxXQogICAgICAgIGxldCBkeiA9IHdvcmxkW2EgKiAzICsgMl0gLSB3b3JsZFtiICogMyArIDJdCiAgICAgICAgcmV0dXJuIHNxcnQoZHggKiBkeCArIGR5ICogZHkgKyBkeiAqIGR6KQogICAgfQoKICAgIC8vLyDmjozjga7plbfjgZXvvIjjg5Tjgq/jgrvjg6vvvIk6IHx3cmlzdCDiiJIgbWlkZGxlTUNQfOOAggogICAgc3RhdGljIGZ1bmMgcGFsbUxlbmd0aFB4KGhhbmQ6IFtGbG9hdF0sIGl3OiBGbG9hdCwgaWg6IEZsb2F0KSAtPiBGbG9hdCB7CiAgICAgICAgZGlzdDJkUHgoaGFuZCwgd3Jpc3QsIG1pZGRsZU1DUCwgaXc6IGl3LCBpaDogaWgpCiAgICB9CgogICAgLy8vIDJEIOOBruOBv+OBruODlOODs+ODgeavlO+8iOODr+ODvOODq+ODieasoOiQveaZguOBruODleOCqeODvOODq+ODkOODg+OCr++8ieOAggogICAgc3RhdGljIGZ1bmMgcGluY2hSYXRpbzJkKGhhbmQ6IFtGbG9hdF0sIGZpbmdlclRpcDogSW50LCBpdzogRmxvYXQsIGloOiBGbG9hdCkgLT4gRmxvYXQ/IHsKICAgICAgICBsZXQgcGFsbSA9IGRpc3QyZFB4KGhhbmQsIHdyaXN0LCBtaWRkbGVNQ1AsIGl3OiBpdywgaWg6IGloKQogICAgICAgIGlmIHBhbG0gPCAxZS0zIHsgcmV0dXJuIG5pbCB9CiAgICAgICAgcmV0dXJuIGRpc3QyZFB4KGhhbmQsIHRodW1iVGlwLCBmaW5nZXJUaXAsIGl3OiBpdywgaWg6IGloKSAvIHBhbG0KICAgIH0KCiAgICAvLy8g44OP44Kk44OW44Oq44OD44OJ44OU44Oz44OB5q+U44CCd29ybGQg44GM56m644Gq44KJIDJEIOOBruOBv+OAggogICAgc3RhdGljIGZ1bmMgcGluY2hSYXRpbyhoYW5kOiBbRmxvYXRdLCB3b3JsZDogW0Zsb2F0XSwgZmluZ2VyVGlwOiBJbnQsIGl3OiBGbG9hdCwgaWg6IEZsb2F0KSAtPiBGbG9hdD8gewogICAgICAgIGd1YXJkIGxldCByMmQgPSBwaW5jaFJhdGlvMmQoaGFuZDogaGFuZCwgZmluZ2VyVGlwOiBmaW5nZXJUaXAsIGl3OiBpdywgaWg6IGloKSBlbHNlIHsgcmV0dXJuIG5pbCB9CiAgICAgICAgaWYgd29ybGQuY291bnQgPCAyMSAqIDMgeyByZXR1cm4gcjJkIH0KICAgICAgICBsZXQgcGFsbTNkID0gZGlzdDNkKHdvcmxkLCB3cmlzdCwgbWlkZGxlTUNQKQogICAgICAgIGlmIHBhbG0zZCA8IDFlLTUgeyByZXR1cm4gcjJkIH0KICAgICAgICBsZXQgcjNkID0gZGlzdDNkKHdvcmxkLCB0aHVtYlRpcCwgZmluZ2VyVGlwKSAvIHBhbG0zZAogICAgICAgIHJldHVybiAoMSAtIHczZCkgKiByMmQgKyB3M2QgKiByM2QKICAgIH0KCiAgICAvLyBNQVJLOiAtIOaMh+OBrueKtuaFi++8iOS8uOWxlSAvIOWxiOabsu+8iQoKICAgIHN0YXRpYyBsZXQgZXh0ZW5kZWRBbmdsZTogRmxvYXQgPSAxNTAKICAgIHN0YXRpYyBsZXQgY3VybGVkQW5nbGU6IEZsb2F0ID0gMTI1CgogICAgZW51bSBGaW5nZXJTdGF0ZTogSW50IHsKICAgICAgICBjYXNlIGFueSA9IDAKICAgICAgICBjYXNlIGV4dGVuZGVkID0gMQogICAgICAgIGNhc2UgY3VybGVkID0gMgogICAgfQoKICAgIC8vLyBQSVAg6Zai56+A6KeS5bqm77yI5bqm77yJ44CC55yf44Gj55u044GQID0gMTgw44CCCiAgICBzdGF0aWMgZnVuYyBmaW5nZXJBbmdsZShoYW5kOiBbRmxvYXRdLCBmaW5nZXI6IEludCwgaXc6IEZsb2F0LCBpaDogRmxvYXQpIC0+IEZsb2F0IHsKICAgICAgICBsZXQgYSA9IG1jcEluZGljZXNbZmluZ2VyXSwgYiA9IHBpcEluZGljZXNbZmluZ2VyXSwgYyA9IHRpcEluZGljZXNbZmluZ2VyXQogICAgICAgIGxldCBheCA9IGhhbmRbYSAqIDNdICogaXcsIGF5ID0gaGFuZFthICogMyArIDFdICogaWgKICAgICAgICBsZXQgYnggPSBoYW5kW2IgKiAzXSAqIGl3LCBieSA9IGhhbmRbYiAqIDMgKyAxXSAqIGloCiAgICAgICAgbGV0IGN4ID0gaGFuZFtjICogM10gKiBpdywgY3kgPSBoYW5kW2MgKiAzICsgMV0gKiBpaAogICAgICAgIGxldCB2MXggPSBheCAtIGJ4LCB2MXkgPSBheSAtIGJ5CiAgICAgICAgbGV0IHYyeCA9IGN4IC0gYngsIHYyeSA9IGN5IC0gYnkKICAgICAgICBsZXQgbjEgPSBoeXBvdCh2MXgsIHYxeSksIG4yID0gaHlwb3QodjJ4LCB2MnkpCiAgICAgICAgaWYgbjEgPCAxZS0zIHx8IG4yIDwgMWUtMyB7IHJldHVybiAxODAgfQogICAgICAgIGxldCBjb3N2ID0gbWluKDEsIG1heCgtMSwgKHYxeCAqIHYyeCArIHYxeSAqIHYyeSkgLyAobjEgKiBuMikpKQogICAgICAgIHJldHVybiBGbG9hdChhY29zKERvdWJsZShjb3N2KSkgKiAxODAgLyAucGkpCiAgICB9CgogICAgLy8vIDXmjIfjgbbjgpPjga7nirbmhYvvvIjopqrmjIfihpLlsI/mjIfvvInjgIIKICAgIHN0YXRpYyBmdW5jIGZpbmdlclN0YXRlcyhoYW5kOiBbRmxvYXRdLCBpdzogRmxvYXQsIGloOiBGbG9hdCkgLT4gW0ZpbmdlclN0YXRlXSB7CiAgICAgICAgZ3VhcmQgaGFuZC5jb3VudCA+PSAyMSAqIDMgZWxzZSB7IHJldHVybiBbLmFueSwgLmFueSwgLmFueSwgLmFueSwgLmFueV0gfQogICAgICAgIHJldHVybiAoMC4uPDUpLm1hcCB7IGYgaW4KICAgICAgICAgICAgbGV0IGFuZ2xlID0gZmluZ2VyQW5nbGUoaGFuZDogaGFuZCwgZmluZ2VyOiBmLCBpdzogaXcsIGloOiBpaCkKICAgICAgICAgICAgaWYgYW5nbGUgPiBleHRlbmRlZEFuZ2xlIHsgcmV0dXJuIC5leHRlbmRlZCB9CiAgICAgICAgICAgIGlmIGFuZ2xlIDwgY3VybGVkQW5nbGUgeyByZXR1cm4gLmN1cmxlZCB9CiAgICAgICAgICAgIHJldHVybiAuYW55CiAgICAgICAgfQogICAgfQoKICAgIC8vLyDmiYvjga7lvaI6IOWFqOaMh+S8uOWxlSA9IOODkeODvCAvIOWFqOaMh+WxiOabsiA9IOaLsyAvIOOBneOCjOS7peWkliA9IG5pbO+8iOmAlOS4re+8ieOAggogICAgc3RhdGljIGZ1bmMgaGFuZFNoYXBlKGhhbmQ6IFtGbG9hdF0sIGl3OiBGbG9hdCwgaWg6IEZsb2F0KSAtPiBTdHJpbmc/IHsKICAgICAgICBsZXQgc3RhdGVzID0gZmluZ2VyU3RhdGVzKGhhbmQ6IGhhbmQsIGl3OiBpdywgaWg6IGloKQogICAgICAgIC8vIOimquaMh+OBr+iqpOWIpOWumuOBjOWkmuOBhOOBruOBp+S6uuW3ruOBl+OAnOWwj+aMh+OBrjTmjIfjgafliKTlrprvvIhBbmRyb2lkIOOBruaJi+W9oueKtuihqOekuuOBqOWQjOi2o+aXqO+8iQogICAgICAgIGxldCBmb3VyID0gQXJyYXkoc3RhdGVzWzEuLjw1XSkKICAgICAgICBpZiBmb3VyLmFsbFNhdGlzZnkoeyAkMCA9PSAuZXh0ZW5kZWQgfSkgeyByZXR1cm4gIuODkeODvCIgfQogICAgICAgIGlmIGZvdXIuYWxsU2F0aXNmeSh7ICQwID09IC5jdXJsZWQgfSkgeyByZXR1cm4gIuaLsyIgfQogICAgICAgIHJldHVybiBuaWwKICAgIH0KfQoKLy8vIOmhlOODqeODs+ODieODnuODvOOCr+W9oueKtuOBi+OCieOBrumgremDqOWnv+WLouamgueul++8iEFuZHJvaWQgRmFjZUdlb21ldHJ5IOOBruenu+akje+8ieOAggplbnVtIEZhY2VHZW9tZXRyeSB7CiAgICAvLy8gKHlhdywgcGl0Y2gpIOOCkiAtMeKApjEg44Gn6L+U44GZ44CCMCA9IOato+mdouOAguOCpOODs+ODh+ODg+OCr+OCueOBryBGYWNlIE1lc2gg44OI44Od44Ot44K444CCCiAgICBzdGF0aWMgZnVuYyBoZWFkUG9zZShmYWNlOiBbRmxvYXRdKSAtPiAoeWF3OiBGbG9hdD8sIHBpdGNoOiBGbG9hdD8pIHsKICAgICAgICBndWFyZCBmYWNlLmNvdW50ID49IDQ1NSAqIDMgZWxzZSB7IHJldHVybiAobmlsLCBuaWwpIH0KICAgICAgICBmdW5jIHgoXyBpOiBJbnQpIC0+IEZsb2F0IHsgZmFjZVtpICogM10gfQogICAgICAgIGZ1bmMgeShfIGk6IEludCkgLT4gRmxvYXQgeyBmYWNlW2kgKiAzICsgMV0gfQogICAgICAgIGxldCB3aWR0aCA9IGFicyh4KDQ1NCkgLSB4KDIzNCkpCiAgICAgICAgaWYgd2lkdGggPCAxZS00IHsgcmV0dXJuIChuaWwsIG5pbCkgfQogICAgICAgIGxldCBtaWRYID0gKHgoMjM0KSArIHgoNDU0KSkgLyAyCiAgICAgICAgbGV0IHlhdyA9IG1pbigxLCBtYXgoLTEsICgoeCgxKSAtIG1pZFgpIC8gKHdpZHRoIC8gMikpICogMS42KSkKICAgICAgICBsZXQgc3BhbiA9IHkoMTUyKSAtIHkoMTApCiAgICAgICAgaWYgYWJzKHNwYW4pIDwgMWUtNCB7IHJldHVybiAoeWF3LCBuaWwpIH0KICAgICAgICBsZXQgcGl0Y2hSYXcgPSAoeSgxKSAtIHkoMTApKSAvIHNwYW4KICAgICAgICBsZXQgcGl0Y2ggPSBtaW4oMSwgbWF4KC0xLCAocGl0Y2hSYXcgLSAwLjU1KSAvIDAuMzApKQogICAgICAgIHJldHVybiAoeWF3LCBwaXRjaCkKICAgIH0KfQo=
+import Foundation
+
+/// Android 版 HandGeometry.kt / FaceGeometry の Swift 移植。
+/// 掌/甲判定の符号規約・ハイブリッドピンチ比・指の曲げ判定は Android と同一。
+enum HandGeometry {
+    // MediaPipe ハンドトポロジのランドマーク番号
+    static let wrist = 0
+    static let thumbTip = 4
+    static let indexMCP = 5
+    static let middleMCP = 9
+    static let pinkyMCP = 17
+
+    /// 指先ランドマーク番号（親指, 人差し指, 中指, 薬指, 小指）
+    static let tipIndices = [4, 8, 12, 16, 20]
+    /// PIP 関節（親指は IP=3）
+    static let pipIndices = [3, 6, 10, 14, 18]
+    /// MCP 関節（親指は CMC 寄りの 2 を使用 — Android の Finger 定義と同等）
+    static let mcpIndices = [2, 5, 9, 13, 17]
+
+    // MARK: - 掌 / 甲 判定
+
+    /// Android と同じ規約: palmFacing ⇔ (cz < 0) == isRightHand
+    /// （ミラー済み画像空間で a = indexMCP − wrist, b = pinkyMCP − wrist の外積 z 成分）。
+    /// 実機で反対になったら PALM_SIGN を反転する（Android 版と同じ運用）。
+    private static let palmSign = 1
+
+    static func handSide(hand: [Float], isRightHand: Bool) -> HandSide {
+        guard hand.count >= 21 * 3 else { return .unknown }
+        let ax = hand[indexMCP * 3] - hand[wrist * 3]
+        let ay = hand[indexMCP * 3 + 1] - hand[wrist * 3 + 1]
+        let bx = hand[pinkyMCP * 3] - hand[wrist * 3]
+        let by = hand[pinkyMCP * 3 + 1] - hand[wrist * 3 + 1]
+        let cz = ax * by - ay * bx
+        if abs(cz) < 1e-6 { return .unknown }
+        let palmFacing = ((cz < 0) == isRightHand) == (palmSign > 0)
+        return palmFacing ? .palm : .back
+    }
+
+    // MARK: - ハイブリッドピンチ比（2D 0.70 + ワールド3D 0.30）
+
+    static let w3d: Float = 0.30
+
+    private static func dist2dPx(_ hand: [Float], _ a: Int, _ b: Int, iw: Float, ih: Float) -> Float {
+        let dx = (hand[a * 3] - hand[b * 3]) * iw
+        let dy = (hand[a * 3 + 1] - hand[b * 3 + 1]) * ih
+        return hypot(dx, dy)
+    }
+
+    private static func dist3d(_ world: [Float], _ a: Int, _ b: Int) -> Float {
+        let dx = world[a * 3] - world[b * 3]
+        let dy = world[a * 3 + 1] - world[b * 3 + 1]
+        let dz = world[a * 3 + 2] - world[b * 3 + 2]
+        return sqrt(dx * dx + dy * dy + dz * dz)
+    }
+
+    /// 掌の長さ（ピクセル）: |wrist − middleMCP|。
+    static func palmLengthPx(hand: [Float], iw: Float, ih: Float) -> Float {
+        dist2dPx(hand, wrist, middleMCP, iw: iw, ih: ih)
+    }
+
+    /// 2D のみのピンチ比（ワールド欠落時のフォールバック）。
+    static func pinchRatio2d(hand: [Float], fingerTip: Int, iw: Float, ih: Float) -> Float? {
+        let palm = dist2dPx(hand, wrist, middleMCP, iw: iw, ih: ih)
+        if palm < 1e-3 { return nil }
+        return dist2dPx(hand, thumbTip, fingerTip, iw: iw, ih: ih) / palm
+    }
+
+    /// ハイブリッドピンチ比。world が空なら 2D のみ。
+    static func pinchRatio(hand: [Float], world: [Float], fingerTip: Int, iw: Float, ih: Float) -> Float? {
+        guard let r2d = pinchRatio2d(hand: hand, fingerTip: fingerTip, iw: iw, ih: ih) else { return nil }
+        if world.count < 21 * 3 { return r2d }
+        let palm3d = dist3d(world, wrist, middleMCP)
+        if palm3d < 1e-5 { return r2d }
+        let r3d = dist3d(world, thumbTip, fingerTip) / palm3d
+        return (1 - w3d) * r2d + w3d * r3d
+    }
+
+    // MARK: - 指の状態（伸展 / 屈曲）
+
+    static let extendedAngle: Float = 150
+    static let curledAngle: Float = 125
+
+    enum FingerState: Int {
+        case any = 0
+        case extended = 1
+        case curled = 2
+    }
+
+    /// PIP 関節角度（度）。真っ直ぐ = 180。
+    static func fingerAngle(hand: [Float], finger: Int, iw: Float, ih: Float) -> Float {
+        let a = mcpIndices[finger], b = pipIndices[finger], c = tipIndices[finger]
+        let ax = hand[a * 3] * iw, ay = hand[a * 3 + 1] * ih
+        let bx = hand[b * 3] * iw, by = hand[b * 3 + 1] * ih
+        let cx = hand[c * 3] * iw, cy = hand[c * 3 + 1] * ih
+        let v1x = ax - bx, v1y = ay - by
+        let v2x = cx - bx, v2y = cy - by
+        let n1 = hypot(v1x, v1y), n2 = hypot(v2x, v2y)
+        if n1 < 1e-3 || n2 < 1e-3 { return 180 }
+        let cosv = min(1, max(-1, (v1x * v2x + v1y * v2y) / (n1 * n2)))
+        return Float(acos(Double(cosv)) * 180 / .pi)
+    }
+
+    /// 5指ぶんの状態（親指→小指）。
+    static func fingerStates(hand: [Float], iw: Float, ih: Float) -> [FingerState] {
+        guard hand.count >= 21 * 3 else { return [.any, .any, .any, .any, .any] }
+        return (0..<5).map { f in
+            let angle = fingerAngle(hand: hand, finger: f, iw: iw, ih: ih)
+            if angle > extendedAngle { return .extended }
+            if angle < curledAngle { return .curled }
+            return .any
+        }
+    }
+
+    /// 手の形: 全指伸展 = パー / 全指屈曲 = 拳 / それ以外 = nil（途中）。
+    static func handShape(hand: [Float], iw: Float, ih: Float) -> String? {
+        let states = fingerStates(hand: hand, iw: iw, ih: ih)
+        // 親指は誤判定が多いので人差し〜小指の4指で判定（Android の手形状表示と同趣旨）
+        let four = Array(states[1..<5])
+        if four.allSatisfy({ $0 == .extended }) { return "パー" }
+        if four.allSatisfy({ $0 == .curled }) { return "拳" }
+        return nil
+    }
+}
+
+/// 顔ランドマーク形状からの頭部姿勢概算（Android FaceGeometry の移植）。
+enum FaceGeometry {
+    /// (yaw, pitch) を -1…1 で返す。0 = 正面。インデックスは Face Mesh トポロジ。
+    static func headPose(face: [Float]) -> (yaw: Float?, pitch: Float?) {
+        guard face.count >= 455 * 3 else { return (nil, nil) }
+        func x(_ i: Int) -> Float { face[i * 3] }
+        func y(_ i: Int) -> Float { face[i * 3 + 1] }
+        let width = abs(x(454) - x(234))
+        if width < 1e-4 { return (nil, nil) }
+        let midX = (x(234) + x(454)) / 2
+        let yaw = min(1, max(-1, ((x(1) - midX) / (width / 2)) * 1.6))
+        let span = y(152) - y(10)
+        if abs(span) < 1e-4 { return (yaw, nil) }
+        let pitchRaw = (y(1) - y(10)) / span
+        let pitch = min(1, max(-1, (pitchRaw - 0.55) / 0.30))
+        return (yaw, pitch)
+    }
+}
