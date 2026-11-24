@@ -1,1 +1,47 @@
-aW1wb3J0IFN3aWZ0VUkKCi8vLyBBbmRyb2lkIOeJiCB2MC4zLngg44Gu44OA44O844Kv44OG44O844Oe77yI5rex44ON44Kk44OT44O8ICMwQjEyMjAg4oaSIOm7ku+8ieOBqAovLy8gTGFuZG1hcmtQbG90VmlldyDjga7mj4/nlLvoibLjgpLjgZ3jga7jgb7jgb7np7vmpI3jgZfjgZ/lrprmlbDpm4bjgIIKZW51bSBUaGVtZSB7CiAgICBzdGF0aWMgbGV0IGJhY2tncm91bmRUb3AgPSBDb2xvcihyZWQ6IDB4MEIgLyAyNTUsIGdyZWVuOiAweDEyIC8gMjU1LCBibHVlOiAweDIwIC8gMjU1KQogICAgc3RhdGljIGxldCBiYWNrZ3JvdW5kQm90dG9tID0gQ29sb3IuYmxhY2sKICAgIHN0YXRpYyBsZXQgcGFuZWxGaWxsID0gQ29sb3Iud2hpdGUub3BhY2l0eSgwLjA2KQogICAgc3RhdGljIGxldCBwYW5lbFN0cm9rZSA9IENvbG9yLndoaXRlLm9wYWNpdHkoMC4xNCkKICAgIHN0YXRpYyBsZXQgYWNjZW50Qmx1ZSA9IENvbG9yKHJlZDogMHgwQSAvIDI1NSwgZ3JlZW46IDB4ODQgLyAyNTUsIGJsdWU6IDB4RkYgLyAyNTUpCiAgICBzdGF0aWMgbGV0IGFjY2VudEdyZWVuID0gQ29sb3IocmVkOiAweDM0IC8gMjU1LCBncmVlbjogMHhDNyAvIDI1NSwgYmx1ZTogMHg1OSAvIDI1NSkKICAgIHN0YXRpYyBsZXQgdGV4dFByaW1hcnkgPSBDb2xvci53aGl0ZQogICAgc3RhdGljIGxldCB0ZXh0U2Vjb25kYXJ5ID0gQ29sb3Iud2hpdGUub3BhY2l0eSgwLjY1KQoKICAgIHN0YXRpYyB2YXIgYmFja2dyb3VuZEdyYWRpZW50OiBMaW5lYXJHcmFkaWVudCB7CiAgICAgICAgTGluZWFyR3JhZGllbnQoY29sb3JzOiBbYmFja2dyb3VuZFRvcCwgYmFja2dyb3VuZEJvdHRvbV0sCiAgICAgICAgICAgICAgICAgICAgICAgc3RhcnRQb2ludDogLnRvcCwgZW5kUG9pbnQ6IC5ib3R0b20pCiAgICB9Cn0KCi8vLyBMYW5kbWFya1Bsb3RWaWV377yIQW5kcm9pZO+8ieOBriBQYWludCDoibLjgavlr77lv5zjgZnjgosgQ2FudmFzIOeUqOOCq+ODqeODvOOAggplbnVtIFBsb3RDb2xvcnMgewogICAgLy8vIOmhlOODneOCpOODs+ODiOOCr+ODqeOCpuODiTogYXJnYigxNDAsIDAsIDIyOSwgMjU1KQogICAgc3RhdGljIGxldCBmYWNlID0gQ29sb3IocmVkOiAwLCBncmVlbjogMjI5IC8gMjU1LCBibHVlOiAxKS5vcGFjaXR5KDE0MCAvIDI1NSkKICAgIC8vLyDlp7/li6LjgrnjgrHjg6vjg4jjg7M6IHJnYigyNTUsIDIxMywgNzkpCiAgICBzdGF0aWMgbGV0IHBvc2UgPSBDb2xvcihyZWQ6IDEsIGdyZWVuOiAyMTMgLyAyNTUsIGJsdWU6IDc5IC8gMjU1KQogICAgLy8vIOW3puaJi+ODmeODvOOCuTogcmdiKDEwNSwgMjQwLCAxNzQpIOe3kQogICAgc3RhdGljIGxldCBsZWZ0QmFzZSA9IENvbG9yKHJlZDogMTA1IC8gMjU1LCBncmVlbjogMjQwIC8gMjU1LCBibHVlOiAxNzQgLyAyNTUpCiAgICAvLy8g5Y+z5omL44OZ44O844K5OiByZ2IoMjU1LCAxMzgsIDEyOCkg6LWk44OU44Oz44KvCiAgICBzdGF0aWMgbGV0IHJpZ2h0QmFzZSA9IENvbG9yKHJlZDogMSwgZ3JlZW46IDEzOCAvIDI1NSwgYmx1ZTogMTI4IC8gMjU1KQogICAgLy8vIOaOjO+8iFBBTE3vvInjg4bjgqPjg7Pjg4g6IHJnYigyNTUsIDE3NiwgNjYpIOaaluiJsuOCouODs+ODkOODvAogICAgc3RhdGljIGxldCBwYWxtVGludCA9IENvbG9yKHJlZDogMSwgZ3JlZW46IDE3NiAvIDI1NSwgYmx1ZTogNjYgLyAyNTUpCiAgICAvLy8g55Sy77yIQkFDS++8ieODhuOCo+ODs+ODiDogcmdiKDkyLCAxNTYsIDI1NSkg5Ya36Imy44OW44Or44O8CiAgICBzdGF0aWMgbGV0IGJhY2tUaW50ID0gQ29sb3IocmVkOiA5MiAvIDI1NSwgZ3JlZW46IDE1NiAvIDI1NSwgYmx1ZTogMSkKICAgIC8vLyDjgrfjg6vjgqjjg4Pjg4g6IGFyZ2IoMTAw44CcMTEwLCAxNjUsIDE2NSwgMTc4KSDljYrpgI/mmI7jgrDjg6zjg7wKICAgIHN0YXRpYyBsZXQgc2lsaG91ZXR0ZUZpbGwgPSBDb2xvcihyZWQ6IDE2NSAvIDI1NSwgZ3JlZW46IDE2NSAvIDI1NSwgYmx1ZTogMTc4IC8gMjU1KS5vcGFjaXR5KDEwMCAvIDI1NSkKICAgIHN0YXRpYyBsZXQgc2lsaG91ZXR0ZVN0cm9rZSA9IENvbG9yKHJlZDogMTY1IC8gMjU1LCBncmVlbjogMTY1IC8gMjU1LCBibHVlOiAxNzggLyAyNTUpLm9wYWNpdHkoMTEwIC8gMjU1KQogICAgLy8vIOaMh+WFiOODnuODvOOCq+ODvOiJsu+8iOS4oeaJi+WFsemAmuODu+aMh+OBlOOBqO+8iTog6Kaq5oyHPei1pCAvIOS6uuW3ruOBl+aMhz3pnZIgLyDkuK3mjIc957eRIC8g6Jas5oyHPeOCquODrOODs+OCuCAvIOWwj+aMhz3ntKsKICAgIHN0YXRpYyBsZXQgZmluZ2VyQ29sb3JzOiBbQ29sb3JdID0gWwogICAgICAgIENvbG9yKHJlZDogMSwgZ3JlZW46IDgyIC8gMjU1LCBibHVlOiA4MiAvIDI1NSksICAgICAgICAgIC8vIOimquaMhyAjRkY1MjUyCiAgICAgICAgQ29sb3IocmVkOiA2OCAvIDI1NSwgZ3JlZW46IDEzOCAvIDI1NSwgYmx1ZTogMSksICAgICAgICAgLy8g5Lq65beu44GX5oyHICM0NDhBRkYKICAgICAgICBDb2xvcihyZWQ6IDEwNSAvIDI1NSwgZ3JlZW46IDI0MCAvIDI1NSwgYmx1ZTogMTc0IC8gMjU1KSwgLy8g5Lit5oyHICM2OUYwQUUKICAgICAgICBDb2xvcihyZWQ6IDEsIGdyZWVuOiAxNzEgLyAyNTUsIGJsdWU6IDY0IC8gMjU1KSwgICAgICAgICAvLyDolqzmjIcgI0ZGQUI0MAogICAgICAgIENvbG9yKHJlZDogMTc5IC8gMjU1LCBncmVlbjogMTM2IC8gMjU1LCBibHVlOiAxKSwgICAgICAgIC8vIOWwj+aMhyAjQjM4OEZGCiAgICBdCiAgICBzdGF0aWMgbGV0IGZpbmdlck5hbWVzSmEgPSBbIuimquaMhyIsICLkurrlt67jgZfmjIciLCAi5Lit5oyHIiwgIuiWrOaMhyIsICLlsI/mjIciXQp9Cg==
+import SwiftUI
+
+/// Android 版 v0.3.x のダークテーマ（深ネイビー #0B1220 → 黒）と
+/// LandmarkPlotView の描画色をそのまま移植した定数集。
+enum Theme {
+    static let backgroundTop = Color(red: 0x0B / 255, green: 0x12 / 255, blue: 0x20 / 255)
+    static let backgroundBottom = Color.black
+    static let panelFill = Color.white.opacity(0.06)
+    static let panelStroke = Color.white.opacity(0.14)
+    static let accentBlue = Color(red: 0x0A / 255, green: 0x84 / 255, blue: 0xFF / 255)
+    static let accentGreen = Color(red: 0x34 / 255, green: 0xC7 / 255, blue: 0x59 / 255)
+    static let textPrimary = Color.white
+    static let textSecondary = Color.white.opacity(0.65)
+
+    static var backgroundGradient: LinearGradient {
+        LinearGradient(colors: [backgroundTop, backgroundBottom],
+                       startPoint: .top, endPoint: .bottom)
+    }
+}
+
+/// LandmarkPlotView（Android）の Paint 色に対応する Canvas 用カラー。
+enum PlotColors {
+    /// 顔ポイントクラウド: argb(140, 0, 229, 255)
+    static let face = Color(red: 0, green: 229 / 255, blue: 1).opacity(140 / 255)
+    /// 姿勢スケルトン: rgb(255, 213, 79)
+    static let pose = Color(red: 1, green: 213 / 255, blue: 79 / 255)
+    /// 左手ベース: rgb(105, 240, 174) 緑
+    static let leftBase = Color(red: 105 / 255, green: 240 / 255, blue: 174 / 255)
+    /// 右手ベース: rgb(255, 138, 128) 赤ピンク
+    static let rightBase = Color(red: 1, green: 138 / 255, blue: 128 / 255)
+    /// 掌（PALM）ティント: rgb(255, 176, 66) 暖色アンバー
+    static let palmTint = Color(red: 1, green: 176 / 255, blue: 66 / 255)
+    /// 甲（BACK）ティント: rgb(92, 156, 255) 冷色ブルー
+    static let backTint = Color(red: 92 / 255, green: 156 / 255, blue: 1)
+    /// シルエット: argb(100〜110, 165, 165, 178) 半透明グレー
+    static let silhouetteFill = Color(red: 165 / 255, green: 165 / 255, blue: 178 / 255).opacity(100 / 255)
+    static let silhouetteStroke = Color(red: 165 / 255, green: 165 / 255, blue: 178 / 255).opacity(110 / 255)
+    /// 指先マーカー色（両手共通・指ごと）: 親指=赤 / 人差し指=青 / 中指=緑 / 薬指=オレンジ / 小指=紫
+    static let fingerColors: [Color] = [
+        Color(red: 1, green: 82 / 255, blue: 82 / 255),          // 親指 #FF5252
+        Color(red: 68 / 255, green: 138 / 255, blue: 1),         // 人差し指 #448AFF
+        Color(red: 105 / 255, green: 240 / 255, blue: 174 / 255), // 中指 #69F0AE
+        Color(red: 1, green: 171 / 255, blue: 64 / 255),         // 薬指 #FFAB40
+        Color(red: 179 / 255, green: 136 / 255, blue: 1),        // 小指 #B388FF
+    ]
+    static let fingerNamesJa = ["親指", "人差し指", "中指", "薬指", "小指"]
+}
