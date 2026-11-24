@@ -1,1 +1,65 @@
-aW1wb3J0IFN3aWZ0VUkKCi8vLyDliKTlrprntZDmnpzjga7nqK7liKXvvIhBbmRyb2lkIOeJiCBGZWVkUmVzdWx0IOOBq+WvvuW/nOOAguacrOOCouODl+ODquOBr+Wun+ihjOezu+OCkuaMgeOBn+OBquOBhOOBn+OCgQovLy8g44CM5a6f6KGM44CN44Gv44CM5Yik5a6a44CN44Gr6Kqt44G/5pu/44GI44CB57e057+S44Oi44O844OJ55u45b2T44Gu6KGo56S644Gu44G/77yJ44CCCmVudW0gRmVlZFJlc3VsdDogU3RyaW5nIHsKICAgIGNhc2UganVkZ2VkID0gIuWIpOWumiIgICAgICAgLy8g44K444Kn44K544OB44Oj44Go44GX44Gm56K65a6a77yI44OQ44OK44O86KGo56S677yL44Kv44O844Or44OA44Km44Oz5YWl44KK77yJCiAgICBjYXNlIGluZm8gPSAi5oOF5aCxIiAgICAgICAgIC8vIOeKtuaFi+ODoeODou+8iOODlOODs+ODgeaIkOeri+ODu+OCueOCr+ODreODvOODq+ebuOW9k+OBquOBqe+8iQogICAgY2FzZSByZWplY3RlZCA9ICLmo4TljbQiICAgICAvLyDnn63jgZnjgY7jgovjg7vmm5bmmKfjgarjganjgafkuI3miJDnq4sKICAgIGNhc2Ugc3VwcHJlc3NlZCA9ICLmipHliLYiICAgLy8g44OQ44OK44O844Kv44O844Or44OA44Km44Oz5Lit44Gr55m655Sf44GX5oqR5q2i44GV44KM44GfCgogICAgdmFyIGNvbG9yOiBDb2xvciB7CiAgICAgICAgc3dpdGNoIHNlbGYgewogICAgICAgIGNhc2UgLmp1ZGdlZDogcmV0dXJuIENvbG9yKHJlZDogMHgyRSAvIDI1NSwgZ3JlZW46IDB4QTAgLyAyNTUsIGJsdWU6IDB4NDMgLyAyNTUpCiAgICAgICAgY2FzZSAuaW5mbzogcmV0dXJuIENvbG9yKHJlZDogMHg1OCAvIDI1NSwgZ3JlZW46IDB4QTYgLyAyNTUsIGJsdWU6IDB4RkYgLyAyNTUpCiAgICAgICAgY2FzZSAucmVqZWN0ZWQ6IHJldHVybiBDb2xvcihyZWQ6IDB4Q0YgLyAyNTUsIGdyZWVuOiAweDY2IC8gMjU1LCBibHVlOiAweDc5IC8gMjU1KQogICAgICAgIGNhc2UgLnN1cHByZXNzZWQ6IHJldHVybiBDb2xvcihyZWQ6IDB4RDIgLyAyNTUsIGdyZWVuOiAweDk5IC8gMjU1LCBibHVlOiAweDIyIC8gMjU1KQogICAgICAgIH0KICAgIH0KfQoKLy8vIOWIpOWumuODleOCo+ODvOODieOBrjHooYzvvIhBbmRyb2lkIOeJiCBGZWVkRW50cnkg44Gr5a++5b+c77yJ44CCCnN0cnVjdCBGZWVkRW50cnk6IElkZW50aWZpYWJsZSB7CiAgICBsZXQgaWQ6IEludAogICAgbGV0IHdhbGxUaW1lOiBEYXRlCiAgICBsZXQgaW5wdXQ6IFN0cmluZyAgICAgIC8vIOiqjeitmOOBl+OBn+WFpeWKm++8iOS+izog5Lit5oyH44OU44Oz44OB77yJCiAgICBsZXQgYWN0aW9uOiBTdHJpbmcgICAgIC8vIOWvvuW/nOOBmeOCi+aTjeS9nOWQje+8iOS+izog56K65a6a44K/44OD44OX55u45b2TIOKAu+ihqOekuuOBruOBv++8iQogICAgbGV0IGJhc2lzOiBTdHJpbmcgICAgICAvLyDmoLnmi6DlgKTvvIjjg5Tjg7Pjg4Hmr5Tjg7vkv53mjIHmmYLplpPjgarjganvvIkKICAgIGxldCByZXN1bHQ6IEZlZWRSZXN1bHQKICAgIGxldCByZWFzb246IFN0cmluZwoKICAgIHByaXZhdGUgc3RhdGljIGxldCB0aW1lRm9ybWF0OiBEYXRlRm9ybWF0dGVyID0gewogICAgICAgIGxldCBmID0gRGF0ZUZvcm1hdHRlcigpCiAgICAgICAgZi5kYXRlRm9ybWF0ID0gIkhIOm1tOnNzLlNTUyIKICAgICAgICBmLmxvY2FsZSA9IExvY2FsZShpZGVudGlmaWVyOiAiZW5fVVNfUE9TSVgiKQogICAgICAgIHJldHVybiBmCiAgICB9KCkKCiAgICB2YXIgZGlzcGxheUxpbmU6IFN0cmluZyB7CiAgICAgICAgdmFyIHMgPSAiXChTZWxmLnRpbWVGb3JtYXQuc3RyaW5nKGZyb206IHdhbGxUaW1lKSkgIFwoaW5wdXQpIOKGkiBcKGFjdGlvbikiCiAgICAgICAgaWYgIWJhc2lzLmlzRW1wdHkgeyBzICs9ICIgIFtcKGJhc2lzKV0iIH0KICAgICAgICBzICs9ICIgIOKHkiBcKHJlc3VsdC5yYXdWYWx1ZSkiCiAgICAgICAgaWYgIXJlYXNvbi5pc0VtcHR5IHsgcyArPSAiIChcKHJlYXNvbikpIiB9CiAgICAgICAgcmV0dXJuIHMKICAgIH0KfQoKLy8vIOODl+ODreOCu+OCueWFqOS9k+OBruWIpOWumuWxpeattO+8iOacgOaWsDEwMOS7tuOAgeaWsOOBl+OBhOOCguOBruOBjOS4i++8ieOAgkFuZHJvaWQg54mIIEFjdGlvbkZlZWQg44Gr5a++5b+c44CCCmZpbmFsIGNsYXNzIEFjdGlvbkZlZWQgewogICAgc3RhdGljIGxldCBtYXhFbnRyaWVzID0gMTAwCgogICAgcHJpdmF0ZShzZXQpIHZhciBlbnRyaWVzOiBbRmVlZEVudHJ5XSA9IFtdCiAgICBwcml2YXRlIHZhciBuZXh0SWQgPSAxCgogICAgQGRpc2NhcmRhYmxlUmVzdWx0CiAgICBmdW5jIHBvc3QoaW5wdXQ6IFN0cmluZywgYWN0aW9uOiBTdHJpbmcsIGJhc2lzOiBTdHJpbmcsIHJlc3VsdDogRmVlZFJlc3VsdCwgcmVhc29uOiBTdHJpbmcgPSAiIikgLT4gRmVlZEVudHJ5IHsKICAgICAgICBsZXQgZW50cnkgPSBGZWVkRW50cnkoaWQ6IG5leHRJZCwgd2FsbFRpbWU6IERhdGUoKSwgaW5wdXQ6IGlucHV0LCBhY3Rpb246IGFjdGlvbiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgYmFzaXM6IGJhc2lzLCByZXN1bHQ6IHJlc3VsdCwgcmVhc29uOiByZWFzb24pCiAgICAgICAgbmV4dElkICs9IDEKICAgICAgICBlbnRyaWVzLmFwcGVuZChlbnRyeSkKICAgICAgICBpZiBlbnRyaWVzLmNvdW50ID4gU2VsZi5tYXhFbnRyaWVzIHsgZW50cmllcy5yZW1vdmVGaXJzdChlbnRyaWVzLmNvdW50IC0gU2VsZi5tYXhFbnRyaWVzKSB9CiAgICAgICAgcmV0dXJuIGVudHJ5CiAgICB9CgogICAgZnVuYyBjbGVhcigpIHsgZW50cmllcy5yZW1vdmVBbGwoKSB9Cn0K
+import SwiftUI
+
+/// 判定結果の種別（Android 版 FeedResult に対応。本アプリは実行系を持たないため
+/// 「実行」は「判定」に読み替え、練習モード相当の表示のみ）。
+enum FeedResult: String {
+    case judged = "判定"       // ジェスチャとして確定（バナー表示＋クールダウン入り）
+    case info = "情報"         // 状態メモ（ピンチ成立・スクロール相当など）
+    case rejected = "棄却"     // 短すぎる・曖昧などで不成立
+    case suppressed = "抑制"   // バナークールダウン中に発生し抑止された
+
+    var color: Color {
+        switch self {
+        case .judged: return Color(red: 0x2E / 255, green: 0xA0 / 255, blue: 0x43 / 255)
+        case .info: return Color(red: 0x58 / 255, green: 0xA6 / 255, blue: 0xFF / 255)
+        case .rejected: return Color(red: 0xCF / 255, green: 0x66 / 255, blue: 0x79 / 255)
+        case .suppressed: return Color(red: 0xD2 / 255, green: 0x99 / 255, blue: 0x22 / 255)
+        }
+    }
+}
+
+/// 判定フィードの1行（Android 版 FeedEntry に対応）。
+struct FeedEntry: Identifiable {
+    let id: Int
+    let wallTime: Date
+    let input: String      // 認識した入力（例: 中指ピンチ）
+    let action: String     // 対応する操作名（例: 確定タップ相当 ※表示のみ）
+    let basis: String      // 根拠値（ピンチ比・保持時間など）
+    let result: FeedResult
+    let reason: String
+
+    private static let timeFormat: DateFormatter = {
+        let f = DateFormatter()
+        f.dateFormat = "HH:mm:ss.SSS"
+        f.locale = Locale(identifier: "en_US_POSIX")
+        return f
+    }()
+
+    var displayLine: String {
+        var s = "\(Self.timeFormat.string(from: wallTime))  \(input) → \(action)"
+        if !basis.isEmpty { s += "  [\(basis)]" }
+        s += "  ⇒ \(result.rawValue)"
+        if !reason.isEmpty { s += " (\(reason))" }
+        return s
+    }
+}
+
+/// プロセス全体の判定履歴（最新100件、新しいものが下）。Android 版 ActionFeed に対応。
+final class ActionFeed {
+    static let maxEntries = 100
+
+    private(set) var entries: [FeedEntry] = []
+    private var nextId = 1
+
+    @discardableResult
+    func post(input: String, action: String, basis: String, result: FeedResult, reason: String = "") -> FeedEntry {
+        let entry = FeedEntry(id: nextId, wallTime: Date(), input: input, action: action,
+                              basis: basis, result: result, reason: reason)
+        nextId += 1
+        entries.append(entry)
+        if entries.count > Self.maxEntries { entries.removeFirst(entries.count - Self.maxEntries) }
+        return entry
+    }
+
+    func clear() { entries.removeAll() }
+}
