@@ -1,1 +1,60 @@
-aW1wb3J0IEZvdW5kYXRpb24KCi8vLyBPbmUgRXVybyBGaWx0ZXLvvIhDYXNpZXogZXQgYWwu77yJ4oCUIEFuZHJvaWQg54mIIE9uZUV1cm9GaWx0ZXIua3Qg44Gu56e75qSN44CCCi8vLyDml6LlrprlgKTjgoIgQW5kcm9pZCDjgajlkIzkuIDvvIhtaW5DdXRvZmYgMS4wIC8gYmV0YSAwLjAwNyAvIGRDdXRvZmYgMS4w77yJ44CCCmZpbmFsIGNsYXNzIE9uZUV1cm9GaWx0ZXIgewogICAgcHJpdmF0ZSBsZXQgbWluQ3V0b2ZmOiBGbG9hdAogICAgcHJpdmF0ZSBsZXQgYmV0YTogRmxvYXQKICAgIHByaXZhdGUgbGV0IGRDdXRvZmY6IEZsb2F0CiAgICBwcml2YXRlIHZhciB4UHJldjogRmxvYXQ/ID0gbmlsCiAgICBwcml2YXRlIHZhciBkeFByZXY6IEZsb2F0ID0gMAogICAgcHJpdmF0ZSB2YXIgdFByZXY6IEludCA9IDAKCiAgICBpbml0KG1pbkN1dG9mZjogRmxvYXQgPSAxLjAsIGJldGE6IEZsb2F0ID0gMC4wMDcsIGRDdXRvZmY6IEZsb2F0ID0gMS4wKSB7CiAgICAgICAgc2VsZi5taW5DdXRvZmYgPSBtaW5DdXRvZmYKICAgICAgICBzZWxmLmJldGEgPSBiZXRhCiAgICAgICAgc2VsZi5kQ3V0b2ZmID0gZEN1dG9mZgogICAgfQoKICAgIHByaXZhdGUgZnVuYyBhbHBoYShjdXRvZmY6IEZsb2F0LCBkdDogRmxvYXQpIC0+IEZsb2F0IHsKICAgICAgICBsZXQgdGF1ID0gMSAvICgyICogRmxvYXQucGkgKiBjdXRvZmYpCiAgICAgICAgcmV0dXJuIDEgLyAoMSArIHRhdSAvIGR0KQogICAgfQoKICAgIGZ1bmMgZmlsdGVyKF8geDogRmxvYXQsIHRpbWVzdGFtcE1zOiBJbnQpIC0+IEZsb2F0IHsKICAgICAgICBndWFyZCBsZXQgcHJldiA9IHhQcmV2IGVsc2UgewogICAgICAgICAgICB4UHJldiA9IHg7IHRQcmV2ID0gdGltZXN0YW1wTXM7IGR4UHJldiA9IDAKICAgICAgICAgICAgcmV0dXJuIHgKICAgICAgICB9CiAgICAgICAgbGV0IGR0ID0gRmxvYXQobWF4KDEsIHRpbWVzdGFtcE1zIC0gdFByZXYpKSAvIDEwMDAKICAgICAgICB0UHJldiA9IHRpbWVzdGFtcE1zCiAgICAgICAgbGV0IGR4ID0gKHggLSBwcmV2KSAvIGR0CiAgICAgICAgbGV0IGFEID0gYWxwaGEoY3V0b2ZmOiBkQ3V0b2ZmLCBkdDogZHQpCiAgICAgICAgbGV0IGR4SGF0ID0gYUQgKiBkeCArICgxIC0gYUQpICogZHhQcmV2CiAgICAgICAgZHhQcmV2ID0gZHhIYXQKICAgICAgICBsZXQgY3V0b2ZmID0gbWluQ3V0b2ZmICsgYmV0YSAqIGFicyhkeEhhdCkKICAgICAgICBsZXQgYSA9IGFscGhhKGN1dG9mZjogY3V0b2ZmLCBkdDogZHQpCiAgICAgICAgbGV0IHhIYXQgPSBhICogeCArICgxIC0gYSkgKiBwcmV2CiAgICAgICAgeFByZXYgPSB4SGF0CiAgICAgICAgcmV0dXJuIHhIYXQKICAgIH0KCiAgICBmdW5jIHJlc2V0KCkgewogICAgICAgIHhQcmV2ID0gbmlsOyBkeFByZXYgPSAwOyB0UHJldiA9IDAKICAgIH0KfQoKLy8vIDLmrKHlhYPniYjvvIjmjIflhYjluqfmqJnnlKjvvInjgIJ4L3kg54us56uL44Gr44OV44Kj44Or44K/44GZ44KL44CCCmZpbmFsIGNsYXNzIE9uZUV1cm9GaWx0ZXIyRCB7CiAgICBwcml2YXRlIGxldCBmeCA9IE9uZUV1cm9GaWx0ZXIoKQogICAgcHJpdmF0ZSBsZXQgZnkgPSBPbmVFdXJvRmlsdGVyKCkKCiAgICBmdW5jIGZpbHRlcih4OiBGbG9hdCwgeTogRmxvYXQsIHRpbWVzdGFtcE1zOiBJbnQpIC0+IENHUG9pbnQgewogICAgICAgIENHUG9pbnQoeDogQ0dGbG9hdChmeC5maWx0ZXIoeCwgdGltZXN0YW1wTXM6IHRpbWVzdGFtcE1zKSksCiAgICAgICAgICAgICAgICB5OiBDR0Zsb2F0KGZ5LmZpbHRlcih5LCB0aW1lc3RhbXBNczogdGltZXN0YW1wTXMpKSkKICAgIH0KCiAgICBmdW5jIHJlc2V0KCkgewogICAgICAgIGZ4LnJlc2V0KCk7IGZ5LnJlc2V0KCkKICAgIH0KfQo=
+import Foundation
+
+/// One Euro Filter（Casiez et al.）— Android 版 OneEuroFilter.kt の移植。
+/// 既定値も Android と同一（minCutoff 1.0 / beta 0.007 / dCutoff 1.0）。
+final class OneEuroFilter {
+    private let minCutoff: Float
+    private let beta: Float
+    private let dCutoff: Float
+    private var xPrev: Float? = nil
+    private var dxPrev: Float = 0
+    private var tPrev: Int = 0
+
+    init(minCutoff: Float = 1.0, beta: Float = 0.007, dCutoff: Float = 1.0) {
+        self.minCutoff = minCutoff
+        self.beta = beta
+        self.dCutoff = dCutoff
+    }
+
+    private func alpha(cutoff: Float, dt: Float) -> Float {
+        let tau = 1 / (2 * Float.pi * cutoff)
+        return 1 / (1 + tau / dt)
+    }
+
+    func filter(_ x: Float, timestampMs: Int) -> Float {
+        guard let prev = xPrev else {
+            xPrev = x; tPrev = timestampMs; dxPrev = 0
+            return x
+        }
+        let dt = Float(max(1, timestampMs - tPrev)) / 1000
+        tPrev = timestampMs
+        let dx = (x - prev) / dt
+        let aD = alpha(cutoff: dCutoff, dt: dt)
+        let dxHat = aD * dx + (1 - aD) * dxPrev
+        dxPrev = dxHat
+        let cutoff = minCutoff + beta * abs(dxHat)
+        let a = alpha(cutoff: cutoff, dt: dt)
+        let xHat = a * x + (1 - a) * prev
+        xPrev = xHat
+        return xHat
+    }
+
+    func reset() {
+        xPrev = nil; dxPrev = 0; tPrev = 0
+    }
+}
+
+/// 2次元版（指先座標用）。x/y 独立にフィルタする。
+final class OneEuroFilter2D {
+    private let fx = OneEuroFilter()
+    private let fy = OneEuroFilter()
+
+    func filter(x: Float, y: Float, timestampMs: Int) -> CGPoint {
+        CGPoint(x: CGFloat(fx.filter(x, timestampMs: timestampMs)),
+                y: CGFloat(fy.filter(y, timestampMs: timestampMs)))
+    }
+
+    func reset() {
+        fx.reset(); fy.reset()
+    }
+}
