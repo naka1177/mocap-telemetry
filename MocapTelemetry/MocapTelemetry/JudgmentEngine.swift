@@ -1,1 +1,181 @@
-aW1wb3J0IEZvdW5kYXRpb24KCi8vLyDjg4bjg6zjg6Hjg4jjg6rlsILnlKjjga7liKTlrprjgqjjg7Pjgrjjg7PvvIhBbmRyb2lkIOeJiCBHZXN0dXJlRW5naW5lIOOBruWIpOWumumDqOWIhuOCkue4rue0hOenu+akje+8ieOAggovLy8KLy8vIOWun+ihjOezu++8iOOCv+ODg+ODl+ODu+ODm+ODvOODoOetie+8ieOBryBpT1Mg44Gn44Gv5a2Y5Zyo44GX44Gq44GE44Gf44KB44CB5Yik5a6a44Gv44GZ44G544Gm6KGo56S644Gu44G/44CCCi8vLyDlrp/oo4XjgZnjgovliKTlrpo6Ci8vLyAtIOS6uuW3ruOBl+aMh+ODlOODs+ODgSAvIOS4reaMh+ODlOODs+ODge+8iOODkuOCueODhuODquOCt+OCuSDlhaXiiaQwLjI1IC8g5Ye64omlMC4zNeOAgTgwbXPkv53mjIHjgafmiJDnq4vvvIkKLy8vIC0g5Lit5oyH44OU44Oz44OB5oiQ56uLID0g56K65a6a44K/44OD44OX55u45b2T44CB5Lq65beu44GX77yL5Lit5oyH44GM5Lih5pa56L+R44GE5aC05ZCI44Gv5puW5pin44Go44GX44Gm5qOE5Y20Ci8vLyAtIOefreOBmeOBjuOCi+ODlOODs+ODge+8iDwzMDBtc++8ieOBr+OAjOeEoeWKueOAjeOBqOOBl+OBpuiomOmMsgovLy8gLSDmiYvlvaLnirYg5o6M77yI44OR44O877yJ4oaS5ouzIC8g5ouz4oaS5o6M77yI44OR44O877yJIOOBrumBt+enu++8iDEuMuenkuOCpuOCo+ODs+ODieOCpu+8iQovLy8gLSDjg5Djg4rjg7zvvIvoqo3orZjjgq/jg7zjg6vjg4Djgqbjg7PvvIh2MC4zLjAg44Gu5oSP5ZGz6KuW77yJOiDliKTlrprnorrlrprjgafjg5Djg4rjg7zjgpLooajnpLrjgZfjgIEKLy8vICAg6KGo56S65Lit77yI5pei5a6aMi4156eS77yJ44Gv6Zui5pWj6KqN6K2Y44Gd44Gu44KC44Gu44KS5YGc5q2i44GZ44KL77yI6L+95bC+44O76KGo56S644Gv57aZ57aa77yJCmZpbmFsIGNsYXNzIEp1ZGdtZW50RW5naW5lIHsKICAgIC8vIEFuZHJvaWQg44Go5ZCM44GY44GX44GN44GE5YCkCiAgICBzdGF0aWMgbGV0IHBpbmNoRW50ZXI6IEZsb2F0ID0gMC4yNQogICAgc3RhdGljIGxldCBwaW5jaEV4aXQ6IEZsb2F0ID0gMC4zNQogICAgc3RhdGljIGxldCBwaW5jaEhvbGRNcyA9IDgwCiAgICBzdGF0aWMgbGV0IHNob3J0UGluY2hNcyA9IDMwMAogICAgc3RhdGljIGxldCBzaGFwZVRyYW5zaXRpb25XaW5kb3dNcyA9IDEyMDAKCiAgICAvLy8g44OQ44OK44O86KGo56S65pmC6ZaT77yI56eS77yJ44CCQW5kcm9pZCB2MC4zLjAg44Gu5pei5a6aIDIuNSDnp5LjgIIKICAgIHZhciBiYW5uZXJEdXJhdGlvblNlYzogRG91YmxlID0gMi41CgogICAgbGV0IGZlZWQgPSBBY3Rpb25GZWVkKCkKCiAgICAvLy8g54++5Zyo6KGo56S65Lit44Gu44OQ44OK44O877yIbmlsID0g6Z2e6KGo56S677yJ44CC44OG44Kt44K544OI44Gv44CM5YWl5YqbIOKGkiDmk43kvZzjgI3jgIIKICAgIHByaXZhdGUoc2V0KSB2YXIgYmFubmVyVGV4dDogU3RyaW5nPyA9IG5pbAogICAgcHJpdmF0ZSB2YXIgYmFubmVyVW50aWw6IERhdGU/ID0gbmlsCgogICAgdmFyIGlzQ29vbGluZ0Rvd246IEJvb2wgewogICAgICAgIGlmIGxldCB1bnRpbCA9IGJhbm5lclVudGlsIHsgcmV0dXJuIERhdGUoKSA8IHVudGlsIH0KICAgICAgICByZXR1cm4gZmFsc2UKICAgIH0KCiAgICBwcml2YXRlIHN0cnVjdCBQaW5jaFN0YXRlIHsKICAgICAgICB2YXIgYWN0aXZlID0gZmFsc2UKICAgICAgICB2YXIgc2luY2VNczogSW50ID0gMCAgICAgICAvLyDjgZfjgY3jgYTlgKTjgpLkuIvlm57jgorlp4vjgoHjgZ/mmYLliLsKICAgICAgICB2YXIgZXN0YWJsaXNoZWQgPSBmYWxzZSAgICAvLyA4MG1z5L+d5oyB44KS5rqA44Gf44GX44GfCiAgICB9CgogICAgcHJpdmF0ZSBzdHJ1Y3QgSGFuZFN0YXRlIHsKICAgICAgICB2YXIgaW5kZXhQaW5jaCA9IFBpbmNoU3RhdGUoKQogICAgICAgIHZhciBtaWRkbGVQaW5jaCA9IFBpbmNoU3RhdGUoKQogICAgICAgIHZhciBzaGFwZTogU3RyaW5nPyA9IG5pbCAgIC8vIOebtOi/keOBrueiuuWumuW9oueKtiAi44OR44O8IiAvICLmi7MiCiAgICAgICAgdmFyIHNoYXBlU2luY2VNczogSW50ID0gMAogICAgfQoKICAgIHByaXZhdGUgdmFyIGxlZnQgPSBIYW5kU3RhdGUoKQogICAgcHJpdmF0ZSB2YXIgcmlnaHQgPSBIYW5kU3RhdGUoKQogICAgcHJpdmF0ZSB2YXIgbGFzdEJhbm5lclBvc3RBdCA9IERhdGUuZGlzdGFudFBhc3QKCiAgICBmdW5jIHJlc2V0KCkgewogICAgICAgIGxlZnQgPSBIYW5kU3RhdGUoKTsgcmlnaHQgPSBIYW5kU3RhdGUoKQogICAgICAgIGJhbm5lclRleHQgPSBuaWw7IGJhbm5lclVudGlsID0gbmlsCiAgICAgICAgZmVlZC5jbGVhcigpCiAgICB9CgogICAgLy8vIOOCueODiuODg+ODl+OCt+ODp+ODg+ODiOOCkjHku7blh6bnkIbjgZnjgovjgILmlrDjgZfjgYTjg5XjgqPjg7zjg4nooYzjgYzlopfjgYjjgZ/jgokgdHJ1ZeOAggogICAgQGRpc2NhcmRhYmxlUmVzdWx0CiAgICBmdW5jIHByb2Nlc3MoXyBzbmFwOiBUcmFja2luZ1NuYXBzaG90KSAtPiBCb29sIHsKICAgICAgICAvLyDjg5Djg4rjg7zmnJ/pmZDliIfjgozjga7lh6bnkIbvvIjoqo3orZjlho3plovvvIkKICAgICAgICBpZiBsZXQgdW50aWwgPSBiYW5uZXJVbnRpbCwgRGF0ZSgpID49IHVudGlsIHsKICAgICAgICAgICAgYmFubmVyVGV4dCA9IG5pbDsgYmFubmVyVW50aWwgPSBuaWwKICAgICAgICB9CiAgICAgICAgbGV0IGNvb2xpbmcgPSBpc0Nvb2xpbmdEb3duCiAgICAgICAgdmFyIHBvc3RlZCA9IGZhbHNlCgogICAgICAgIGlmIHNuYXAubGVmdEhhbmRQcmVzZW50IHsKICAgICAgICAgICAgcG9zdGVkID0gcHJvY2Vzc0hhbmQoJmxlZnQsIHNuYXA6IHNuYXAsIGlzTGVmdDogdHJ1ZSwgY29vbGluZzogY29vbGluZykgfHwgcG9zdGVkCiAgICAgICAgfSBlbHNlIHsgbGVmdCA9IEhhbmRTdGF0ZSgpIH0KICAgICAgICBpZiBzbmFwLnJpZ2h0SGFuZFByZXNlbnQgewogICAgICAgICAgICBwb3N0ZWQgPSBwcm9jZXNzSGFuZCgmcmlnaHQsIHNuYXA6IHNuYXAsIGlzTGVmdDogZmFsc2UsIGNvb2xpbmc6IGNvb2xpbmcpIHx8IHBvc3RlZAogICAgICAgIH0gZWxzZSB7IHJpZ2h0ID0gSGFuZFN0YXRlKCkgfQoKICAgICAgICByZXR1cm4gcG9zdGVkCiAgICB9CgogICAgcHJpdmF0ZSBmdW5jIHByb2Nlc3NIYW5kKF8gc3RhdGU6IGlub3V0IEhhbmRTdGF0ZSwgc25hcDogVHJhY2tpbmdTbmFwc2hvdCwgaXNMZWZ0OiBCb29sLCBjb29saW5nOiBCb29sKSAtPiBCb29sIHsKICAgICAgICB2YXIgcG9zdGVkID0gZmFsc2UKICAgICAgICBsZXQgaGFuZExhYmVsID0gaXNMZWZ0ID8gIuW3puaJiyIgOiAi5Y+z5omLIgogICAgICAgIGxldCBpdyA9IEZsb2F0KHNuYXAuaW1hZ2VXaWR0aCksIGloID0gRmxvYXQoc25hcC5pbWFnZUhlaWdodCkKICAgICAgICBsZXQgaGFuZCA9IGlzTGVmdCA/IHNuYXAubGVmdEhhbmRMYW5kbWFya3MgOiBzbmFwLnJpZ2h0SGFuZExhbmRtYXJrcwogICAgICAgIGxldCBpbmRleFJhdGlvID0gaXNMZWZ0ID8gc25hcC5sZWZ0SW5kZXhQaW5jaCA6IHNuYXAucmlnaHRJbmRleFBpbmNoCiAgICAgICAgbGV0IG1pZGRsZVJhdGlvID0gaXNMZWZ0ID8gc25hcC5sZWZ0TWlkZGxlUGluY2ggOiBzbmFwLnJpZ2h0TWlkZGxlUGluY2gKICAgICAgICBsZXQgbm93ID0gc25hcC50aW1lc3RhbXBNcwoKICAgICAgICAvLyAtLS0g44OU44Oz44OB77yI5Lq65beu44GX5oyHIC8g5Lit5oyH77yJIC0tLQogICAgICAgIHBvc3RlZCA9IHVwZGF0ZVBpbmNoKCZzdGF0ZS5pbmRleFBpbmNoLCByYXRpbzogaW5kZXhSYXRpbywgbm93OiBub3csCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQ6ICJcKGhhbmRMYWJlbCkg5Lq65beu44GX5oyH44OU44Oz44OBIiwgYWN0aW9uOiAi44OJ44Op44OD44Kw77yP44K544Kv44Ot44O844Or55u45b2TIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpc0NvbmZpcm06IGZhbHNlLCBjb29saW5nOiBjb29saW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIG90aGVyQWN0aXZlOiBzdGF0ZS5taWRkbGVQaW5jaC5lc3RhYmxpc2hlZCkgfHwgcG9zdGVkCiAgICAgICAgcG9zdGVkID0gdXBkYXRlUGluY2goJnN0YXRlLm1pZGRsZVBpbmNoLCByYXRpbzogbWlkZGxlUmF0aW8sIG5vdzogbm93LAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIGlucHV0OiAiXChoYW5kTGFiZWwpIOS4reaMh+ODlOODs+ODgSIsIGFjdGlvbjogIueiuuWumuOCv+ODg+ODl+ebuOW9kyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaXNDb25maXJtOiB0cnVlLCBjb29saW5nOiBjb29saW5nLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgIG90aGVyQWN0aXZlOiBzdGF0ZS5pbmRleFBpbmNoLmVzdGFibGlzaGVkKSB8fCBwb3N0ZWQKCiAgICAgICAgLy8gLS0tIOaJi+W9oueKtuOBrumBt+enu++8iOaOjOKGkuaLsyAvIOaLs+KGkuaOjO+8iSAtLS0KICAgICAgICBpZiBsZXQgc2hhcGUgPSBIYW5kR2VvbWV0cnkuaGFuZFNoYXBlKGhhbmQ6IGhhbmQsIGl3OiBpdywgaWg6IGloKSB7CiAgICAgICAgICAgIGlmIHNoYXBlICE9IHN0YXRlLnNoYXBlIHsKICAgICAgICAgICAgICAgIGlmIGxldCBwcmV2ID0gc3RhdGUuc2hhcGUsIG5vdyAtIHN0YXRlLnNoYXBlU2luY2VNcyA8PSBTZWxmLnNoYXBlVHJhbnNpdGlvbldpbmRvd01zIHsKICAgICAgICAgICAgICAgICAgICBpZiBwcmV2ID09ICLjg5Hjg7wiICYmIHNoYXBlID09ICLmi7MiIHsKICAgICAgICAgICAgICAgICAgICAgICAgcG9zdGVkID0gZmlyZUp1ZGdtZW50KGlucHV0OiAiXChoYW5kTGFiZWwpIOaOjOKGkuaLsyIsIGFjdGlvbjogIuODm+ODvOODoOebuOW9kyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYXNpczogIumBt+enuyBcKG5vdyAtIHN0YXRlLnNoYXBlU2luY2VNcyltcyIsIGNvb2xpbmc6IGNvb2xpbmcpIHx8IHBvc3RlZAogICAgICAgICAgICAgICAgICAgIH0gZWxzZSBpZiBwcmV2ID09ICLmi7MiICYmIHNoYXBlID09ICLjg5Hjg7wiIHsKICAgICAgICAgICAgICAgICAgICAgICAgcG9zdGVkID0gZmlyZUp1ZGdtZW50KGlucHV0OiAiXChoYW5kTGFiZWwpIOaLs+KGkuaOjCIsIGFjdGlvbjogIuacgOi/keOBruOCouODl+ODquebuOW9kyIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYXNpczogIumBt+enuyBcKG5vdyAtIHN0YXRlLnNoYXBlU2luY2VNcyltcyIsIGNvb2xpbmc6IGNvb2xpbmcpIHx8IHBvc3RlZAogICAgICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgICAgIHN0YXRlLnNoYXBlID0gc2hhcGUKICAgICAgICAgICAgICAgIHN0YXRlLnNoYXBlU2luY2VNcyA9IG5vdwogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHJldHVybiBwb3N0ZWQKICAgIH0KCiAgICBwcml2YXRlIGZ1bmMgdXBkYXRlUGluY2goXyBwaW5jaDogaW5vdXQgUGluY2hTdGF0ZSwgcmF0aW86IEZsb2F0Pywgbm93OiBJbnQsCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW5wdXQ6IFN0cmluZywgYWN0aW9uOiBTdHJpbmcsIGlzQ29uZmlybTogQm9vbCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICBjb29saW5nOiBCb29sLCBvdGhlckFjdGl2ZTogQm9vbCkgLT4gQm9vbCB7CiAgICAgICAgZ3VhcmQgbGV0IHJhdGlvID0gcmF0aW8gZWxzZSB7CiAgICAgICAgICAgIHBpbmNoID0gUGluY2hTdGF0ZSgpCiAgICAgICAgICAgIHJldHVybiBmYWxzZQogICAgICAgIH0KICAgICAgICB2YXIgcG9zdGVkID0gZmFsc2UKICAgICAgICBpZiAhcGluY2guYWN0aXZlIHsKICAgICAgICAgICAgaWYgcmF0aW8gPD0gU2VsZi5waW5jaEVudGVyIHsKICAgICAgICAgICAgICAgIHBpbmNoLmFjdGl2ZSA9IHRydWUKICAgICAgICAgICAgICAgIHBpbmNoLnNpbmNlTXMgPSBub3cKICAgICAgICAgICAgICAgIHBpbmNoLmVzdGFibGlzaGVkID0gZmFsc2UKICAgICAgICAgICAgfQogICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgIGlmICFwaW5jaC5lc3RhYmxpc2hlZCAmJiBub3cgLSBwaW5jaC5zaW5jZU1zID49IFNlbGYucGluY2hIb2xkTXMgewogICAgICAgICAgICAgICAgcGluY2guZXN0YWJsaXNoZWQgPSB0cnVlCiAgICAgICAgICAgICAgICBpZiBpc0NvbmZpcm0gJiYgb3RoZXJBY3RpdmUgewogICAgICAgICAgICAgICAgICAgIC8vIOS6uuW3ruOBl++8i+S4reaMh+OBjOS4oeaWueimquaMh+OBq+i/keOBhCA9IOabluaYp+OAgkFuZHJvaWQg44Go5ZCM44GY44GP55m654Gr44GX44Gq44GE44CCCiAgICAgICAgICAgICAgICAgICAgZmVlZC5wb3N0KGlucHV0OiBpbnB1dCwgYWN0aW9uOiBhY3Rpb24sIGJhc2lzOiBTdHJpbmcoZm9ybWF0OiAi5q+UICUuMmYiLCByYXRpbyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdDogLnJlamVjdGVkLCByZWFzb246ICLmm5bmmKfvvIjkuKHjg5Tjg7Pjg4Hov5HmjqXvvIkiKQogICAgICAgICAgICAgICAgICAgIHBvc3RlZCA9IHRydWUKICAgICAgICAgICAgICAgIH0gZWxzZSBpZiBpc0NvbmZpcm0gewogICAgICAgICAgICAgICAgICAgIHBvc3RlZCA9IGZpcmVKdWRnbWVudChpbnB1dDogaW5wdXQsIGFjdGlvbjogYWN0aW9uLAogICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBiYXNpczogU3RyaW5nKGZvcm1hdDogIuavlCAlLjJmIiwgcmF0aW8pLCBjb29saW5nOiBjb29saW5nKSB8fCBwb3N0ZWQKICAgICAgICAgICAgICAgIH0gZWxzZSB7CiAgICAgICAgICAgICAgICAgICAgZmVlZC5wb3N0KGlucHV0OiBpbnB1dCwgYWN0aW9uOiBhY3Rpb24sIGJhc2lzOiBTdHJpbmcoZm9ybWF0OiAi5q+UICUuMmYiLCByYXRpbyksCiAgICAgICAgICAgICAgICAgICAgICAgICAgICAgIHJlc3VsdDogLmluZm8sIHJlYXNvbjogIuS/neaMgeS4reOBr+mAo+e2muWIpOWumiIpCiAgICAgICAgICAgICAgICAgICAgcG9zdGVkID0gdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIHJhdGlvID49IFNlbGYucGluY2hFeGl0IHsKICAgICAgICAgICAgICAgIGxldCBoZWxkID0gbm93IC0gcGluY2guc2luY2VNcwogICAgICAgICAgICAgICAgaWYgcGluY2guZXN0YWJsaXNoZWQgJiYgaGVsZCA8IFNlbGYuc2hvcnRQaW5jaE1zICYmIGlzQ29uZmlybSB7CiAgICAgICAgICAgICAgICAgICAgZmVlZC5wb3N0KGlucHV0OiBpbnB1dCwgYWN0aW9uOiAi77yI54Sh5Yq577yJIiwgYmFzaXM6ICLkv53mjIEgXChoZWxkKW1zIiwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgcmVzdWx0OiAucmVqZWN0ZWQsIHJlYXNvbjogIuefreOBmeOBjuOCi+ODlOODs+ODgSIpCiAgICAgICAgICAgICAgICAgICAgcG9zdGVkID0gdHJ1ZQogICAgICAgICAgICAgICAgfQogICAgICAgICAgICAgICAgcGluY2ggPSBQaW5jaFN0YXRlKCkKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICByZXR1cm4gcG9zdGVkCiAgICB9CgogICAgLy8vIOeiuuWumuWIpOWumjog44OQ44OK44O844KS5Ye644GX44CB6KGo56S65Lit44Gv6KqN6K2Y44Kv44O844Or44OA44Km44Oz44Gr5YWl44KL44CCCiAgICAvLy8g44Kv44O844Or44OA44Km44Oz5Lit44Gu56K65a6a44Gv44CM5oqR5Yi244CN44Go44GX44Gm6KiY6Yyy44Gg44GR44GZ44KL77yI44OQ44OK44O844Gv5bu26ZW344GX44Gq44GE77yJ44CCCiAgICBwcml2YXRlIGZ1bmMgZmlyZUp1ZGdtZW50KGlucHV0OiBTdHJpbmcsIGFjdGlvbjogU3RyaW5nLCBiYXNpczogU3RyaW5nLCBjb29saW5nOiBCb29sKSAtPiBCb29sIHsKICAgICAgICBpZiBjb29saW5nIHsKICAgICAgICAgICAgZmVlZC5wb3N0KGlucHV0OiBpbnB1dCwgYWN0aW9uOiBhY3Rpb24sIGJhc2lzOiBiYXNpcywgcmVzdWx0OiAuc3VwcHJlc3NlZCwgcmVhc29uOiAi44OQ44OK44O86KGo56S65LitIikKICAgICAgICAgICAgcmV0dXJuIHRydWUKICAgICAgICB9CiAgICAgICAgZmVlZC5wb3N0KGlucHV0OiBpbnB1dCwgYWN0aW9uOiBhY3Rpb24sIGJhc2lzOiBiYXNpcywgcmVzdWx0OiAuanVkZ2VkLCByZWFzb246ICLooajnpLrjga7jgb/vvIhpT1PniYjvvIkiKQogICAgICAgIGJhbm5lclRleHQgPSAiXChpbnB1dCkg4oaSIFwoYWN0aW9uKSIKICAgICAgICBiYW5uZXJVbnRpbCA9IERhdGUoKS5hZGRpbmdUaW1lSW50ZXJ2YWwoYmFubmVyRHVyYXRpb25TZWMpCiAgICAgICAgbGFzdEJhbm5lclBvc3RBdCA9IERhdGUoKQogICAgICAgIHJldHVybiB0cnVlCiAgICB9Cn0K
+import Foundation
+
+/// テレメトリ専用の判定エンジン（Android 版 GestureEngine の判定部分を縮約移植）。
+///
+/// 実行系（タップ・ホーム等）は iOS では存在しないため、判定はすべて表示のみ。
+/// 実装する判定:
+/// - 人差し指ピンチ / 中指ピンチ（ヒステリシス 入≤0.25 / 出≥0.35、80ms保持で成立）
+/// - 中指ピンチ成立 = 確定タップ相当、人差し＋中指が両方近い場合は曖昧として棄却
+/// - 短すぎるピンチ（<300ms）は「無効」として記録
+/// - 手形状 掌（パー）→拳 / 拳→掌（パー） の遷移（1.2秒ウィンドウ）
+/// - バナー＋認識クールダウン（v0.3.0 の意味論）: 判定確定でバナーを表示し、
+///   表示中（既定2.5秒）は離散認識そのものを停止する（追尾・表示は継続）
+///   ON/OFFトグルあり（bannerEnabled、Web版と同義）: OFF時はバナーもクールダウンも発生しない
+final class JudgmentEngine {
+    // Android と同じしきい値
+    static let pinchEnter: Float = 0.25
+    static let pinchExit: Float = 0.35
+    static let pinchHoldMs = 80
+    static let shortPinchMs = 300
+    static let shapeTransitionWindowMs = 1200
+
+    /// バナー表示時間（秒）。Android v0.3.0 の既定 2.5 秒。
+    var bannerDurationSec: Double = 2.5
+
+    /// 判定バナー＋クールダウンの有効/無効（Web版のトグルと同義、既定 ON）。
+    /// OFF のとき確定判定はフィードに記録するだけで、バナー表示も認識停止もしない。
+    var bannerEnabled: Bool = true
+
+    let feed = ActionFeed()
+
+    /// 現在表示中のバナー（nil = 非表示）。テキストは「入力 → 操作」。
+    private(set) var bannerText: String? = nil
+    private var bannerUntil: Date? = nil
+
+    var isCoolingDown: Bool {
+        if let until = bannerUntil { return Date() < until }
+        return false
+    }
+
+    private struct PinchState {
+        var active = false
+        var sinceMs: Int = 0       // しきい値を下回り始めた時刻
+        var established = false    // 80ms保持を満たした
+    }
+
+    private struct HandState {
+        var indexPinch = PinchState()
+        var middlePinch = PinchState()
+        var shape: String? = nil   // 直近の確定形状 "パー" / "拳"
+        var shapeSinceMs: Int = 0
+    }
+
+    private var left = HandState()
+    private var right = HandState()
+    private var lastBannerPostAt = Date.distantPast
+
+    func reset() {
+        left = HandState(); right = HandState()
+        bannerText = nil; bannerUntil = nil
+        feed.clear()
+    }
+
+    /// スナップショットを1件処理する。新しいフィード行が増えたら true。
+    @discardableResult
+    func process(_ snap: TrackingSnapshot) -> Bool {
+        // バナー期限切れの処理（認識再開）
+        if let until = bannerUntil, Date() >= until {
+            bannerText = nil; bannerUntil = nil
+        }
+        let cooling = isCoolingDown
+        var posted = false
+
+        if snap.leftHandPresent {
+            posted = processHand(&left, snap: snap, isLeft: true, cooling: cooling) || posted
+        } else { left = HandState() }
+        if snap.rightHandPresent {
+            posted = processHand(&right, snap: snap, isLeft: false, cooling: cooling) || posted
+        } else { right = HandState() }
+
+        return posted
+    }
+
+    private func processHand(_ state: inout HandState, snap: TrackingSnapshot, isLeft: Bool, cooling: Bool) -> Bool {
+        var posted = false
+        let handLabel = isLeft ? "左手" : "右手"
+        let iw = Float(snap.imageWidth), ih = Float(snap.imageHeight)
+        let hand = isLeft ? snap.leftHandLandmarks : snap.rightHandLandmarks
+        let indexRatio = isLeft ? snap.leftIndexPinch : snap.rightIndexPinch
+        let middleRatio = isLeft ? snap.leftMiddlePinch : snap.rightMiddlePinch
+        let now = snap.timestampMs
+
+        // --- ピンチ（人差し指 / 中指） ---
+        posted = updatePinch(&state.indexPinch, ratio: indexRatio, now: now,
+                             input: "\(handLabel) 人差し指ピンチ", action: "ドラッグ／スクロール相当",
+                             isConfirm: false, cooling: cooling,
+                             otherActive: state.middlePinch.established) || posted
+        posted = updatePinch(&state.middlePinch, ratio: middleRatio, now: now,
+                             input: "\(handLabel) 中指ピンチ", action: "確定タップ相当",
+                             isConfirm: true, cooling: cooling,
+                             otherActive: state.indexPinch.established) || posted
+
+        // --- 手形状の遷移（掌→拳 / 拳→掌） ---
+        if let shape = HandGeometry.handShape(hand: hand, iw: iw, ih: ih) {
+            if shape != state.shape {
+                if let prev = state.shape, now - state.shapeSinceMs <= Self.shapeTransitionWindowMs {
+                    if prev == "パー" && shape == "拳" {
+                        posted = fireJudgment(input: "\(handLabel) 掌→拳", action: "ホーム相当",
+                                              basis: "遷移 \(now - state.shapeSinceMs)ms", cooling: cooling) || posted
+                    } else if prev == "拳" && shape == "パー" {
+                        posted = fireJudgment(input: "\(handLabel) 拳→掌", action: "最近のアプリ相当",
+                                              basis: "遷移 \(now - state.shapeSinceMs)ms", cooling: cooling) || posted
+                    }
+                }
+                state.shape = shape
+                state.shapeSinceMs = now
+            }
+        }
+        return posted
+    }
+
+    private func updatePinch(_ pinch: inout PinchState, ratio: Float?, now: Int,
+                             input: String, action: String, isConfirm: Bool,
+                             cooling: Bool, otherActive: Bool) -> Bool {
+        guard let ratio = ratio else {
+            pinch = PinchState()
+            return false
+        }
+        var posted = false
+        if !pinch.active {
+            if ratio <= Self.pinchEnter {
+                pinch.active = true
+                pinch.sinceMs = now
+                pinch.established = false
+            }
+        } else {
+            if !pinch.established && now - pinch.sinceMs >= Self.pinchHoldMs {
+                pinch.established = true
+                if isConfirm && otherActive {
+                    // 人差し＋中指が両方親指に近い = 曖昧。Android と同じく発火しない。
+                    feed.post(input: input, action: action, basis: String(format: "比 %.2f", ratio),
+                              result: .rejected, reason: "曖昧（両ピンチ近接）")
+                    posted = true
+                } else if isConfirm {
+                    posted = fireJudgment(input: input, action: action,
+                                          basis: String(format: "比 %.2f", ratio), cooling: cooling) || posted
+                } else {
+                    feed.post(input: input, action: action, basis: String(format: "比 %.2f", ratio),
+                              result: .info, reason: "保持中は連続判定")
+                    posted = true
+                }
+            }
+            if ratio >= Self.pinchExit {
+                let held = now - pinch.sinceMs
+                if pinch.established && held < Self.shortPinchMs && isConfirm {
+                    feed.post(input: input, action: "（無効）", basis: "保持 \(held)ms",
+                              result: .rejected, reason: "短すぎるピンチ")
+                    posted = true
+                }
+                pinch = PinchState()
+            }
+        }
+        return posted
+    }
+
+    /// 確定判定: バナーを出し、表示中は認識クールダウンに入る。
+    /// クールダウン中の確定は「抑制」として記録だけする（バナーは延長しない）。
+    /// バナーOFF（bannerEnabled == false）のときはフィード記録のみで、バナーもクールダウンも発生しない。
+    private func fireJudgment(input: String, action: String, basis: String, cooling: Bool) -> Bool {
+        if cooling {
+            feed.post(input: input, action: action, basis: basis, result: .suppressed, reason: "バナー表示中")
+            return true
+        }
+        feed.post(input: input, action: action, basis: basis, result: .judged, reason: "表示のみ（iOS版）")
+        if bannerEnabled {
+            bannerText = "\(input) → \(action)"
+            bannerUntil = Date().addingTimeInterval(bannerDurationSec)
+            lastBannerPostAt = Date()
+        }
+        return true
+    }
+}
