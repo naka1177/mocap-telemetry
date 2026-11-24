@@ -1,1 +1,141 @@
-IyBNb2NhcCBDb250cm9sbGVyIOKAlCBpUGFkIOODhuODrOODoeODiOODqueJiO+8iOa6luWCmea4iOOBv+ODu+acquODk+ODq+ODie+8iQoKQW5kcm9pZCDniYggKipNb2NhcCBDb250cm9sbGVyKirvvIhgfi93b3Jrc3BhY2UvbmF0aXZlLW1vY2FwLWFwcC9g77yJ44GuICoq44OG44Os44Oh44OI44Oq55S76Z2i44Gg44GRKiog44KSCmlQYWQg5ZCR44GR44GrIFN3aWZ0L1N3aWZ0VUkg44Gn56e75qSN44GX44GfIFhjb2RlIOODl+ODreOCuOOCp+OCr+ODiOOBp+OBmeOAggrjgZPjga7jg5Xjgqnjg6vjg4Djga/jgIzjg5Pjg6vjg4nliY3jga7mupblgpnkuIDlvI/jgI3jgafjgYLjgorjgIEqKuOBvuOBoOODk+ODq+ODieOBr+Wun+ihjOOBl+OBpuOBhOOBvuOBm+OCkyoqCu+8iOOBk+OBruS9nOalreeSsOWig+OBq+OBryBtYWNPUyAvIFhjb2RlIOOBjOOBquOBhOOBn+OCgeOAguODk+ODq+ODieOBryBHaXRIdWIgQWN0aW9ucyDjgafooYzjgYbmg7PlrprjgafjgZnvvInjgIIKCiMjIOOBquOBnOODhuODrOODoeODiOODquOBoOOBkeOBquOBruOBiwoKaU9TIOOBp+OBr+S7luOCouODl+ODquOCkuaTjeS9nOOBmeOCi+S7lee1hOOBv++8iEFuZHJvaWQg44GuIEFjY2Vzc2liaWxpdHkgU2VydmljZSDnm7jlvZPvvInjgYwK44K144O844OJ44OR44O844OG44Kj44Ki44OX44Oq44Gr6ZaL5pS+44GV44KM44Gm44GE44G+44Gb44KT44CC44K/44OD44OX44O744Ob44O844Og44O75oi744KL562J44Gu44CM44K544Oe44Ob5pON5L2c44CN44GvCmlPUyDniYjjgafjga/ljp/nkIbnmoTjgavkuI3lj6/og73jgarjgZ/jgoHjgIHmnKzjgqLjg5fjg6rjga/ku6XkuIvjga4gKirooajnpLrjg7vliKTlrprlsILnlKgqKiDjgafjgZnjgIIKCi0g5YmN6Z2i44Kr44Oh44Op77yINDoz44O744Of44Op44O877yJ77yLIE1lZGlhUGlwZSDliIblibLjg4jjg6njg4Pjgq3jg7PjgrAKICAtIEhhbmQgTGFuZG1hcmtlcjog5YWo44OV44Os44O844Og77yI5Li757WM6Lev44CB44Ov44O844Or44OJ44Op44Oz44OJ44Oe44O844Kv5LuY44GN77yJCiAgLSBGYWNlIExhbmRtYXJrZXI6IOe0hDEwSHrvvIg0NzjngrnvvIvjg5bjg6zjg7Pjg4njgrfjgqfjgqTjg5fvvIkKICAtIFBvc2UgTGFuZG1hcmtlciBsaXRlOiDntIQ1SHrvvIjooajnpLrlsILnlKjvvIkKICAtIOODh+ODquOCsuODvOODiOOBryBHUFUgKE1ldGFsKSDihpIg5aSx5pWX5pmCIENQVSDjg5Xjgqnjg7zjg6vjg5Djg4Pjgq/vvIhBbmRyb2lkIOOBqOWQjOOBmOaWuemHne+8iQotIOWPr+imluWMlu+8iEFuZHJvaWQg44OG44Os44Oh44OI44Oq44Gu6KaL44Gf55uu44KS56e75qSN77yJCiAgLSDpoZTjg53jgqTjg7Pjg4jjgq/jg6njgqbjg4kgLyDlp7/li6LjgrnjgrHjg6vjg4jjg7MgLyDkuKHmiYvjgrnjgrHjg6vjg4jjg7MKICAtIOaMh+WFiOODnuODvOOCq+ODvO+8iOaMh+OBlOOBqOOBruiJsu+8i+eZveODquODs+OCsOOAgeODlOODs+ODgeS4reOBr+aLoeWkp++8i+eZuuWFie+8iQogIC0g5o6ML+eUsuODhuOCo+ODs+ODiO+8i+aJi+mmluODkOODg+OCuO+8iOWIpOWumuW8j+ODu+espuWPt+imj+e0hOOBryBBbmRyb2lkIOOBqOWQjOS4gOOAgTXjg5Xjg6zjg7zjg6DlpJrmlbDmsbrlubPmu5HljJbvvIkKICAtIOWNiumAj+aYjuOCsOODrOODvOOCt+ODq+OCqOODg+ODiO+8iOS4i+mDqOODl+ODreODg+ODiOOBruOBv+OAgemmluOBpOOBquOBjuODu+WkquOCgSDigJQgdjAuMy4xIOS7leanmO+8iQogIC0gRlBT44O744K/44K544Kv5Yil5o6o6KuW5pmC6ZaT44O744OU44Oz44OB5q+U44O76aCt6YOo5ae/5Yui44O744OW44Os44Oz44OJ44K344Kn44Kk44OX5LiK5L2N44Gu57Wx6KiI44OR44ON44OrCi0g5Yik5a6a77yIKirooajnpLrjga7jgb/jg7vlrp/ooYzjgZfjgarjgYQqKu+8iQogIC0g5Lq65beu44GX5oyHL+S4reaMh+ODlOODs+ODge+8iOODkuOCueODhuODquOCt+OCuSDlhaXiiaQwLjI1IC8g5Ye64omlMC4zNeOAgTgwbXPkv53mjIHjgIHjg4/jgqTjg5bjg6rjg4Pjg4kgMkQrM0Qg5q+U77yJCiAgLSDmjozvvIjjg5Hjg7zvvInihpLmi7MgLyDmi7PihpLmjowg44Gu6YG356e75Yik5a6aCiAgLSDliKTlrprjg5XjgqPjg7zjg4nvvIjmoLzjgrLjg7zlhaXlipvlsaXmrbTpoqjjgIHmnIDmlrAxMDDku7bvvInvvIsg5aSn5Z6L44OQ44OK44O8CiAgLSDjg5Djg4rjg7zooajnpLrkuK3vvIjml6LlrpoyLjXnp5LvvInjga/pm6LmlaPoqo3orZjjgpLmraLjgoHjgovjgq/jg7zjg6vjg4Djgqbjg7PmhI/lkbPoq5bvvIh2MC4zLjAg44Go5ZCM44GY77yJCgojIyDmp4vmiJAKCmBgYAptb2NhcC1pb3MvCuKUnOKUgOKUgCBSRUFETUUubWQgICAgICAgICAgICAgICAgICAgICAgICAjIOOBk+OBruODleOCoeOCpOODqwrilJzilIDilIAgLmdpdGh1Yi93b3JrZmxvd3MvYnVpbGQueW1sICAgICAgIyDnvbLlkI3jgarjgZcgLmlwYSDjgpLkvZzjgosgR2l0SHViIEFjdGlvbnMK4pSU4pSA4pSAIE1vY2FwVGVsZW1ldHJ5LwogICAg4pSc4pSA4pSAIE1vY2FwVGVsZW1ldHJ5Lnhjb2RlcHJvaiAgICAgIyDmiYvmm7jjgY3jg5fjg63jgrjjgqfjgq/jg4jvvIjlhbHmnInjgrnjgq3jg7zjg6Dku5jjgY3vvIkKICAgIOKUlOKUgOKUgCBNb2NhcFRlbGVtZXRyeS8KICAgICAgICDilJzilIDilIAgTW9jYXBUZWxlbWV0cnlBcHAuc3dpZnQgLyBDb250ZW50Vmlldy5zd2lmdCAvIFRlbGVtZXRyeVZpZXdNb2RlbC5zd2lmdAogICAgICAgIOKUnOKUgOKUgCBDYW1lcmFGZWVkU2VydmljZS5zd2lmdCAgIyBBVkZvdW5kYXRpb24g5YmN6Z2i44Kr44Oh44OpIDQ6M+ODu+ODn+ODqeODvAogICAgICAgIOKUnOKUgOKUgCBQcmV2aWV3Vmlldy5zd2lmdAogICAgICAgIOKUnOKUgOKUgCBUcmFja2luZ0VuZ2luZS5zd2lmdCAgICAgIyBIYW5kL0ZhY2UvUG9zZSDjga4gTElWRV9TVFJFQU0g57Wx5ZCICiAgICAgICAg4pSc4pSA4pSAIFRyYWNraW5nU25hcHNob3Quc3dpZnQgLyBIYW5kR2VvbWV0cnkuc3dpZnQgLyBPbmVFdXJvRmlsdGVyLnN3aWZ0CiAgICAgICAg4pSc4pSA4pSAIEp1ZGdtZW50RW5naW5lLnN3aWZ0IC8gQWN0aW9uRmVlZC5zd2lmdCAgICMg5Yik5a6a77yI6KGo56S644Gu44G/77yJCiAgICAgICAg4pSc4pSA4pSAIExhbmRtYXJrUGxvdFZpZXcuc3dpZnQgICAjIENhbnZhcyDmj4/nlLvvvIjjg5fjg63jg4Pjg4jvvIvjgrfjg6vjgqjjg4Pjg4jvvIkKICAgICAgICDilJzilIDilIAgVGhlbWUuc3dpZnQgICAgICAgICAgICAgICMg44OA44O844Kv44ON44Kk44OT44O844OG44O844Oe44O75o+P55S76ImyCiAgICAgICAg4pSc4pSA4pSAIEFzc2V0cy54Y2Fzc2V0cyAgICAgICAgICAjIOOCouOCpOOCs+ODs++8iOW5vuS9leWtpuaooeanmOOCkuWGjeani+aIkOOBl+OBn+S7ruOCouOCpOOCs+ODs++8iQogICAgICAgIOKUlOKUgOKUgCBNb2RlbHMvICAgICAgICAgICAgICAgICAgIyBBbmRyb2lkIOOBqOWQjOS4gOOBruODouODh+ODqzPngrnvvIjjg4/jg4Pjgrfjg6XkuIDoh7TjgpLnorroqo3muIjjgb/vvIkKICAgICAgICAgICAg4pSc4pSA4pSAIGhhbmRfbGFuZG1hcmtlci50YXNrICAgICAgICg3LjggTUIpCiAgICAgICAgICAgIOKUnOKUgOKUgCBmYWNlX2xhbmRtYXJrZXIudGFzayAgICAgICAoMy44IE1CKQogICAgICAgICAgICDilJTilIDilIAgcG9zZV9sYW5kbWFya2VyX2xpdGUudGFzayAgKDUuOCBNQikKYGBgCgotIOS+neWtmDogKipNZWRpYVBpcGVUYXNrc1Zpc2lvbioq77yIU3dpZnQgUGFja2FnZSBNYW5hZ2Vy77yJCiAgLSBVUkw6IGBodHRwczovL2dpdGh1Yi5jb20vZ29vZ2xlLWFpLWVkZ2UvbWVkaWFwaXBlYOOAgWJyYW5jaCBgbWFzdGVyYAogIC0gR29vZ2xlIOWFrOW8j+OBriBpT1Mg44K744OD44OI44Ki44OD44OX44Ks44Kk44OJ6KiY6LyJ44Gu5pa55rOV44Gd44Gu44G+44G+Ci0g5a++6LGhOiBpUGFk77yIVEFSR0VURURfREVWSUNFX0ZBTUlMWSA9IDLvvInjgIFpT1MgMTcrCi0gQnVuZGxlIElEOiBgYXBwLm11c2UubW9jYXAudGVsZW1ldHJ5YO+8iFNpZGVTdG9yZSDlho3nvbLlkI3mmYLjgavlpInjgo/jgaPjgabjgoLllY/poYzjgYLjgorjgb7jgZvjgpPvvIkKCiMjIOODk+ODq+ODieOBvuOBp+OBruaui+OCiuaJi+mghu+8iOacquWun+aWve+8iQoKPiBHaXRIdWIg44Oq44Od44K444OI44Oq44G444Gu44Ki44Kv44K744K55qip44GM5pyq56K66KqN44Gu44Gf44KB44CB44Oq44Od44K444OI44Oq5L2c5oiQ44O7cHVzaCDjga/jgb7jgaDooYzjgaPjgabjgYTjgb7jgZvjgpPjgIIKCjEuICoq44Oq44Od44K444OI44Oq44KS55So5oSP44GZ44KLKioKICAgLSBHaXRIdWIg44Gn5paw6KaP44Oq44Od44K444OI44Oq77yI5L6LOiBgbW9jYXAtaW9zYOOAgVB1YmxpYy9Qcml2YXRlIOOBqeOBoeOCieOBp+OCguWPr++8ieOCkuS9nOaIkAogICAtIOOBk+OBriBgbW9jYXAtaW9zL2Ag44OV44Kp44Or44OA44Gu5Lit6Lqr44KS44Gd44Gu44G+44G+IHB1c2gg44GZ44KLCiAgICAg77yIYC5naXRodWIvd29ya2Zsb3dzL2J1aWxkLnltbGAg44GM44Oq44Od44K444OI44Oq55u05LiL44Gr5p2l44KL5qeL5oiQ77yJCjIuICoqQWN0aW9ucyDjgpLlrp/ooYzjgZnjgosqKgogICAtIHB1c2gg44GZ44KM44Gw6Ieq5YuV44Gn6LWw44KL44CC5omL5YuV44Gq44KJIEFjdGlvbnMg44K/44OWIOKGkuOAjEJ1aWxkIHVuc2lnbmVkIElQQeOAjeKGkiBSdW4gd29ya2Zsb3cKICAgLSDliJ3lm57jga8gbWVkaWFwaXBlIOODquODneOCuOODiOODquOBjOWkp+OBjeOBhOOBn+OCgSBTUE0g6Kej5rG677yL44OT44Or44OJ44Gr5pmC6ZaT44GM44GL44GL44KL6KaL6L6844G/CiAgICAg77yI44Ov44O844Kv44OV44Ot44O844GuIHRpbWVvdXQg44GvIDkwIOWIhuOBq+ioreWumua4iOOBv++8iQozLiAqKuaIkOaenOeJqeOCkuODgOOCpuODs+ODreODvOODieOBmeOCiyoqCiAgIC0g5a6M5LqG44GX44GfIFJ1biDjga4gQXJ0aWZhY3RzIOOBi+OCiSAqKmBNb2NhcFRlbGVtZXRyeS11bnNpZ25lZC1pcGFgKiog44KS5Y+W5b6XCiAgIC0g5Lit6Lqr44Gv572y5ZCN44Gq44GX44GuIGBNb2NhcFRlbGVtZXRyeS11bnNpZ25lZC5pcGFgCiAgIC0g5aSx5pWX44GX44Gf5aC05ZCI44GvIGB4Y29kZWJ1aWxkLWxvZ2Ag44Ki44O844OG44Kj44OV44Kh44Kv44OI44Gr44Ot44Kw44GM5q6L44KLCgrjg6/jg7zjgq/jg5Xjg63jg7zjga7kuK3ouqs6IGBtYWNvcy1sYXRlc3RgIOS4iuOBpyBgeGNvZGVidWlsZCBidWlsZGAK77yIYENPREVfU0lHTklOR19BTExPV0VEPU5PYO+8ieKGkiBgLmFwcGAg44KSIGBQYXlsb2FkL2Ag44Gr5YWl44KM44GmIHppcCDjgZcgYC5pcGFgIOWMluOAggoKIyMgaVBhZCDjgbjjga7jgqTjg7Pjgrnjg4jjg7zjg6vvvIhTaWRlU3RvcmXvvInjgag35pel5pu05pawCgrjgZPjga4gLmlwYSDjga8gKirnvbLlkI3jgarjgZcqKiDjgafjgZnjgIJTaWRlU3RvcmUgLyBBbHRTdG9yZSDjgYzjgIHjgYLjgarjgZ/jga4gQXBwbGUgSUQg44GnCuWGjee9suWQjeOBl+OBpuOCpOODs+OCueODiOODvOODq+OBl+OBvuOBmeOAggoKLSAqKlNpZGVTdG9yZSDjga7liJ3mnJ/oqK3lrpoqKu+8iOWIneWbnuOBruOBv++8iTogUEPvvIhXaW5kb3dzIOWPr++8ieOBpyBTaWRlU3RvcmUg5YWs5byP5omL6aCG44Gr5b6T44GECiAg44Oa44Ki44Oq44Oz44Kw44OV44Kh44Kk44Or562J44KS55So5oSP44GZ44KL44CC5Lul5b6M44Gu5pu05paw44GvIGlQYWQg5Y2Y5L2T44Gn5Y+v6IO9Ci0gKirnhKHmlpkgQXBwbGUgSUQg44Gu5Yi26ZmQKioKICAtIOe9suWQjeOBruacieWKueacn+mZkOOBryAqKjfml6UqKuOAguacn+mZkOWIh+OCjOWJjeOBqyBTaWRlU3RvcmUg44Gn44CMUmVmcmVzaOOAjeOBmeOCi+OBqOWGjee9suWQjeOBleOCjOOBpuW7tuOBs+OCiwogICAg77yI5ZCM44GYIFdpLUZpIOWGheOBp+iHquWLleabtOaWsOOBruioreWumuOCguWPr+iDve+8iQogIC0g54Sh5paZ5p6g44Gn44Gv5ZCM5pmC44Kk44Oz44K544OI44O844Or44Gn44GN44KL44K144Kk44OJ44Ot44O844OJ44Ki44OX44Oq44Gv5pyA5aSnM+OBpOOBvuOBpwogIC0g5pyf6ZmQ44GM5YiH44KM44Gm44KC44Ki44OX44Oq44Go44OH44O844K/44Gv5raI44GI44Gq44GE44CC5YaN5bqmIFJlZnJlc2gg44GZ44KM44Gw44Gd44Gu44G+44G+5L2/44GI44KLCi0gKirmnInmlpkgQXBwbGUgRGV2ZWxvcGVyIOOCouOCq+OCpuODs+ODiO+8iOW5tCAkOTnvvIkqKiDjgarjgonnvbLlkI3jga8x5bm05pyJ5Yq544Gr44Gq44KK44CB44GT44Gu5Yi26ZmQ44Gv44G744G85raI44GI44KLCi0g44Kk44Oz44K544OI44O844Or5omL6aCG44Gu6KaB54K5OiBTaWRlU3RvcmUg44KS6ZaL44GPIOKGkuOAjCvjgI3ihpIg44OA44Km44Oz44Ot44O844OJ44GX44GfCiAgYE1vY2FwVGVsZW1ldHJ5LXVuc2lnbmVkLmlwYWAg44KS6YG444G2IOKGkiDlho3nvbLlkI3vvIbjgqTjg7Pjgrnjg4jjg7zjg6vlrozkuobjgpLlvoXjgaQKLSDliJ3lm57otbfli5XmmYLjgavjgqvjg6Hjg6noqLHlj6/jg4DjgqTjgqLjg63jgrDjgYzlh7rjgovjga7jgafoqLHlj6/jgZnjgosKCiMjIOaXouefpeOBruWItumZkOODu+azqOaEj++8iOato+ebtOOBquazqOiomO+8iQoKLSAqKuacquOCs+ODs+ODkeOCpOODqyoqOiDjgZPjga7nkrDlooPjgafjga8gWGNvZGUg44GM5L2/44GI44Gq44GE44Gf44KB44CB44Kz44Oz44OR44Kk44Or6Ieq5L2T44Gv5pyq5qSc6Ki844Gn44GZ44CCCiAg5a6f5pa944GX44Gf5qSc6Ki844Gv44CMU3dpZnQg44K944O844K544Gu5ous5byn44OQ44Op44Oz44K5IC8gcGJ4cHJvaiDjga7lj4LnhafmlbTlkIjvvIg1M+OCquODluOCuOOCp+OCr+ODiO+8iS8KICDjgrnjgq3jg7zjg6AgWE1MIC8g44Ov44O844Kv44OV44Ot44O8IFlBTUwgLyDjg6Ljg4fjg6vjga7jg4/jg4Pjgrfjg6XkuIDoh7TjgI3jgb7jgafjgIIKICDliJ3lm54gQ0kg44Gn5Z6L5ZCN44KEIEFQSSDjga7ntLDpg6jvvIjkvos6IOe1kOaenOWei+OBruODl+ODreODkeODhuOCo+WQje+8ieOBruS/ruato+OBjOW/heimgeOBq+OBquOCi+WPr+iDveaAp+OBjOOBguOCiuOBvuOBmQotICoq5ZCR44GN44Gv5qiq5ZCR44GN5YmN5o+QKio6IOOCq+ODoeODqeaOpee2muOBruWQkeOBjeOCkiBsYW5kc2NhcGVSaWdodCDjgavlm7rlrprjgZfjgabjgYTjgb7jgZnjgIIKICBpUGFkIOOCkuaoque9ruOBjeOBl+OBpuS9v+OBhuaDs+WumuOBp+OAgee4puWQkeOBjeOBp+OBr+ODl+ODrOODk+ODpeODvOOBqOmHjeOBreaPj+eUu+OBjOWbnui7ouOBl+OBvuOBmQotICoq5o6ML+eUsuOBruespuWPt+imj+e0hCoqIOOBryBBbmRyb2lkIOOBp+Wun+e4vuOBruOBguOCi+imj+e0hOOCkuOBneOBruOBvuOBvuenu+akjeOBl+OBvuOBl+OBn+OBjOOAgQogIGlQYWQg5a6f5qmf44Gn44Gu56K66KqN44Gv44G+44Gg44Gn44GZ44CC5Y+N5a++44Gg44Gj44Gf5aC05ZCI44GvIGBIYW5kR2VvbWV0cnkucGFsbVNpZ25gIOOCkuWPjei7ouOBl+OBvuOBmQotICoq5o6o6KuW5pmC6ZaT44Gu6KGo56S6Kiog44Gv44CM44Kz44O844Or44OQ44OD44Kv5pmC5Yi7IOKIkiDjg5Xjg6zjg7zjg6Djgr/jgqTjg6Djgrnjgr/jg7Pjg5fjgI3jga7mpoLnrpfjgafjgZnvvIhBbmRyb2lkIOOBqOWQjOOBmOWumue+qe+8iQotIOOCouOCpOOCs+ODs+OBryBNdXNlIOOBruW5vuS9leWtpuaooeanmOOCouODkOOCv+ODvOOCkuODouODgeODvOODleOBq+Wbs+W9ouOBp+WGjeani+aIkOOBl+OBn+S7ruOCouOCpOOCs+ODs+OBp+OBmQoKIyMgQW5kcm9pZCDniYjjgajjga7lr77lv5zooajvvIjmipznsovvvIkKCnwgQW5kcm9pZCB8IGlQYWQg54mIIHwKfC0tLXwtLS18CnwgU3BsaXRUcmFja2luZ0VuZ2luZS5rdCB8IFRyYWNraW5nRW5naW5lLnN3aWZ0IHwKfCBDYW1lcmFQaXBlbGluZS5rdO+8iENhbWVyYVjvvIkgfCBDYW1lcmFGZWVkU2VydmljZS5zd2lmdO+8iEFWRm91bmRhdGlvbu+8iSB8CnwgTGFuZG1hcmtQbG90Vmlldy5rdCB8IExhbmRtYXJrUGxvdFZpZXcuc3dpZnTvvIhTd2lmdFVJIENhbnZhc++8iSB8CnwgSGFuZEdlb21ldHJ5Lmt0IC8gRmFjZUdlb21ldHJ5IHwgSGFuZEdlb21ldHJ5LnN3aWZ0IHwKfCBHZXN0dXJlRW5naW5lLmt077yI5Yik5a6a6YOo44Gu44G/77yJIHwgSnVkZ21lbnRFbmdpbmUuc3dpZnQgfAp8IEFjdGlvbkZlZWQua3QgfCBBY3Rpb25GZWVkLnN3aWZ0IHwKfCBDYXB0dXJlU2VydmljZSAvIEFjY2Vzc2liaWxpdHkg5a6f6KGM57O7IHwgKirjgarjgZfvvIhpT1Mg44Gn44Gv5LiN5Y+v6IO944Gq44Gf44KB77yJKiogfAoKIyMgR2l0IOODquODneOCuOODiOODquOBqOODkOOCpOODiuODquizh+eUo+OBruaJseOBhO+8iENJIOaWueW8j++8iQoKR2l0SHViIOmAo+aQuu+8iE11c2Ug44Kz44ON44Kv44K/77yJ44Gu44K544OK44OD44OX44K344On44OD44OIIHB1c2gg44GvIFVURi04IOODhuOCreOCueODiOWwgueUqOOBruOBn+OCgeOAgQrjg5DjgqTjg4rjg6rjga/jgZ3jga7jgb7jgb7jgafjga/jg6rjg53jgrjjg4jjg6rjgavlhaXjgozjgonjgozjgb7jgZvjgpPjgILjgZ3jgZPjgafmrKHjga7mlrnlvI/jgavjgZfjgabjgYTjgb7jgZkK77yI5qyg6JC944Gn44Gv44Gq44GP44CBQ0kg44Gn5q2j5pys44Go5ZCM5LiA54mp44KS5b6p5YWD44GX44G+44GZ77yJ44CCCgotICoq44Oi44OH44OrIDMg54K577yILnRhc2vvvIkqKjog44Oq44Od44K444OI44Oq44Gr5qC857SN44GX44G+44Gb44KT44CCQ0nvvIhidWlsZC55bWzvvInjgYwKICBHb29nbGUg5YWs5byPIFVSTCDjgYvjgonlj5blvpfjgZfjgIFTSEEtMjU2IOOBjOaJi+WFg+OBruato+acrOOBqOS4gOiHtOOBmeOCi+OBk+OBqOOCkuaknOiovOOBl+OBpuOBi+OCiQogIOODk+ODq+ODieOBl+OBvuOBme+8iOaknOiovOeUqOODj+ODg+OCt+ODpeOBryBidWlsZC55bWwg44Gr5Zu65a6a6KiY6LyJ77yJ44CCCiAgLSBoYW5kX2xhbmRtYXJrZXIudGFzazogYGh0dHBzOi8vc3RvcmFnZS5nb29nbGVhcGlzLmNvbS9tZWRpYXBpcGUtbW9kZWxzL2hhbmRfbGFuZG1hcmtlci9oYW5kX2xhbmRtYXJrZXIvZmxvYXQxNi8xL2hhbmRfbGFuZG1hcmtlci50YXNrYAogIC0gZmFjZV9sYW5kbWFya2VyLnRhc2s6IGBodHRwczovL3N0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vbWVkaWFwaXBlLW1vZGVscy9mYWNlX2xhbmRtYXJrZXIvZmFjZV9sYW5kbWFya2VyL2Zsb2F0MTYvMS9mYWNlX2xhbmRtYXJrZXIudGFza2AKICAtIHBvc2VfbGFuZG1hcmtlcl9saXRlLnRhc2s6IGBodHRwczovL3N0b3JhZ2UuZ29vZ2xlYXBpcy5jb20vbWVkaWFwaXBlLW1vZGVscy9wb3NlX2xhbmRtYXJrZXIvcG9zZV9sYW5kbWFya2VyX2xpdGUvZmxvYXQxNi8xL3Bvc2VfbGFuZG1hcmtlcl9saXRlLnRhc2tgCiAgLSDjg63jg7zjgqvjg6vjgacgWGNvZGUg44OT44Or44OJ44GZ44KL5aC05ZCI44Gv44CB5LiK6KiYIFVSTCDjgYvjgonlj5blvpfjgZfjgaYKICAgIGBNb2NhcFRlbGVtZXRyeS9Nb2NhcFRlbGVtZXRyeS9Nb2RlbHMvYCDjgavnva7jgYTjgabjgY/jgaDjgZXjgYTjgIIKLSAqKuOCouODl+ODquOCouOCpOOCs+ODs++8iEFwcEljb24tMTAyNC5wbmfvvIkqKjogYmFzZTY0IOODhuOCreOCueODiAogIGBBcHBJY29uLmFwcGljb25zZXQvQXBwSWNvbi0xMDI0LnBuZy5iNjRgIOOBqOOBl+OBpuagvOe0jeOBl+OAgUNJIOOBjCBQTkcg44Gr5b6p5YWD44GX44G+44GZ44CCCi0gKirphY3luIMqKjogQ0kg5oiQ5Yqf5pmC44CBYC5pcGFgIOOBryBBY3Rpb25zIOOBriBBcnRpZmFjdCDjgavliqDjgYjjgaYKICBHaXRIdWIgUmVsZWFzZe+8iOOCv+OCsCBgYnVpbGQtPOWun+ihjOeVquWPtz5g77yJ44Gr44KC5re75LuY44GV44KM44G+44GZ44CCCiAg44OA44Km44Oz44Ot44O844OJ44GvIFJlbGVhc2Ug44Oa44O844K444GuIEFzc2V0cyDjgYvjgonooYzjgYjjgb7jgZnjgIIK
+# Mocap Controller — iPad テレメトリ版（準備済み・未ビルド）
+
+Android 版 **Mocap Controller**（`~/workspace/native-mocap-app/`）の **テレメトリ画面だけ** を
+iPad 向けに Swift/SwiftUI で移植した Xcode プロジェクトです。
+このフォルダは「ビルド前の準備一式」であり、**まだビルドは実行していません**
+（この作業環境には macOS / Xcode がないため。ビルドは GitHub Actions で行う想定です）。
+
+## なぜテレメトリだけなのか
+
+iOS では他アプリを操作する仕組み（Android の Accessibility Service 相当）が
+サードパーティアプリに開放されていません。タップ・ホーム・戻る等の「スマホ操作」は
+iOS 版では原理的に不可能なため、本アプリは以下の **表示・判定専用** です。
+
+- 前面カメラ（4:3・ミラー）＋ MediaPipe 分割トラッキング
+  - Hand Landmarker: 全フレーム（主経路、ワールドランドマーク付き）
+  - Face Landmarker: 約10Hz（478点＋ブレンドシェイプ）
+  - Pose Landmarker lite: 約5Hz（表示専用）
+  - デリゲートは GPU (Metal) → 失敗時 CPU フォールバック（Android と同じ方針）
+- 可視化（Android テレメトリの見た目を移植）
+  - 顔ポイントクラウド / 姿勢スケルトン / 両手スケルトン
+  - 指先マーカー（指ごとの色＋白リング、ピンチ中は拡大＋発光）
+  - 掌/甲ティント＋手首バッジ（判定式・符号規約は Android と同一、5フレーム多数決平滑化）
+  - 半透明グレーシルエット（下部プロットのみ、首つなぎ・太め — v0.3.1 仕様）
+  - FPS・タスク別推論時間・ピンチ比・頭部姿勢・ブレンドシェイプ上位の統計パネル
+- 判定（**表示のみ・実行しない**）
+  - 人差し指/中指ピンチ（ヒステリシス 入≤0.25 / 出≥0.35、80ms保持、ハイブリッド 2D+3D 比）
+  - 掌（パー）→拳 / 拳→掌 の遷移判定
+  - 判定フィード（格ゲー入力履歴風、最新100件）＋ 大型バナー
+  - バナー表示中（既定2.5秒）は離散認識を止めるクールダウン意味論（v0.3.0 と同じ）
+
+## 構成
+
+```
+mocap-ios/
+├── README.md                        # このファイル
+├── .github/workflows/build.yml      # 署名なし .ipa を作る GitHub Actions
+└── MocapTelemetry/
+    ├── MocapTelemetry.xcodeproj     # 手書きプロジェクト（共有スキーム付き）
+    └── MocapTelemetry/
+        ├── MocapTelemetryApp.swift / ContentView.swift / TelemetryViewModel.swift
+        ├── CameraFeedService.swift  # AVFoundation 前面カメラ 4:3・ミラー
+        ├── PreviewView.swift
+        ├── TrackingEngine.swift     # Hand/Face/Pose の LIVE_STREAM 統合
+        ├── TrackingSnapshot.swift / HandGeometry.swift / OneEuroFilter.swift
+        ├── JudgmentEngine.swift / ActionFeed.swift   # 判定（表示のみ）
+        ├── LandmarkPlotView.swift   # Canvas 描画（プロット＋シルエット）
+        ├── Theme.swift              # ダークネイビーテーマ・描画色
+        ├── Assets.xcassets          # アイコン（幾何学模様を再構成した仮アイコン）
+        └── Models/                  # Android と同一のモデル3点（ハッシュ一致を確認済み）
+            ├── hand_landmarker.task       (7.8 MB)
+            ├── face_landmarker.task       (3.8 MB)
+            └── pose_landmarker_lite.task  (5.8 MB)
+```
+
+- 依存: **MediaPipeTasksVision**（Swift Package Manager）
+  - URL: `https://github.com/google-ai-edge/mediapipe`、branch `master`
+  - Google 公式の iOS セットアップガイド記載の方法そのまま
+- 対象: iPad（TARGETED_DEVICE_FAMILY = 2）、iOS 17+
+- Bundle ID: `app.muse.mocap.telemetry`（SideStore 再署名時に変わっても問題ありません）
+
+## ビルドまでの残り手順（未実施）
+
+> GitHub リポジトリへのアクセス権が未確認のため、リポジトリ作成・push はまだ行っていません。
+
+1. **リポジトリを用意する**
+   - GitHub で新規リポジトリ（例: `mocap-ios`、Public/Private どちらでも可）を作成
+   - この `mocap-ios/` フォルダの中身をそのまま push する
+     （`.github/workflows/build.yml` がリポジトリ直下に来る構成）
+2. **Actions を実行する**
+   - push すれば自動で走る。手動なら Actions タブ →「Build unsigned IPA」→ Run workflow
+   - 初回は mediapipe リポジトリが大きいため SPM 解決＋ビルドに時間がかかる見込み
+     （ワークフローの timeout は 90 分に設定済み）
+3. **成果物をダウンロードする**
+   - 完了した Run の Artifacts から **`MocapTelemetry-unsigned-ipa`** を取得
+   - 中身は署名なしの `MocapTelemetry-unsigned.ipa`
+   - 失敗した場合は `xcodebuild-log` アーティファクトにログが残る
+
+ワークフローの中身: `macos-latest` 上で `xcodebuild build`
+（`CODE_SIGNING_ALLOWED=NO`）→ `.app` を `Payload/` に入れて zip し `.ipa` 化。
+
+## iPad へのインストール（SideStore）と7日更新
+
+この .ipa は **署名なし** です。SideStore / AltStore が、あなたの Apple ID で
+再署名してインストールします。
+
+- **SideStore の初期設定**（初回のみ）: PC（Windows 可）で SideStore 公式手順に従い
+  ペアリングファイル等を用意する。以後の更新は iPad 単体で可能
+- **無料 Apple ID の制限**
+  - 署名の有効期限は **7日**。期限切れ前に SideStore で「Refresh」すると再署名されて延びる
+    （同じ Wi-Fi 内で自動更新の設定も可能）
+  - 無料枠では同時インストールできるサイドロードアプリは最大3つまで
+  - 期限が切れてもアプリとデータは消えない。再度 Refresh すればそのまま使える
+- **有料 Apple Developer アカウント（年 $99）** なら署名は1年有効になり、この制限はほぼ消える
+- インストール手順の要点: SideStore を開く →「+」→ ダウンロードした
+  `MocapTelemetry-unsigned.ipa` を選ぶ → 再署名＆インストール完了を待つ
+- 初回起動時にカメラ許可ダイアログが出るので許可する
+
+## 既知の制限・注意（正直な注記）
+
+- **未コンパイル**: この環境では Xcode が使えないため、コンパイル自体は未検証です。
+  実施した検証は「Swift ソースの括弧バランス / pbxproj の参照整合（53オブジェクト）/
+  スキーム XML / ワークフロー YAML / モデルのハッシュ一致」まで。
+  初回 CI で型名や API の細部（例: 結果型のプロパティ名）の修正が必要になる可能性があります
+- **向きは横向き前提**: カメラ接続の向きを landscapeRight に固定しています。
+  iPad を横置きして使う想定で、縦向きではプレビューと重ね描画が回転します
+- **掌/甲の符号規約** は Android で実績のある規約をそのまま移植しましたが、
+  iPad 実機での確認はまだです。反対だった場合は `HandGeometry.palmSign` を反転します
+- **推論時間の表示** は「コールバック時刻 − フレームタイムスタンプ」の概算です（Android と同じ定義）
+- アイコンは Muse の幾何学模様アバターをモチーフに図形で再構成した仮アイコンです
+
+## Android 版との対応表（抜粋）
+
+| Android | iPad 版 |
+|---|---|
+| SplitTrackingEngine.kt | TrackingEngine.swift |
+| CameraPipeline.kt（CameraX） | CameraFeedService.swift（AVFoundation） |
+| LandmarkPlotView.kt | LandmarkPlotView.swift（SwiftUI Canvas） |
+| HandGeometry.kt / FaceGeometry | HandGeometry.swift |
+| GestureEngine.kt（判定部のみ） | JudgmentEngine.swift |
+| ActionFeed.kt | ActionFeed.swift |
+| CaptureService / Accessibility 実行系 | **なし（iOS では不可能なため）** |
+
+## Git リポジトリとバイナリ資産の扱い（CI 方式）
+
+GitHub 連携（Muse コネクタ）のスナップショット push は UTF-8 テキスト専用のため、
+バイナリはそのままではリポジトリに入れられません。そこで次の方式にしています
+（欠落ではなく、CI で正本と同一物を復元します）。
+
+- **モデル 3 点（.task）**: リポジトリに格納しません。CI（build.yml）が
+  Google 公式 URL から取得し、SHA-256 が手元の正本と一致することを検証してから
+  ビルドします（検証用ハッシュは build.yml に固定記載）。
+  - hand_landmarker.task: `https://storage.googleapis.com/mediapipe-models/hand_landmarker/hand_landmarker/float16/1/hand_landmarker.task`
+  - face_landmarker.task: `https://storage.googleapis.com/mediapipe-models/face_landmarker/face_landmarker/float16/1/face_landmarker.task`
+  - pose_landmarker_lite.task: `https://storage.googleapis.com/mediapipe-models/pose_landmarker/pose_landmarker_lite/float16/1/pose_landmarker_lite.task`
+  - ローカルで Xcode ビルドする場合は、上記 URL から取得して
+    `MocapTelemetry/MocapTelemetry/Models/` に置いてください。
+- **アプリアイコン（AppIcon-1024.png）**: base64 テキスト
+  `AppIcon.appiconset/AppIcon-1024.png.b64` として格納し、CI が PNG に復元します。
+- **配布**: CI 成功時、`.ipa` は Actions の Artifact に加えて
+  GitHub Release（タグ `build-<実行番号>`）にも添付されます。
+  ダウンロードは Release ページの Assets から行えます。
