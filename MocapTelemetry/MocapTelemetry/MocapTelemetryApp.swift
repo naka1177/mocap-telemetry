@@ -1,1 +1,16 @@
-aW1wb3J0IFN3aWZ0VUkKCi8vLyBNb2NhcCBDb250cm9sbGVyIOKAlCBpUGFkIOODhuODrOODoeODiOODqueJiOOCqOODs+ODiOODquODneOCpOODs+ODiOOAggovLy8KLy8vIEFuZHJvaWQg54mI77yIYXBwLm11c2UubW9jYXDvvInjga7jg4bjg6zjg6Hjg4jjg6rnlLvpnaLjgaDjgZHjgpIgaVBhZCDjgavnp7vmpI3jgZfjgZ/jgoLjga7jgIIKLy8vIGlPUyDjgafjga/ku5bjgqLjg5fjg6rjga7mk43kvZzvvIjjgr/jg4Pjg5fvvI/jg5vjg7zjg6DnrYnvvInjga8gT1Mg44Gu5LuV5qeY5LiK44Gn44GN44Gq44GE44Gf44KB44CBCi8vLyDmnKzjgqLjg5fjg6rjga/jgIzjg4jjg6njg4Pjgq3jg7PjgrDvvIvlj6/oppbljJbvvIvliKTlrprooajnpLrjgI3lsILnlKjvvIjliKTlrprjga/ooajnpLrjga7jgb/jgaflrp/ooYzjgZfjgarjgYTvvInjgIIKQG1haW4Kc3RydWN0IE1vY2FwVGVsZW1ldHJ5QXBwOiBBcHAgewogICAgdmFyIGJvZHk6IHNvbWUgU2NlbmUgewogICAgICAgIFdpbmRvd0dyb3VwIHsKICAgICAgICAgICAgQ29udGVudFZpZXcoKQogICAgICAgICAgICAgICAgLnByZWZlcnJlZENvbG9yU2NoZW1lKC5kYXJrKQogICAgICAgIH0KICAgIH0KfQo=
+import SwiftUI
+
+/// Mocap Controller — iPad テレメトリ版エントリポイント。
+///
+/// Android 版（app.muse.mocap）のテレメトリ画面だけを iPad に移植したもの。
+/// iOS では他アプリの操作（タップ／ホーム等）は OS の仕様上できないため、
+/// 本アプリは「トラッキング＋可視化＋判定表示」専用（判定は表示のみで実行しない）。
+@main
+struct MocapTelemetryApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+                .preferredColorScheme(.dark)
+        }
+    }
+}
