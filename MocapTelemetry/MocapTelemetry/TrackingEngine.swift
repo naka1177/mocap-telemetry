@@ -27,6 +27,10 @@ final class TrackingEngine: NSObject {
     private var faceInferenceMs: Float = 0
     private var poseInferenceMs: Float = 0
     private var lastError: String?
+    private var handSubmitTimes: [Int: UInt64] = [:]
+    private var faceSubmitTimes: [Int: UInt64] = [:]
+    private var poseSubmitTimes: [Int: UInt64] = [:]
+    private var lastHandInferenceMs: Float = 0
 
     private var frameIndex = 0
     private var lastTimestampMs = 0
@@ -114,13 +118,26 @@ final class TrackingEngine: NSObject {
     func detect(sampleBuffer: CMSampleBuffer) {
         guard handLandmarker != nil else { return }
         let pts = CMSampleBufferGetPresentationTimeStamp(sampleBuffer)
-        var ts = Int(CMTimeGetSeconds(pts) * 1000)
+        let ptsSeconds = CMTimeGetSeconds(pts)
+        var ts = (pts.isValid && ptsSeconds.isFinite) ? Int(ptsSeconds * 1000) : lastTimestampMs + 1
         if ts <= lastTimestampMs { ts = lastTimestampMs + 1 }  // 単調増加を保証
         lastTimestampMs = ts
         frameIndex += 1
 
         do {
             let mpImage = try MPImage(sampleBuffer: sampleBuffer, orientation: .up)
+            let nowNs = DispatchTime.now().uptimeNanoseconds
+            lock.lock()
+            handSubmitTimes[ts] = nowNs
+            if frameIndex % Self.faceEveryNFrames == 0 { faceSubmitTimes[ts] = nowNs }
+            if frameIndex % Self.poseEveryNFrames == 0 { poseSubmitTimes[ts] = nowNs }
+            if handSubmitTimes.count > 300 {
+                let cutoff = ts - 5000
+                handSubmitTimes = handSubmitTimes.filter { $0.key > cutoff }
+                faceSubmitTimes = faceSubmitTimes.filter { $0.key > cutoff }
+                poseSubmitTimes = poseSubmitTimes.filter { $0.key > cutoff }
+            }
+            lock.unlock()
             try handLandmarker?.detectAsync(image: mpImage, timestampInMilliseconds: ts)
             if frameIndex % Self.faceEveryNFrames == 0 {
                 try faceLandmarker?.detectAsync(image: mpImage, timestampInMilliseconds: ts)
@@ -243,13 +260,20 @@ final class TrackingEngine: NSObject {
 extension TrackingEngine: HandLandmarkerLiveStreamDelegate {
     func handLandmarker(_ handLandmarker: HandLandmarker, didFinishDetection result: HandLandmarkerResult?,
                         timestampInMilliseconds: Int, error: Error?) {
+        lock.lock()
         if let error = error {
-            lock.lock(); lastError = error.localizedDescription; lock.unlock()
+            lastError = error.localizedDescription
+        } else {
+            lastError = nil
         }
+        if let submitted = handSubmitTimes.removeValue(forKey: timestampInMilliseconds) {
+            lastHandInferenceMs = Float(DispatchTime.now().uptimeNanoseconds - submitted) / 1_000_000
+        }
+        let inference = lastHandInferenceMs
+        lock.unlock()
         // 画像サイズは直近フレームのバッファから得る代わりに、結果からは取れないため
         // CameraFeedService が保持する直近サイズを参照する。
         let size = CameraFeedService.lastFrameSize
-        let inference = Float(Int(Date().timeIntervalSince1970 * 1000) - timestampInMilliseconds)
         let snap = composeSnapshot(handResult: result, timestampMs: timestampInMilliseconds,
                                    handInferenceMs: inference,
                                    imageWidth: size.width, imageHeight: size.height)
@@ -262,7 +286,9 @@ extension TrackingEngine: FaceLandmarkerLiveStreamDelegate {
                         timestampInMilliseconds: Int, error: Error?) {
         lock.lock()
         if let result = result { latestFace = result }
-        faceInferenceMs = Float(Int(Date().timeIntervalSince1970 * 1000) - timestampInMilliseconds)
+        if let submitted = faceSubmitTimes.removeValue(forKey: timestampInMilliseconds) {
+            faceInferenceMs = Float(DispatchTime.now().uptimeNanoseconds - submitted) / 1_000_000
+        }
         if let error = error { lastError = error.localizedDescription }
         lock.unlock()
     }
@@ -273,7 +299,9 @@ extension TrackingEngine: PoseLandmarkerLiveStreamDelegate {
                         timestampInMilliseconds: Int, error: Error?) {
         lock.lock()
         if let result = result { latestPose = result }
-        poseInferenceMs = Float(Int(Date().timeIntervalSince1970 * 1000) - timestampInMilliseconds)
+        if let submitted = poseSubmitTimes.removeValue(forKey: timestampInMilliseconds) {
+            poseInferenceMs = Float(DispatchTime.now().uptimeNanoseconds - submitted) / 1_000_000
+        }
         if let error = error { lastError = error.localizedDescription }
         lock.unlock()
     }
