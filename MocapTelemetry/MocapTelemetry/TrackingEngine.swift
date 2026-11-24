@@ -1,1 +1,286 @@
-aW1wb3J0IEZvdW5kYXRpb24KaW1wb3J0IE1lZGlhUGlwZVRhc2tzVmlzaW9uCmltcG9ydCBDb3JlTWVkaWEKaW1wb3J0IFVJS2l0CgovLy8g5YiG5Ymy44OI44Op44OD44Kt44Oz44Kw44Ko44Oz44K444Oz77yIQW5kcm9pZCDniYggU3BsaXRUcmFja2luZ0VuZ2luZSDjga7np7vmpI3vvInjgIIKLy8vCi8vLyAtIEhhbmQgTGFuZG1hcmtlcjog5YWo44OV44Os44O844Og77yI5Li757WM6Lev44CB44Ov44O844Or44OJ44Op44Oz44OJ44Oe44O844Kv5LuY44GN44CB5pyA5aSnMuaJi++8iQovLy8gLSBGYWNlIExhbmRtYXJrZXI6IOe0hDEwSHrvvIg0NzjngrnvvIvjg5bjg6zjg7Pjg4njgrfjgqfjgqTjg5fvvIkKLy8vIC0gUG9zZSBMYW5kbWFya2VyIGxpdGU6IOe0hDVIeu+8iOihqOekuuWwgueUqO+8iQovLy8g44GuM+OCv+OCueOCr+OCkiBMSVZFX1NUUkVBTSDjgafkuKbooYzlrp/ooYzjgZfjgIHmiYvjga7ntZDmnpzjgrPjg7zjg6vjg5Djg4Pjgq/jga7jgZ/jgbPjgasKLy8vIOacgOaWsOOBrumhlOODu+Wnv+WLoue1kOaenOOCkuODnuODvOOCuOOBl+OBpiBUcmFja2luZ1NuYXBzaG90IOOCkueZuuihjOOBmeOCi+OAggovLy8g44OH44Oq44Ky44O844OI44GvIEdQVe+8iE1ldGFs77yJ44KS6Kmm44GX44CB5aSx5pWX44GX44Gf44KJIENQVSDjgavjg5Xjgqnjg7zjg6vjg5Djg4Pjgq/jgZnjgovjgIIKZmluYWwgY2xhc3MgVHJhY2tpbmdFbmdpbmU6IE5TT2JqZWN0IHsKICAgIC8vLyDjgrnjg4rjg4Pjg5fjgrfjg6fjg4Pjg4jnmbrooYzjgrPjg7zjg6vjg5Djg4Pjgq/vvIjku7vmhI/jga7jgq3jg6Xjg7zjgaflkbzjgbDjgozjgovjgIJVSSDlgbTjgacgbWFpbiDjgbjvvInjgIIKICAgIHZhciBvblNuYXBzaG90OiAoKFRyYWNraW5nU25hcHNob3QpIC0+IFZvaWQpPwoKICAgIHByaXZhdGUgdmFyIGhhbmRMYW5kbWFya2VyOiBIYW5kTGFuZG1hcmtlcj8KICAgIHByaXZhdGUgdmFyIGZhY2VMYW5kbWFya2VyOiBGYWNlTGFuZG1hcmtlcj8KICAgIHByaXZhdGUgdmFyIHBvc2VMYW5kbWFya2VyOiBQb3NlTGFuZG1hcmtlcj8KICAgIHByaXZhdGUoc2V0KSB2YXIgZGVsZWdhdGVOYW1lID0gIuKAlCIKICAgIHByaXZhdGUoc2V0KSB2YXIgYXJjaGl0ZWN0dXJlID0gIuKAlCIKCiAgICBwcml2YXRlIGxldCBsb2NrID0gTlNMb2NrKCkKICAgIHByaXZhdGUgdmFyIGxhdGVzdEZhY2U6IEZhY2VMYW5kbWFya2VyUmVzdWx0PwogICAgcHJpdmF0ZSB2YXIgbGF0ZXN0UG9zZTogUG9zZUxhbmRtYXJrZXJSZXN1bHQ/CiAgICBwcml2YXRlIHZhciBmYWNlSW5mZXJlbmNlTXM6IEZsb2F0ID0gMAogICAgcHJpdmF0ZSB2YXIgcG9zZUluZmVyZW5jZU1zOiBGbG9hdCA9IDAKICAgIHByaXZhdGUgdmFyIGxhc3RFcnJvcjogU3RyaW5nPwoKICAgIHByaXZhdGUgdmFyIGZyYW1lSW5kZXggPSAwCiAgICBwcml2YXRlIHZhciBsYXN0VGltZXN0YW1wTXMgPSAwCiAgICBwcml2YXRlIHZhciBoYW5kQ2FsbGJhY2tUaW1lczogW0ludF0gPSBbXSAgIC8vIEZQU++8iDHnp5Ljgrnjg6njgqTjg4fjgqPjg7PjgrDvvInnlKgKCiAgICBwcml2YXRlIGxldCBsZWZ0SW5kZXhGaWx0ZXIgPSBPbmVFdXJvRmlsdGVyMkQoKQogICAgcHJpdmF0ZSBsZXQgcmlnaHRJbmRleEZpbHRlciA9IE9uZUV1cm9GaWx0ZXIyRCgpCiAgICAvLyDmjowv55Sy44Gu5aSa5pWw5rG65bmz5ruR5YyW77yIQW5kcm9pZCDjgajlkIzjgZg144OV44Os44O844Og77yJCiAgICBwcml2YXRlIHZhciBsZWZ0U2lkZUhpc3Rvcnk6IFtIYW5kU2lkZV0gPSBbXQogICAgcHJpdmF0ZSB2YXIgcmlnaHRTaWRlSGlzdG9yeTogW0hhbmRTaWRlXSA9IFtdCgogICAgcHJpdmF0ZSBzdGF0aWMgbGV0IGZhY2VFdmVyeU5GcmFtZXMgPSAzICAgLy8gMzBmcHPmg7PlrprjgafntIQxMEh6CiAgICBwcml2YXRlIHN0YXRpYyBsZXQgcG9zZUV2ZXJ5TkZyYW1lcyA9IDYgICAvLyAzMGZwc+aDs+WumuOBp+e0hDVIegoKICAgIC8vIE1BUks6IC0g44K744OD44OI44Ki44OD44OXCgogICAgZnVuYyBzdGFydCgpIHRocm93cyB7CiAgICAgICAgc3RvcCgpCiAgICAgICAgZG8gewogICAgICAgICAgICB0cnkgY3JlYXRlVGFza3ModXNlR1BVOiB0cnVlKQogICAgICAgICAgICBkZWxlZ2F0ZU5hbWUgPSAiR1BVIChNZXRhbCkiCiAgICAgICAgfSBjYXRjaCB7CiAgICAgICAgICAgIC8vIEFuZHJvaWQg54mI44Go5ZCM44GY44GPIEdQVSDihpIgQ1BVIOODleOCqeODvOODq+ODkOODg+OCrwogICAgICAgICAgICB0cnkgY3JlYXRlVGFza3ModXNlR1BVOiBmYWxzZSkKICAgICAgICAgICAgZGVsZWdhdGVOYW1lID0gIkNQVSIKICAgICAgICB9CiAgICAgICAgYXJjaGl0ZWN0dXJlID0gIuWIhuWJsiAoSGFuZOWFqOODleODrOODvOODoCAvIEZhY2XntIQxMEh6IC8gUG9zZee0hDVIeikiCiAgICAgICAgZnJhbWVJbmRleCA9IDAKICAgICAgICBsYXN0VGltZXN0YW1wTXMgPSAwCiAgICB9CgogICAgZnVuYyBzdG9wKCkgewogICAgICAgIGhhbmRMYW5kbWFya2VyID0gbmlsCiAgICAgICAgZmFjZUxhbmRtYXJrZXIgPSBuaWwKICAgICAgICBwb3NlTGFuZG1hcmtlciA9IG5pbAogICAgICAgIGxvY2subG9jaygpCiAgICAgICAgbGF0ZXN0RmFjZSA9IG5pbDsgbGF0ZXN0UG9zZSA9IG5pbAogICAgICAgIGxvY2sudW5sb2NrKCkKICAgICAgICBsZWZ0SW5kZXhGaWx0ZXIucmVzZXQoKTsgcmlnaHRJbmRleEZpbHRlci5yZXNldCgpCiAgICAgICAgbGVmdFNpZGVIaXN0b3J5ID0gW107IHJpZ2h0U2lkZUhpc3RvcnkgPSBbXQogICAgfQoKICAgIHByaXZhdGUgZnVuYyBtb2RlbFBhdGgoXyBuYW1lOiBTdHJpbmcpIHRocm93cyAtPiBTdHJpbmcgewogICAgICAgIGd1YXJkIGxldCBwYXRoID0gQnVuZGxlLm1haW4ucGF0aChmb3JSZXNvdXJjZTogbmFtZSwgb2ZUeXBlOiAidGFzayIpIGVsc2UgewogICAgICAgICAgICB0aHJvdyBOU0Vycm9yKGRvbWFpbjogIk1vY2FwVGVsZW1ldHJ5IiwgY29kZTogMSwKICAgICAgICAgICAgICAgICAgICAgICAgICB1c2VySW5mbzogW05TTG9jYWxpemVkRGVzY3JpcHRpb25LZXk6ICLjg6Ljg4fjg6vjgYzopovjgaTjgYvjgorjgb7jgZvjgpM6IFwobmFtZSkudGFzayJdKQogICAgICAgIH0KICAgICAgICByZXR1cm4gcGF0aAogICAgfQoKICAgIHByaXZhdGUgZnVuYyBjcmVhdGVUYXNrcyh1c2VHUFU6IEJvb2wpIHRocm93cyB7CiAgICAgICAgLy8gSGFuZO+8iOS4u+e1jOi3r++8iQogICAgICAgIGxldCBoYW5kT3B0aW9ucyA9IEhhbmRMYW5kbWFya2VyT3B0aW9ucygpCiAgICAgICAgaGFuZE9wdGlvbnMuYmFzZU9wdGlvbnMubW9kZWxBc3NldFBhdGggPSB0cnkgbW9kZWxQYXRoKCJoYW5kX2xhbmRtYXJrZXIiKQogICAgICAgIGhhbmRPcHRpb25zLmJhc2VPcHRpb25zLmRlbGVnYXRlID0gdXNlR1BVID8gLkdQVSA6IC5DUFUKICAgICAgICBoYW5kT3B0aW9ucy5ydW5uaW5nTW9kZSA9IC5saXZlU3RyZWFtCiAgICAgICAgaGFuZE9wdGlvbnMubnVtSGFuZHMgPSAyCiAgICAgICAgaGFuZE9wdGlvbnMuaGFuZExhbmRtYXJrZXJMaXZlU3RyZWFtRGVsZWdhdGUgPSBzZWxmCiAgICAgICAgaGFuZExhbmRtYXJrZXIgPSB0cnkgSGFuZExhbmRtYXJrZXIob3B0aW9uczogaGFuZE9wdGlvbnMpCgogICAgICAgIC8vIEZhY2XvvIjjg5bjg6zjg7Pjg4njgrfjgqfjgqTjg5fku5jjgY3vvIkKICAgICAgICBsZXQgZmFjZU9wdGlvbnMgPSBGYWNlTGFuZG1hcmtlck9wdGlvbnMoKQogICAgICAgIGZhY2VPcHRpb25zLmJhc2VPcHRpb25zLm1vZGVsQXNzZXRQYXRoID0gdHJ5IG1vZGVsUGF0aCgiZmFjZV9sYW5kbWFya2VyIikKICAgICAgICBmYWNlT3B0aW9ucy5iYXNlT3B0aW9ucy5kZWxlZ2F0ZSA9IHVzZUdQVSA/IC5HUFUgOiAuQ1BVCiAgICAgICAgZmFjZU9wdGlvbnMucnVubmluZ01vZGUgPSAubGl2ZVN0cmVhbQogICAgICAgIGZhY2VPcHRpb25zLm51bUZhY2VzID0gMQogICAgICAgIGZhY2VPcHRpb25zLm91dHB1dEZhY2VCbGVuZHNoYXBlcyA9IHRydWUKICAgICAgICBmYWNlT3B0aW9ucy5mYWNlTGFuZG1hcmtlckxpdmVTdHJlYW1EZWxlZ2F0ZSA9IHNlbGYKICAgICAgICBmYWNlTGFuZG1hcmtlciA9IHRyeSBGYWNlTGFuZG1hcmtlcihvcHRpb25zOiBmYWNlT3B0aW9ucykKCiAgICAgICAgLy8gUG9zZSBsaXRl77yI6KGo56S65bCC55So77yJCiAgICAgICAgbGV0IHBvc2VPcHRpb25zID0gUG9zZUxhbmRtYXJrZXJPcHRpb25zKCkKICAgICAgICBwb3NlT3B0aW9ucy5iYXNlT3B0aW9ucy5tb2RlbEFzc2V0UGF0aCA9IHRyeSBtb2RlbFBhdGgoInBvc2VfbGFuZG1hcmtlcl9saXRlIikKICAgICAgICBwb3NlT3B0aW9ucy5iYXNlT3B0aW9ucy5kZWxlZ2F0ZSA9IHVzZUdQVSA/IC5HUFUgOiAuQ1BVCiAgICAgICAgcG9zZU9wdGlvbnMucnVubmluZ01vZGUgPSAubGl2ZVN0cmVhbQogICAgICAgIHBvc2VPcHRpb25zLm51bVBvc2VzID0gMQogICAgICAgIHBvc2VPcHRpb25zLnBvc2VMYW5kbWFya2VyTGl2ZVN0cmVhbURlbGVnYXRlID0gc2VsZgogICAgICAgIHBvc2VMYW5kbWFya2VyID0gdHJ5IFBvc2VMYW5kbWFya2VyKG9wdGlvbnM6IHBvc2VPcHRpb25zKQogICAgfQoKICAgIC8vIE1BUks6IC0g44OV44Os44O844Og5oqV5YWlCgogICAgLy8vIENhbWVyYUZlZWRTZXJ2aWNlIOOBi+OCieavjuODleODrOODvOODoOWRvOOBsOOCjOOCi+OAggogICAgLy8vIHNhbXBsZUJ1ZmZlciDjga/liY3pnaLjgqvjg6Hjg6njga7jg5/jg6njg7zmuIjjgb/jg5Djg4Pjg5XjgqHvvIjmjqXntprlgbTjgaflj43ou6LmuIjjgb/vvInjgIIKICAgIGZ1bmMgZGV0ZWN0KHNhbXBsZUJ1ZmZlcjogQ01TYW1wbGVCdWZmZXIpIHsKICAgICAgICBndWFyZCBoYW5kTGFuZG1hcmtlciAhPSBuaWwgZWxzZSB7IHJldHVybiB9CiAgICAgICAgbGV0IHB0cyA9IENNU2FtcGxlQnVmZmVyR2V0UHJlc2VudGF0aW9uVGltZVN0YW1wKHNhbXBsZUJ1ZmZlcikKICAgICAgICB2YXIgdHMgPSBJbnQoQ01UaW1lR2V0U2Vjb25kcyhwdHMpICogMTAwMCkKICAgICAgICBpZiB0cyA8PSBsYXN0VGltZXN0YW1wTXMgeyB0cyA9IGxhc3RUaW1lc3RhbXBNcyArIDEgfSAgLy8g5Y2Y6Kq/5aKX5Yqg44KS5L+d6Ki8CiAgICAgICAgbGFzdFRpbWVzdGFtcE1zID0gdHMKICAgICAgICBmcmFtZUluZGV4ICs9IDEKCiAgICAgICAgZG8gewogICAgICAgICAgICBsZXQgbXBJbWFnZSA9IHRyeSBNUEltYWdlKHNhbXBsZUJ1ZmZlcjogc2FtcGxlQnVmZmVyLCBvcmllbnRhdGlvbjogLnVwKQogICAgICAgICAgICB0cnkgaGFuZExhbmRtYXJrZXI/LmRldGVjdEFzeW5jKG1wSW1hZ2U6IG1wSW1hZ2UsIHRpbWVzdGFtcEluTWlsbGlzZWNvbmRzOiB0cykKICAgICAgICAgICAgaWYgZnJhbWVJbmRleCAlIFNlbGYuZmFjZUV2ZXJ5TkZyYW1lcyA9PSAwIHsKICAgICAgICAgICAgICAgIHRyeSBmYWNlTGFuZG1hcmtlcj8uZGV0ZWN0QXN5bmMobXBJbWFnZTogbXBJbWFnZSwgdGltZXN0YW1wSW5NaWxsaXNlY29uZHM6IHRzKQogICAgICAgICAgICB9CiAgICAgICAgICAgIGlmIGZyYW1lSW5kZXggJSBTZWxmLnBvc2VFdmVyeU5GcmFtZXMgPT0gMCB7CiAgICAgICAgICAgICAgICB0cnkgcG9zZUxhbmRtYXJrZXI/LmRldGVjdEFzeW5jKG1wSW1hZ2U6IG1wSW1hZ2UsIHRpbWVzdGFtcEluTWlsbGlzZWNvbmRzOiB0cykKICAgICAgICAgICAgfQogICAgICAgIH0gY2F0Y2ggewogICAgICAgICAgICBsb2NrLmxvY2soKTsgbGFzdEVycm9yID0gZXJyb3IubG9jYWxpemVkRGVzY3JpcHRpb247IGxvY2sudW5sb2NrKCkKICAgICAgICB9CiAgICB9CgogICAgLy8gTUFSSzogLSDjgrnjg4rjg4Pjg5fjgrfjg6fjg4Pjg4jlkIjmiJDvvIjmiYvjgrPjg7zjg6vjg5Djg4Pjgq8gPSDkuLvntYzot6/vvIkKCiAgICBwcml2YXRlIGZ1bmMgY29tcG9zZVNuYXBzaG90KGhhbmRSZXN1bHQ6IEhhbmRMYW5kbWFya2VyUmVzdWx0PywgdGltZXN0YW1wTXM6IEludCwgaGFuZEluZmVyZW5jZU1zOiBGbG9hdCwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgaW1hZ2VXaWR0aDogSW50LCBpbWFnZUhlaWdodDogSW50KSAtPiBUcmFja2luZ1NuYXBzaG90IHsKICAgICAgICB2YXIgc25hcCA9IFRyYWNraW5nU25hcHNob3QoKQogICAgICAgIHNuYXAudGltZXN0YW1wTXMgPSB0aW1lc3RhbXBNcwogICAgICAgIHNuYXAuaW1hZ2VXaWR0aCA9IGltYWdlV2lkdGgKICAgICAgICBzbmFwLmltYWdlSGVpZ2h0ID0gaW1hZ2VIZWlnaHQKICAgICAgICBzbmFwLmFyY2hpdGVjdHVyZSA9IGFyY2hpdGVjdHVyZQogICAgICAgIHNuYXAuZGVsZWdhdGVOYW1lID0gZGVsZWdhdGVOYW1lCiAgICAgICAgc25hcC5oYW5kSW5mZXJlbmNlTXMgPSBoYW5kSW5mZXJlbmNlTXMKCiAgICAgICAgbG9jay5sb2NrKCkKICAgICAgICBsZXQgZmFjZSA9IGxhdGVzdEZhY2UsIHBvc2UgPSBsYXRlc3RQb3NlCiAgICAgICAgc25hcC5mYWNlSW5mZXJlbmNlTXMgPSBmYWNlSW5mZXJlbmNlTXMKICAgICAgICBzbmFwLnBvc2VJbmZlcmVuY2VNcyA9IHBvc2VJbmZlcmVuY2VNcwogICAgICAgIHNuYXAuZXJyb3IgPSBsYXN0RXJyb3IKICAgICAgICBsb2NrLnVubG9jaygpCgogICAgICAgIC8vIEZQUzog5omL44Kz44O844Or44OQ44OD44Kv44GuMeenkuOCueODqeOCpOODh+OCo+ODs+OCsOOCpuOCo+ODs+ODieOCpgogICAgICAgIGxldCBub3dNcyA9IEludChEYXRlKCkudGltZUludGVydmFsU2luY2UxOTcwICogMTAwMCkKICAgICAgICBoYW5kQ2FsbGJhY2tUaW1lcy5hcHBlbmQobm93TXMpCiAgICAgICAgaGFuZENhbGxiYWNrVGltZXMucmVtb3ZlQWxsIHsgbm93TXMgLSAkMCA+IDEwMDAgfQogICAgICAgIHNuYXAuZnBzID0gRmxvYXQoaGFuZENhbGxiYWNrVGltZXMuY291bnQpCgogICAgICAgIC8vIOmhlAogICAgICAgIGlmIGxldCBmYWNlID0gZmFjZSwgbGV0IGxhbmRtYXJrcyA9IGZhY2UuZmFjZUxhbmRtYXJrcy5maXJzdCB7CiAgICAgICAgICAgIHNuYXAuZmFjZUxhbmRtYXJrcyA9IFNlbGYuZmxhdHRlbihsYW5kbWFya3MpCiAgICAgICAgICAgIGlmIGxldCBjbGFzc2lmaWNhdGlvbnMgPSBmYWNlLmZhY2VCbGVuZHNoYXBlcz8uZmlyc3QgewogICAgICAgICAgICAgICAgbGV0IGNhdHMgPSBjbGFzc2lmaWNhdGlvbnMuY2F0ZWdvcmllcwogICAgICAgICAgICAgICAgICAgIC5tYXAgeyAobmFtZTogJDAuY2F0ZWdvcnlOYW1lID8/ICI/Iiwgc2NvcmU6ICQwLnNjb3JlKSB9CiAgICAgICAgICAgICAgICAgICAgLnNvcnRlZCB7ICQwLnNjb3JlID4gJDEuc2NvcmUgfQogICAgICAgICAgICAgICAgc25hcC50b3BCbGVuZHNoYXBlcyA9IEFycmF5KGNhdHMucHJlZml4KDUpKQogICAgICAgICAgICAgICAgc25hcC5ibGVuZHNoYXBlU2NvcmVzID0gRGljdGlvbmFyeShjYXRzLm1hcCB7ICgkMC5uYW1lLCAkMC5zY29yZSkgfSwgdW5pcXVpbmdLZXlzV2l0aDogeyBhLCBfIGluIGEgfSkKICAgICAgICAgICAgfQogICAgICAgICAgICBsZXQgcG9zZTIgPSBGYWNlR2VvbWV0cnkuaGVhZFBvc2UoZmFjZTogc25hcC5mYWNlTGFuZG1hcmtzKQogICAgICAgICAgICBzbmFwLmhlYWRZYXcgPSBwb3NlMi55YXcKICAgICAgICAgICAgc25hcC5oZWFkUGl0Y2ggPSBwb3NlMi5waXRjaAogICAgICAgIH0KCiAgICAgICAgLy8g5ae/5YuiCiAgICAgICAgaWYgbGV0IHBvc2UgPSBwb3NlLCBsZXQgbGFuZG1hcmtzID0gcG9zZS5sYW5kbWFya3MuZmlyc3QgewogICAgICAgICAgICBzbmFwLnBvc2VMYW5kbWFya3MgPSBTZWxmLmZsYXR0ZW4obGFuZG1hcmtzKQogICAgICAgICAgICBpZiBsZXQgd29ybGQgPSBwb3NlLndvcmxkTGFuZG1hcmtzLmZpcnN0IHsgc25hcC5wb3NlV29ybGRMYW5kbWFya3MgPSBTZWxmLmZsYXR0ZW5Xb3JsZCh3b3JsZCkgfQogICAgICAgICAgICBsZXQgdmlzID0gbGFuZG1hcmtzLmNvbXBhY3RNYXAgeyAkMC52aXNpYmlsaXR5IH0ubWFwIHsgRmxvYXQodHJ1bmNhdGluZzogJDApIH0KICAgICAgICAgICAgaWYgIXZpcy5pc0VtcHR5IHsgc25hcC5wb3NlVmlzaWJpbGl0eSA9IHZpcy5yZWR1Y2UoMCwgKykgLyBGbG9hdCh2aXMuY291bnQpIH0KICAgICAgICB9CgogICAgICAgIC8vIOS4oeaJi++8iGhhbmRlZG5lc3Mg44Op44OZ44OrID0g5pys5Lq644Gu6Kej5YmW5a2m55qE44Gq5bem5Y+z44CC5YWl5Yqb44Gv44Of44Op44O85riI44G/5YmN6Z2i44Kr44Oh44Op77yJCiAgICAgICAgaWYgbGV0IGhhbmQgPSBoYW5kUmVzdWx0IHsKICAgICAgICAgICAgZm9yIGkgaW4gaGFuZC5sYW5kbWFya3MuaW5kaWNlcyB7CiAgICAgICAgICAgICAgICBsZXQgbGFiZWwgPSBoYW5kLmhhbmRlZG5lc3Nbc2FmZTogaV0/LmZpcnN0Py5jYXRlZ29yeU5hbWUgPz8gIiIKICAgICAgICAgICAgICAgIGxldCBmbGF0ID0gU2VsZi5mbGF0dGVuKGhhbmQubGFuZG1hcmtzW2ldKQogICAgICAgICAgICAgICAgbGV0IHdvcmxkID0gaGFuZC53b3JsZExhbmRtYXJrc1tzYWZlOiBpXS5tYXAgeyBTZWxmLmZsYXR0ZW5Xb3JsZCgkMCkgfSA/PyBbXQogICAgICAgICAgICAgICAgbGV0IGl3ID0gRmxvYXQoaW1hZ2VXaWR0aCksIGloID0gRmxvYXQoaW1hZ2VIZWlnaHQpCiAgICAgICAgICAgICAgICBpZiBsYWJlbCA9PSAiTGVmdCIgewogICAgICAgICAgICAgICAgICAgIHNuYXAubGVmdEhhbmRMYW5kbWFya3MgPSBmbGF0CiAgICAgICAgICAgICAgICAgICAgc25hcC5sZWZ0SGFuZFdvcmxkTGFuZG1hcmtzID0gd29ybGQKICAgICAgICAgICAgICAgICAgICBzbmFwLmxlZnRIYW5kU2lkZSA9IHNtb290aFNpZGUoSGFuZEdlb21ldHJ5LmhhbmRTaWRlKGhhbmQ6IGZsYXQsIGlzUmlnaHRIYW5kOiBmYWxzZSksIGhpc3Rvcnk6ICZsZWZ0U2lkZUhpc3RvcnkpCiAgICAgICAgICAgICAgICAgICAgc25hcC5sZWZ0SW5kZXhQaW5jaCA9IEhhbmRHZW9tZXRyeS5waW5jaFJhdGlvKGhhbmQ6IGZsYXQsIHdvcmxkOiB3b3JsZCwgZmluZ2VyVGlwOiA4LCBpdzogaXcsIGloOiBpaCkKICAgICAgICAgICAgICAgICAgICBzbmFwLmxlZnRNaWRkbGVQaW5jaCA9IEhhbmRHZW9tZXRyeS5waW5jaFJhdGlvKGhhbmQ6IGZsYXQsIHdvcmxkOiB3b3JsZCwgZmluZ2VyVGlwOiAxMiwgaXc6IGl3LCBpaDogaWgpCiAgICAgICAgICAgICAgICAgICAgaWYgZmxhdC5jb3VudCA+PSA5ICogMyB7CiAgICAgICAgICAgICAgICAgICAgICAgIHNuYXAuc21vb3RoZWRMZWZ0SW5kZXhUaXAgPSBsZWZ0SW5kZXhGaWx0ZXIuZmlsdGVyKHg6IGZsYXRbOCAqIDNdLCB5OiBmbGF0WzggKiAzICsgMV0sIHRpbWVzdGFtcE1zOiB0aW1lc3RhbXBNcykKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9IGVsc2UgaWYgbGFiZWwgPT0gIlJpZ2h0IiB7CiAgICAgICAgICAgICAgICAgICAgc25hcC5yaWdodEhhbmRMYW5kbWFya3MgPSBmbGF0CiAgICAgICAgICAgICAgICAgICAgc25hcC5yaWdodEhhbmRXb3JsZExhbmRtYXJrcyA9IHdvcmxkCiAgICAgICAgICAgICAgICAgICAgc25hcC5yaWdodEhhbmRTaWRlID0gc21vb3RoU2lkZShIYW5kR2VvbWV0cnkuaGFuZFNpZGUoaGFuZDogZmxhdCwgaXNSaWdodEhhbmQ6IHRydWUpLCBoaXN0b3J5OiAmcmlnaHRTaWRlSGlzdG9yeSkKICAgICAgICAgICAgICAgICAgICBzbmFwLnJpZ2h0SW5kZXhQaW5jaCA9IEhhbmRHZW9tZXRyeS5waW5jaFJhdGlvKGhhbmQ6IGZsYXQsIHdvcmxkOiB3b3JsZCwgZmluZ2VyVGlwOiA4LCBpdzogaXcsIGloOiBpaCkKICAgICAgICAgICAgICAgICAgICBzbmFwLnJpZ2h0TWlkZGxlUGluY2ggPSBIYW5kR2VvbWV0cnkucGluY2hSYXRpbyhoYW5kOiBmbGF0LCB3b3JsZDogd29ybGQsIGZpbmdlclRpcDogMTIsIGl3OiBpdywgaWg6IGloKQogICAgICAgICAgICAgICAgICAgIGlmIGZsYXQuY291bnQgPj0gOSAqIDMgewogICAgICAgICAgICAgICAgICAgICAgICBzbmFwLnNtb290aGVkUmlnaHRJbmRleFRpcCA9IHJpZ2h0SW5kZXhGaWx0ZXIuZmlsdGVyKHg6IGZsYXRbOCAqIDNdLCB5OiBmbGF0WzggKiAzICsgMV0sIHRpbWVzdGFtcE1zOiB0aW1lc3RhbXBNcykKICAgICAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0KICAgICAgICB9CiAgICAgICAgaWYgIXNuYXAubGVmdEhhbmRQcmVzZW50IHsgbGVmdEluZGV4RmlsdGVyLnJlc2V0KCk7IGxlZnRTaWRlSGlzdG9yeSA9IFtdIH0KICAgICAgICBpZiAhc25hcC5yaWdodEhhbmRQcmVzZW50IHsgcmlnaHRJbmRleEZpbHRlci5yZXNldCgpOyByaWdodFNpZGVIaXN0b3J5ID0gW10gfQogICAgICAgIHJldHVybiBzbmFwCiAgICB9CgogICAgcHJpdmF0ZSBmdW5jIHNtb290aFNpZGUoXyBzaWRlOiBIYW5kU2lkZSwgaGlzdG9yeTogaW5vdXQgW0hhbmRTaWRlXSkgLT4gSGFuZFNpZGUgewogICAgICAgIGhpc3RvcnkuYXBwZW5kKHNpZGUpCiAgICAgICAgaWYgaGlzdG9yeS5jb3VudCA+IDUgeyBoaXN0b3J5LnJlbW92ZUZpcnN0KGhpc3RvcnkuY291bnQgLSA1KSB9CiAgICAgICAgbGV0IGtub3duID0gaGlzdG9yeS5maWx0ZXIgeyAkMCAhPSAudW5rbm93biB9CiAgICAgICAgZ3VhcmQgIWtub3duLmlzRW1wdHkgZWxzZSB7IHJldHVybiAudW5rbm93biB9CiAgICAgICAgbGV0IHBhbG1Db3VudCA9IGtub3duLmZpbHRlciB7ICQwID09IC5wYWxtIH0uY291bnQKICAgICAgICByZXR1cm4gcGFsbUNvdW50ICogMiA+PSBrbm93bi5jb3VudCA/IC5wYWxtIDogLmJhY2sKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBmdW5jIGZsYXR0ZW4oXyBsYW5kbWFya3M6IFtOb3JtYWxpemVkTGFuZG1hcmtdKSAtPiBbRmxvYXRdIHsKICAgICAgICB2YXIgb3V0OiBbRmxvYXRdID0gW10KICAgICAgICBvdXQucmVzZXJ2ZUNhcGFjaXR5KGxhbmRtYXJrcy5jb3VudCAqIDMpCiAgICAgICAgZm9yIGxtIGluIGxhbmRtYXJrcyB7IG91dC5hcHBlbmQobG0ueCk7IG91dC5hcHBlbmQobG0ueSk7IG91dC5hcHBlbmQobG0ueikgfQogICAgICAgIHJldHVybiBvdXQKICAgIH0KCiAgICBwcml2YXRlIHN0YXRpYyBmdW5jIGZsYXR0ZW5Xb3JsZChfIGxhbmRtYXJrczogW0xhbmRtYXJrXSkgLT4gW0Zsb2F0XSB7CiAgICAgICAgdmFyIG91dDogW0Zsb2F0XSA9IFtdCiAgICAgICAgb3V0LnJlc2VydmVDYXBhY2l0eShsYW5kbWFya3MuY291bnQgKiAzKQogICAgICAgIGZvciBsbSBpbiBsYW5kbWFya3MgeyBvdXQuYXBwZW5kKGxtLngpOyBvdXQuYXBwZW5kKGxtLnkpOyBvdXQuYXBwZW5kKGxtLnopIH0KICAgICAgICByZXR1cm4gb3V0CiAgICB9Cn0KCi8vIE1BUks6IC0gTWVkaWFQaXBlIOODqeOCpOODluOCueODiOODquODvOODoCDjg4fjg6rjgrLjg7zjg4gKCmV4dGVuc2lvbiBUcmFja2luZ0VuZ2luZTogSGFuZExhbmRtYXJrZXJMaXZlU3RyZWFtRGVsZWdhdGUgewogICAgZnVuYyBoYW5kTGFuZG1hcmtlcihfIGhhbmRMYW5kbWFya2VyOiBIYW5kTGFuZG1hcmtlciwgZGlkRmluaXNoRGV0ZWN0aW9uIHJlc3VsdDogSGFuZExhbmRtYXJrZXJSZXN1bHQ/LAogICAgICAgICAgICAgICAgICAgICAgICB0aW1lc3RhbXBJbk1pbGxpc2Vjb25kczogSW50LCBlcnJvcjogRXJyb3I/KSB7CiAgICAgICAgaWYgbGV0IGVycm9yID0gZXJyb3IgewogICAgICAgICAgICBsb2NrLmxvY2soKTsgbGFzdEVycm9yID0gZXJyb3IubG9jYWxpemVkRGVzY3JpcHRpb247IGxvY2sudW5sb2NrKCkKICAgICAgICB9CiAgICAgICAgLy8g55S75YOP44K144Kk44K644Gv55u06L+R44OV44Os44O844Og44Gu44OQ44OD44OV44Kh44GL44KJ5b6X44KL5Luj44KP44KK44Gr44CB57WQ5p6c44GL44KJ44Gv5Y+W44KM44Gq44GE44Gf44KBCiAgICAgICAgLy8gQ2FtZXJhRmVlZFNlcnZpY2Ug44GM5L+d5oyB44GZ44KL55u06L+R44K144Kk44K644KS5Y+C54Wn44GZ44KL44CCCiAgICAgICAgbGV0IHNpemUgPSBDYW1lcmFGZWVkU2VydmljZS5sYXN0RnJhbWVTaXplCiAgICAgICAgbGV0IGluZmVyZW5jZSA9IEZsb2F0KEludChEYXRlKCkudGltZUludGVydmFsU2luY2UxOTcwICogMTAwMCkgLSB0aW1lc3RhbXBNcykKICAgICAgICBsZXQgc25hcCA9IGNvbXBvc2VTbmFwc2hvdChoYW5kUmVzdWx0OiByZXN1bHQsIHRpbWVzdGFtcE1zOiB0aW1lc3RhbXBNcywKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBoYW5kSW5mZXJlbmNlTXM6IGluZmVyZW5jZSwKICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICBpbWFnZVdpZHRoOiBzaXplLndpZHRoLCBpbWFnZUhlaWdodDogc2l6ZS5oZWlnaHQpCiAgICAgICAgb25TbmFwc2hvdD8oc25hcCkKICAgIH0KfQoKZXh0ZW5zaW9uIFRyYWNraW5nRW5naW5lOiBGYWNlTGFuZG1hcmtlckxpdmVTdHJlYW1EZWxlZ2F0ZSB7CiAgICBmdW5jIGZhY2VMYW5kbWFya2VyKF8gZmFjZUxhbmRtYXJrZXI6IEZhY2VMYW5kbWFya2VyLCBkaWRGaW5pc2hEZXRlY3Rpb24gcmVzdWx0OiBGYWNlTGFuZG1hcmtlclJlc3VsdD8sCiAgICAgICAgICAgICAgICAgICAgICAgIHRpbWVzdGFtcEluTWlsbGlzZWNvbmRzOiBJbnQsIGVycm9yOiBFcnJvcj8pIHsKICAgICAgICBsb2NrLmxvY2soKQogICAgICAgIGlmIGxldCByZXN1bHQgPSByZXN1bHQgeyBsYXRlc3RGYWNlID0gcmVzdWx0IH0KICAgICAgICBmYWNlSW5mZXJlbmNlTXMgPSBGbG9hdChJbnQoRGF0ZSgpLnRpbWVJbnRlcnZhbFNpbmNlMTk3MCAqIDEwMDApIC0gdGltZXN0YW1wSW5NaWxsaXNlY29uZHMpCiAgICAgICAgaWYgbGV0IGVycm9yID0gZXJyb3IgeyBsYXN0RXJyb3IgPSBlcnJvci5sb2NhbGl6ZWREZXNjcmlwdGlvbiB9CiAgICAgICAgbG9jay51bmxvY2soKQogICAgfQp9CgpleHRlbnNpb24gVHJhY2tpbmdFbmdpbmU6IFBvc2VMYW5kbWFya2VyTGl2ZVN0cmVhbURlbGVnYXRlIHsKICAgIGZ1bmMgcG9zZUxhbmRtYXJrZXIoXyBwb3NlTGFuZG1hcmtlcjogUG9zZUxhbmRtYXJrZXIsIGRpZEZpbmlzaERldGVjdGlvbiByZXN1bHQ6IFBvc2VMYW5kbWFya2VyUmVzdWx0PywKICAgICAgICAgICAgICAgICAgICAgICAgdGltZXN0YW1wSW5NaWxsaXNlY29uZHM6IEludCwgZXJyb3I6IEVycm9yPykgewogICAgICAgIGxvY2subG9jaygpCiAgICAgICAgaWYgbGV0IHJlc3VsdCA9IHJlc3VsdCB7IGxhdGVzdFBvc2UgPSByZXN1bHQgfQogICAgICAgIHBvc2VJbmZlcmVuY2VNcyA9IEZsb2F0KEludChEYXRlKCkudGltZUludGVydmFsU2luY2UxOTcwICogMTAwMCkgLSB0aW1lc3RhbXBJbk1pbGxpc2Vjb25kcykKICAgICAgICBpZiBsZXQgZXJyb3IgPSBlcnJvciB7IGxhc3RFcnJvciA9IGVycm9yLmxvY2FsaXplZERlc2NyaXB0aW9uIH0KICAgICAgICBsb2NrLnVubG9jaygpCiAgICB9Cn0KCnByaXZhdGUgZXh0ZW5zaW9uIEFycmF5IHsKICAgIHN1YnNjcmlwdChzYWZlIGluZGV4OiBJbnQpIC0+IEVsZW1lbnQ/IHsKICAgICAgICBpbmRpY2VzLmNvbnRhaW5zKGluZGV4KSA/IHNlbGZbaW5kZXhdIDogbmlsCiAgICB9Cn0K
+import Foundation
+import MediaPipeTasksVision
+import CoreMedia
+import UIKit
+
+/// 分割トラッキングエンジン（Android 版 SplitTrackingEngine の移植）。
+///
+/// - Hand Landmarker: 全フレーム（主経路、ワールドランドマーク付き、最大2手）
+/// - Face Landmarker: 約10Hz（478点＋ブレンドシェイプ）
+/// - Pose Landmarker lite: 約5Hz（表示専用）
+/// の3タスクを LIVE_STREAM で並行実行し、手の結果コールバックのたびに
+/// 最新の顔・姿勢結果をマージして TrackingSnapshot を発行する。
+/// デリゲートは GPU（Metal）を試し、失敗したら CPU にフォールバックする。
+final class TrackingEngine: NSObject {
+    /// スナップショット発行コールバック（任意のキューで呼ばれる。UI 側で main へ）。
+    var onSnapshot: ((TrackingSnapshot) -> Void)?
+
+    private var handLandmarker: HandLandmarker?
+    private var faceLandmarker: FaceLandmarker?
+    private var poseLandmarker: PoseLandmarker?
+    private(set) var delegateName = "—"
+    private(set) var architecture = "—"
+
+    private let lock = NSLock()
+    private var latestFace: FaceLandmarkerResult?
+    private var latestPose: PoseLandmarkerResult?
+    private var faceInferenceMs: Float = 0
+    private var poseInferenceMs: Float = 0
+    private var lastError: String?
+
+    private var frameIndex = 0
+    private var lastTimestampMs = 0
+    private var handCallbackTimes: [Int] = []   // FPS（1秒スライディング）用
+
+    private let leftIndexFilter = OneEuroFilter2D()
+    private let rightIndexFilter = OneEuroFilter2D()
+    // 掌/甲の多数決平滑化（Android と同じ5フレーム）
+    private var leftSideHistory: [HandSide] = []
+    private var rightSideHistory: [HandSide] = []
+
+    private static let faceEveryNFrames = 3   // 30fps想定で約10Hz
+    private static let poseEveryNFrames = 6   // 30fps想定で約5Hz
+
+    // MARK: - セットアップ
+
+    func start() throws {
+        stop()
+        do {
+            try createTasks(useGPU: true)
+            delegateName = "GPU (Metal)"
+        } catch {
+            // Android 版と同じく GPU → CPU フォールバック
+            try createTasks(useGPU: false)
+            delegateName = "CPU"
+        }
+        architecture = "分割 (Hand全フレーム / Face約10Hz / Pose約5Hz)"
+        frameIndex = 0
+        lastTimestampMs = 0
+    }
+
+    func stop() {
+        handLandmarker = nil
+        faceLandmarker = nil
+        poseLandmarker = nil
+        lock.lock()
+        latestFace = nil; latestPose = nil
+        lock.unlock()
+        leftIndexFilter.reset(); rightIndexFilter.reset()
+        leftSideHistory = []; rightSideHistory = []
+    }
+
+    private func modelPath(_ name: String) throws -> String {
+        guard let path = Bundle.main.path(forResource: name, ofType: "task") else {
+            throw NSError(domain: "MocapTelemetry", code: 1,
+                          userInfo: [NSLocalizedDescriptionKey: "モデルが見つかりません: \(name).task"])
+        }
+        return path
+    }
+
+    private func createTasks(useGPU: Bool) throws {
+        // Hand（主経路）
+        let handOptions = HandLandmarkerOptions()
+        handOptions.baseOptions.modelAssetPath = try modelPath("hand_landmarker")
+        handOptions.baseOptions.delegate = useGPU ? .GPU : .CPU
+        handOptions.runningMode = .liveStream
+        handOptions.numHands = 2
+        handOptions.handLandmarkerLiveStreamDelegate = self
+        handLandmarker = try HandLandmarker(options: handOptions)
+
+        // Face（ブレンドシェイプ付き）
+        let faceOptions = FaceLandmarkerOptions()
+        faceOptions.baseOptions.modelAssetPath = try modelPath("face_landmarker")
+        faceOptions.baseOptions.delegate = useGPU ? .GPU : .CPU
+        faceOptions.runningMode = .liveStream
+        faceOptions.numFaces = 1
+        faceOptions.outputFaceBlendshapes = true
+        faceOptions.faceLandmarkerLiveStreamDelegate = self
+        faceLandmarker = try FaceLandmarker(options: faceOptions)
+
+        // Pose lite（表示専用）
+        let poseOptions = PoseLandmarkerOptions()
+        poseOptions.baseOptions.modelAssetPath = try modelPath("pose_landmarker_lite")
+        poseOptions.baseOptions.delegate = useGPU ? .GPU : .CPU
+        poseOptions.runningMode = .liveStream
+        poseOptions.numPoses = 1
+        poseOptions.poseLandmarkerLiveStreamDelegate = self
+        poseLandmarker = try PoseLandmarker(options: poseOptions)
+    }
+
+    // MARK: - フレーム投入
+
+    /// CameraFeedService から毎フレーム呼ばれる。
+    /// sampleBuffer は前面カメラのミラー済みバッファ（接続側で反転済み）。
+    func detect(sampleBuffer: CMSampleBuffer) {
+        guard handLandmarker != nil else { return }
+        let pts = CMSampleBufferGetPresentationTimeStamp(sampleBuffer)
+        var ts = Int(CMTimeGetSeconds(pts) * 1000)
+        if ts <= lastTimestampMs { ts = lastTimestampMs + 1 }  // 単調増加を保証
+        lastTimestampMs = ts
+        frameIndex += 1
+
+        do {
+            let mpImage = try MPImage(sampleBuffer: sampleBuffer, orientation: .up)
+            try handLandmarker?.detectAsync(mpImage: mpImage, timestampInMilliseconds: ts)
+            if frameIndex % Self.faceEveryNFrames == 0 {
+                try faceLandmarker?.detectAsync(mpImage: mpImage, timestampInMilliseconds: ts)
+            }
+            if frameIndex % Self.poseEveryNFrames == 0 {
+                try poseLandmarker?.detectAsync(mpImage: mpImage, timestampInMilliseconds: ts)
+            }
+        } catch {
+            lock.lock(); lastError = error.localizedDescription; lock.unlock()
+        }
+    }
+
+    // MARK: - スナップショット合成（手コールバック = 主経路）
+
+    private func composeSnapshot(handResult: HandLandmarkerResult?, timestampMs: Int, handInferenceMs: Float,
+                                 imageWidth: Int, imageHeight: Int) -> TrackingSnapshot {
+        var snap = TrackingSnapshot()
+        snap.timestampMs = timestampMs
+        snap.imageWidth = imageWidth
+        snap.imageHeight = imageHeight
+        snap.architecture = architecture
+        snap.delegateName = delegateName
+        snap.handInferenceMs = handInferenceMs
+
+        lock.lock()
+        let face = latestFace, pose = latestPose
+        snap.faceInferenceMs = faceInferenceMs
+        snap.poseInferenceMs = poseInferenceMs
+        snap.error = lastError
+        lock.unlock()
+
+        // FPS: 手コールバックの1秒スライディングウィンドウ
+        let nowMs = Int(Date().timeIntervalSince1970 * 1000)
+        handCallbackTimes.append(nowMs)
+        handCallbackTimes.removeAll { nowMs - $0 > 1000 }
+        snap.fps = Float(handCallbackTimes.count)
+
+        // 顔
+        if let face = face, let landmarks = face.faceLandmarks.first {
+            snap.faceLandmarks = Self.flatten(landmarks)
+            if let classifications = face.faceBlendshapes?.first {
+                let cats = classifications.categories
+                    .map { (name: $0.categoryName ?? "?", score: $0.score) }
+                    .sorted { $0.score > $1.score }
+                snap.topBlendshapes = Array(cats.prefix(5))
+                snap.blendshapeScores = Dictionary(cats.map { ($0.name, $0.score) }, uniquingKeysWith: { a, _ in a })
+            }
+            let pose2 = FaceGeometry.headPose(face: snap.faceLandmarks)
+            snap.headYaw = pose2.yaw
+            snap.headPitch = pose2.pitch
+        }
+
+        // 姿勢
+        if let pose = pose, let landmarks = pose.landmarks.first {
+            snap.poseLandmarks = Self.flatten(landmarks)
+            if let world = pose.worldLandmarks.first { snap.poseWorldLandmarks = Self.flattenWorld(world) }
+            let vis = landmarks.compactMap { $0.visibility }.map { Float(truncating: $0) }
+            if !vis.isEmpty { snap.poseVisibility = vis.reduce(0, +) / Float(vis.count) }
+        }
+
+        // 両手（handedness ラベル = 本人の解剖学的な左右。入力はミラー済み前面カメラ）
+        if let hand = handResult {
+            for i in hand.landmarks.indices {
+                let label = hand.handedness[safe: i]?.first?.categoryName ?? ""
+                let flat = Self.flatten(hand.landmarks[i])
+                let world = hand.worldLandmarks[safe: i].map { Self.flattenWorld($0) } ?? []
+                let iw = Float(imageWidth), ih = Float(imageHeight)
+                if label == "Left" {
+                    snap.leftHandLandmarks = flat
+                    snap.leftHandWorldLandmarks = world
+                    snap.leftHandSide = smoothSide(HandGeometry.handSide(hand: flat, isRightHand: false), history: &leftSideHistory)
+                    snap.leftIndexPinch = HandGeometry.pinchRatio(hand: flat, world: world, fingerTip: 8, iw: iw, ih: ih)
+                    snap.leftMiddlePinch = HandGeometry.pinchRatio(hand: flat, world: world, fingerTip: 12, iw: iw, ih: ih)
+                    if flat.count >= 9 * 3 {
+                        snap.smoothedLeftIndexTip = leftIndexFilter.filter(x: flat[8 * 3], y: flat[8 * 3 + 1], timestampMs: timestampMs)
+                    }
+                } else if label == "Right" {
+                    snap.rightHandLandmarks = flat
+                    snap.rightHandWorldLandmarks = world
+                    snap.rightHandSide = smoothSide(HandGeometry.handSide(hand: flat, isRightHand: true), history: &rightSideHistory)
+                    snap.rightIndexPinch = HandGeometry.pinchRatio(hand: flat, world: world, fingerTip: 8, iw: iw, ih: ih)
+                    snap.rightMiddlePinch = HandGeometry.pinchRatio(hand: flat, world: world, fingerTip: 12, iw: iw, ih: ih)
+                    if flat.count >= 9 * 3 {
+                        snap.smoothedRightIndexTip = rightIndexFilter.filter(x: flat[8 * 3], y: flat[8 * 3 + 1], timestampMs: timestampMs)
+                    }
+                }
+            }
+        }
+        if !snap.leftHandPresent { leftIndexFilter.reset(); leftSideHistory = [] }
+        if !snap.rightHandPresent { rightIndexFilter.reset(); rightSideHistory = [] }
+        return snap
+    }
+
+    private func smoothSide(_ side: HandSide, history: inout [HandSide]) -> HandSide {
+        history.append(side)
+        if history.count > 5 { history.removeFirst(history.count - 5) }
+        let known = history.filter { $0 != .unknown }
+        guard !known.isEmpty else { return .unknown }
+        let palmCount = known.filter { $0 == .palm }.count
+        return palmCount * 2 >= known.count ? .palm : .back
+    }
+
+    private static func flatten(_ landmarks: [NormalizedLandmark]) -> [Float] {
+        var out: [Float] = []
+        out.reserveCapacity(landmarks.count * 3)
+        for lm in landmarks { out.append(lm.x); out.append(lm.y); out.append(lm.z) }
+        return out
+    }
+
+    private static func flattenWorld(_ landmarks: [Landmark]) -> [Float] {
+        var out: [Float] = []
+        out.reserveCapacity(landmarks.count * 3)
+        for lm in landmarks { out.append(lm.x); out.append(lm.y); out.append(lm.z) }
+        return out
+    }
+}
+
+// MARK: - MediaPipe ライブストリーム デリゲート
+
+extension TrackingEngine: HandLandmarkerLiveStreamDelegate {
+    func handLandmarker(_ handLandmarker: HandLandmarker, didFinishDetection result: HandLandmarkerResult?,
+                        timestampInMilliseconds: Int, error: Error?) {
+        if let error = error {
+            lock.lock(); lastError = error.localizedDescription; lock.unlock()
+        }
+        // 画像サイズは直近フレームのバッファから得る代わりに、結果からは取れないため
+        // CameraFeedService が保持する直近サイズを参照する。
+        let size = CameraFeedService.lastFrameSize
+        let inference = Float(Int(Date().timeIntervalSince1970 * 1000) - timestampMs)
+        let snap = composeSnapshot(handResult: result, timestampMs: timestampMs,
+                                   handInferenceMs: inference,
+                                   imageWidth: size.width, imageHeight: size.height)
+        onSnapshot?(snap)
+    }
+}
+
+extension TrackingEngine: FaceLandmarkerLiveStreamDelegate {
+    func faceLandmarker(_ faceLandmarker: FaceLandmarker, didFinishDetection result: FaceLandmarkerResult?,
+                        timestampInMilliseconds: Int, error: Error?) {
+        lock.lock()
+        if let result = result { latestFace = result }
+        faceInferenceMs = Float(Int(Date().timeIntervalSince1970 * 1000) - timestampInMilliseconds)
+        if let error = error { lastError = error.localizedDescription }
+        lock.unlock()
+    }
+}
+
+extension TrackingEngine: PoseLandmarkerLiveStreamDelegate {
+    func poseLandmarker(_ poseLandmarker: PoseLandmarker, didFinishDetection result: PoseLandmarkerResult?,
+                        timestampInMilliseconds: Int, error: Error?) {
+        lock.lock()
+        if let result = result { latestPose = result }
+        poseInferenceMs = Float(Int(Date().timeIntervalSince1970 * 1000) - timestampInMilliseconds)
+        if let error = error { lastError = error.localizedDescription }
+        lock.unlock()
+    }
+}
+
+private extension Array {
+    subscript(safe index: Int) -> Element? {
+        indices.contains(index) ? self[index] : nil
+    }
+}
