@@ -121,12 +121,12 @@ final class TrackingEngine: NSObject {
 
         do {
             let mpImage = try MPImage(sampleBuffer: sampleBuffer, orientation: .up)
-            try handLandmarker?.detectAsync(mpImage: mpImage, timestampInMilliseconds: ts)
+            try handLandmarker?.detectAsync(image: mpImage, timestampInMilliseconds: ts)
             if frameIndex % Self.faceEveryNFrames == 0 {
-                try faceLandmarker?.detectAsync(mpImage: mpImage, timestampInMilliseconds: ts)
+                try faceLandmarker?.detectAsync(image: mpImage, timestampInMilliseconds: ts)
             }
             if frameIndex % Self.poseEveryNFrames == 0 {
-                try poseLandmarker?.detectAsync(mpImage: mpImage, timestampInMilliseconds: ts)
+                try poseLandmarker?.detectAsync(image: mpImage, timestampInMilliseconds: ts)
             }
         } catch {
             lock.lock(); lastError = error.localizedDescription; lock.unlock()
@@ -161,7 +161,7 @@ final class TrackingEngine: NSObject {
         // 顔
         if let face = face, let landmarks = face.faceLandmarks.first {
             snap.faceLandmarks = Self.flatten(landmarks)
-            if let classifications = face.faceBlendshapes?.first {
+            if let classifications = face.faceBlendshapes.first {
                 let cats = classifications.categories
                     .map { (name: $0.categoryName ?? "?", score: $0.score) }
                     .sorted { $0.score > $1.score }
@@ -249,8 +249,8 @@ extension TrackingEngine: HandLandmarkerLiveStreamDelegate {
         // 画像サイズは直近フレームのバッファから得る代わりに、結果からは取れないため
         // CameraFeedService が保持する直近サイズを参照する。
         let size = CameraFeedService.lastFrameSize
-        let inference = Float(Int(Date().timeIntervalSince1970 * 1000) - timestampMs)
-        let snap = composeSnapshot(handResult: result, timestampMs: timestampMs,
+        let inference = Float(Int(Date().timeIntervalSince1970 * 1000) - timestampInMilliseconds)
+        let snap = composeSnapshot(handResult: result, timestampMs: timestampInMilliseconds,
                                    handInferenceMs: inference,
                                    imageWidth: size.width, imageHeight: size.height)
         onSnapshot?(snap)
