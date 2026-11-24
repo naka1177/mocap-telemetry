@@ -1,1 +1,120 @@
-aW1wb3J0IEFWRm91bmRhdGlvbgppbXBvcnQgQ29yZU1lZGlhCgovLy8g5YmN6Z2i44Kr44Oh44Op44Gu44Kt44Oj44OX44OB44Oj77yIQW5kcm9pZCDniYggQ2FtZXJhUGlwZWxpbmUg44Gu57iu57SE56e75qSN77yJ44CCCi8vLwovLy8gLSDliY3pnaLjgqvjg6Hjg6njgIE0OjMg44OV44Kp44O844Oe44OD44OI5YSq5YWI77yI44K744Oz44K144O85YWo5Z+f44CBMTY6OSDjgq/jg63jg4Pjg5fjgarjgZfvvIkKLy8vIC0g44OH44O844K/5Ye65Yqb44O744OX44Os44OT44Ol44O844Go44KC44Of44Op44O85Y+N6Lui77yI6Ieq5pKu44KK6KGo56S6ID0gTWVkaWFQaXBlIOOBuOOBruWFpeWKm+OCguODn+ODqeODvOa4iOOBv+OAggovLy8gICDjgZPjgozjgavjgojjgoogaGFuZGVkbmVzcyDjg6njg5njg6vjgYzmnKzkurrjga7op6PliZblrabnmoTjgarlt6blj7PjgajkuIDoh7TjgZnjgovjgIJBbmRyb2lkIOOBqOWQjOOBmOWJjeaPkO+8iQovLy8gLSDlkJHjgY3jga/mqKrlkJHjgY3vvIhsYW5kc2NhcGVSaWdodO+8ieWbuuWumuOAgmlQYWQg44KS5qiq572u44GN44GZ44KL44OG44Os44Oh44OI44Oq55So6YCU44KS5oOz5a6aCi8vLyAgIO+8iOe4puWQkeOBjeWvvuW/nOOBr+aXouefpeOBruWItumZkOOBqOOBl+OBpiBSRUFETUUg44Gr6KiY6LyJ77yJCmZpbmFsIGNsYXNzIENhbWVyYUZlZWRTZXJ2aWNlOiBOU09iamVjdCB7CiAgICBsZXQgc2Vzc2lvbiA9IEFWQ2FwdHVyZVNlc3Npb24oKQogICAgbGV0IHByZXZpZXdMYXllciA9IEFWQ2FwdHVyZVZpZGVvUHJldmlld0xheWVyKCkKCiAgICAvLy8g44OV44Os44O844Og5Y+X5L+h44Kz44O844Or44OQ44OD44Kv77yI5bCC55So44Kt44Ol44O844Gn5ZG844Gw44KM44KL77yJ44CCCiAgICB2YXIgb25GcmFtZTogKChDTVNhbXBsZUJ1ZmZlcikgLT4gVm9pZCk/CgogICAgLy8vIOebtOi/keODleODrOODvOODoOOBruODlOOCr+OCu+ODq+OCteOCpOOCuu+8iFRyYWNraW5nRW5naW5lIOOBjOOCueODiuODg+ODl+OCt+ODp+ODg+ODiOOBuOi7ouiomO+8ieOAggogICAgc3RhdGljIHZhciBsYXN0RnJhbWVTaXplOiAod2lkdGg6IEludCwgaGVpZ2h0OiBJbnQpID0gKDAsIDApCgogICAgcHJpdmF0ZSBsZXQgc2Vzc2lvblF1ZXVlID0gRGlzcGF0Y2hRdWV1ZShsYWJlbDogImFwcC5tdXNlLm1vY2FwLmNhbWVyYS5zZXNzaW9uIikKICAgIHByaXZhdGUgbGV0IHZpZGVvUXVldWUgPSBEaXNwYXRjaFF1ZXVlKGxhYmVsOiAiYXBwLm11c2UubW9jYXAuY2FtZXJhLmZyYW1lcyIpCiAgICBwcml2YXRlIHZhciBjb25maWd1cmVkID0gZmFsc2UKCiAgICBmdW5jIGNvbmZpZ3VyZSgpIHRocm93cyB7CiAgICAgICAgZ3VhcmQgIWNvbmZpZ3VyZWQgZWxzZSB7IHJldHVybiB9CiAgICAgICAgc2Vzc2lvbi5iZWdpbkNvbmZpZ3VyYXRpb24oKQogICAgICAgIGRlZmVyIHsgc2Vzc2lvbi5jb21taXRDb25maWd1cmF0aW9uKCkgfQoKICAgICAgICBndWFyZCBsZXQgZGV2aWNlID0gQVZDYXB0dXJlRGV2aWNlLmRlZmF1bHQoLmJ1aWx0SW5XaWRlQW5nbGVDYW1lcmEsIGZvcjogLnZpZGVvLCBwb3NpdGlvbjogLmZyb250KSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgTlNFcnJvcihkb21haW46ICJNb2NhcFRlbGVtZXRyeSIsIGNvZGU6IDIsCiAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlckluZm86IFtOU0xvY2FsaXplZERlc2NyaXB0aW9uS2V5OiAi5YmN6Z2i44Kr44Oh44Op44GM6KaL44Gk44GL44KK44G+44Gb44KTIl0pCiAgICAgICAgfQogICAgICAgIHBpY2tGb3VyVGhyZWVGb3JtYXQoZGV2aWNlOiBkZXZpY2UpCgogICAgICAgIGxldCBpbnB1dCA9IHRyeSBBVkNhcHR1cmVEZXZpY2VJbnB1dChkZXZpY2U6IGRldmljZSkKICAgICAgICBndWFyZCBzZXNzaW9uLmNhbkFkZElucHV0KGlucHV0KSBlbHNlIHsKICAgICAgICAgICAgdGhyb3cgTlNFcnJvcihkb21haW46ICJNb2NhcFRlbGVtZXRyeSIsIGNvZGU6IDMsCiAgICAgICAgICAgICAgICAgICAgICAgICAgdXNlckluZm86IFtOU0xvY2FsaXplZERlc2NyaXB0aW9uS2V5OiAi44Kr44Oh44Op5YWl5Yqb44KS6L+95Yqg44Gn44GN44G+44Gb44KTIl0pCiAgICAgICAgfQogICAgICAgIHNlc3Npb24uYWRkSW5wdXQoaW5wdXQpCgogICAgICAgIGxldCBvdXRwdXQgPSBBVkNhcHR1cmVWaWRlb0RhdGFPdXRwdXQoKQogICAgICAgIG91dHB1dC52aWRlb1NldHRpbmdzID0gW2tDVlBpeGVsQnVmZmVyUGl4ZWxGb3JtYXRUeXBlS2V5IGFzIFN0cmluZzoga0NWUGl4ZWxGb3JtYXRUeXBlXzMyQkdSQV0KICAgICAgICBvdXRwdXQuYWx3YXlzRGlzY2FyZHNMYXRlVmlkZW9GcmFtZXMgPSB0cnVlCiAgICAgICAgb3V0cHV0LnNldFNhbXBsZUJ1ZmZlckRlbGVnYXRlKHNlbGYsIHF1ZXVlOiB2aWRlb1F1ZXVlKQogICAgICAgIGd1YXJkIHNlc3Npb24uY2FuQWRkT3V0cHV0KG91dHB1dCkgZWxzZSB7CiAgICAgICAgICAgIHRocm93IE5TRXJyb3IoZG9tYWluOiAiTW9jYXBUZWxlbWV0cnkiLCBjb2RlOiA0LAogICAgICAgICAgICAgICAgICAgICAgICAgIHVzZXJJbmZvOiBbTlNMb2NhbGl6ZWREZXNjcmlwdGlvbktleTogIuaYoOWDj+WHuuWKm+OCkui/veWKoOOBp+OBjeOBvuOBm+OCkyJdKQogICAgICAgIH0KICAgICAgICBzZXNzaW9uLmFkZE91dHB1dChvdXRwdXQpCgogICAgICAgIGlmIGxldCBjb25uZWN0aW9uID0gb3V0cHV0LmNvbm5lY3Rpb24od2l0aDogLnZpZGVvKSB7CiAgICAgICAgICAgIGNvbm5lY3Rpb24uaXNWaWRlb01pcnJvcmVkID0gdHJ1ZQogICAgICAgICAgICBpZiBjb25uZWN0aW9uLmlzVmlkZW9PcmllbnRhdGlvblN1cHBvcnRlZCB7IGNvbm5lY3Rpb24udmlkZW9PcmllbnRhdGlvbiA9IC5sYW5kc2NhcGVSaWdodCB9CiAgICAgICAgfQoKICAgICAgICBwcmV2aWV3TGF5ZXIuc2Vzc2lvbiA9IHNlc3Npb24KICAgICAgICBwcmV2aWV3TGF5ZXIudmlkZW9HcmF2aXR5ID0gLnJlc2l6ZUFzcGVjdCAgIC8vIEZJVF9DRU5URVIg55u45b2T77yI44Os44K/44O844Oc44OD44Kv44K544CB5YiH44KK5oqc44GN44Gq44GX77yJCiAgICAgICAgaWYgbGV0IGNvbm5lY3Rpb24gPSBwcmV2aWV3TGF5ZXIuY29ubmVjdGlvbiB7CiAgICAgICAgICAgIGNvbm5lY3Rpb24uaXNWaWRlb01pcnJvcmVkID0gdHJ1ZQogICAgICAgICAgICBpZiBjb25uZWN0aW9uLmlzVmlkZW9PcmllbnRhdGlvblN1cHBvcnRlZCB7IGNvbm5lY3Rpb24udmlkZW9PcmllbnRhdGlvbiA9IC5sYW5kc2NhcGVSaWdodCB9CiAgICAgICAgfQogICAgICAgIGNvbmZpZ3VyZWQgPSB0cnVlCiAgICB9CgogICAgLy8vIDQ6MyDjgavmnIDjgoLov5HjgY/jgIHluYUgMTI4MCDku6XkuIvjga7mnIDlpKfjg5Xjgqnjg7zjg57jg4Pjg4jjgpLpgbjjgbbvvIjnhKHjgZHjgozjgbDmnIDlpKfjga4gNDoz44CBCiAgICAvLy8g44Gd44KM44KC54Sh44GR44KM44Gw5pei5a6a44OX44Oq44K744OD44OIIC52Z2E2NDB4NDgwPTQ6MyDjgavokL3jgajjgZnvvInjgIIKICAgIHByaXZhdGUgZnVuYyBwaWNrRm91clRocmVlRm9ybWF0KGRldmljZTogQVZDYXB0dXJlRGV2aWNlKSB7CiAgICAgICAgdmFyIGJlc3Q6IEFWQ2FwdHVyZURldmljZS5Gb3JtYXQ/ID0gbmlsCiAgICAgICAgdmFyIGJlc3RXaWR0aDogSW50MzIgPSAwCiAgICAgICAgZm9yIGZvcm1hdCBpbiBkZXZpY2UuZm9ybWF0cyB7CiAgICAgICAgICAgIGxldCBkaW1zID0gQ01WaWRlb0Zvcm1hdERlc2NyaXB0aW9uR2V0RGltZW5zaW9ucyhmb3JtYXQuZm9ybWF0RGVzY3JpcHRpb24pCiAgICAgICAgICAgIGd1YXJkIGRpbXMuaGVpZ2h0ID4gMCBlbHNlIHsgY29udGludWUgfQogICAgICAgICAgICBsZXQgYXNwZWN0ID0gRG91YmxlKGRpbXMud2lkdGgpIC8gRG91YmxlKGRpbXMuaGVpZ2h0KQogICAgICAgICAgICBpZiBhYnMoYXNwZWN0IC0gNC4wIC8gMy4wKSA+IDAuMDIgeyBjb250aW51ZSB9CiAgICAgICAgICAgIGlmIGRpbXMud2lkdGggPD0gMTI4MCAmJiBkaW1zLndpZHRoID4gYmVzdFdpZHRoIHsKICAgICAgICAgICAgICAgIGJlc3QgPSBmb3JtYXQ7IGJlc3RXaWR0aCA9IGRpbXMud2lkdGgKICAgICAgICAgICAgfQogICAgICAgIH0KICAgICAgICBpZiBsZXQgYmVzdCA9IGJlc3QgewogICAgICAgICAgICBkbyB7CiAgICAgICAgICAgICAgICB0cnkgZGV2aWNlLmxvY2tGb3JDb25maWd1cmF0aW9uKCkKICAgICAgICAgICAgICAgIGRldmljZS5hY3RpdmVGb3JtYXQgPSBiZXN0CiAgICAgICAgICAgICAgICBkZXZpY2UuYWN0aXZlVmlkZW9NaW5GcmFtZUR1cmF0aW9uID0gQ01UaW1lKHZhbHVlOiAxLCB0aW1lc2NhbGU6IDMwKQogICAgICAgICAgICAgICAgZGV2aWNlLmFjdGl2ZVZpZGVvTWF4RnJhbWVEdXJhdGlvbiA9IENNVGltZSh2YWx1ZTogMSwgdGltZXNjYWxlOiAzMCkKICAgICAgICAgICAgICAgIGRldmljZS51bmxvY2tGb3JDb25maWd1cmF0aW9uKCkKICAgICAgICAgICAgICAgIHJldHVybgogICAgICAgICAgICB9IGNhdGNoIHsKICAgICAgICAgICAgICAgIC8vIOODleOCqeODvOODq+ODkOODg+OCr+OBuAogICAgICAgICAgICB9CiAgICAgICAgfQogICAgICAgIHNlc3Npb24uc2Vzc2lvblByZXNldCA9IC52Z2E2NDB4NDgwCiAgICB9CgogICAgZnVuYyBzdGFydCgpIHsKICAgICAgICBzZXNzaW9uUXVldWUuYXN5bmMgeyBbd2VhayBzZWxmXSBpbgogICAgICAgICAgICBndWFyZCBsZXQgc2VsZiA9IHNlbGYsICFzZWxmLnNlc3Npb24uaXNSdW5uaW5nIGVsc2UgeyByZXR1cm4gfQogICAgICAgICAgICBzZWxmLnNlc3Npb24uc3RhcnRSdW5uaW5nKCkKICAgICAgICB9CiAgICB9CgogICAgZnVuYyBzdG9wKCkgewogICAgICAgIHNlc3Npb25RdWV1ZS5hc3luYyB7IFt3ZWFrIHNlbGZdIGluCiAgICAgICAgICAgIGd1YXJkIGxldCBzZWxmID0gc2VsZiwgc2VsZi5zZXNzaW9uLmlzUnVubmluZyBlbHNlIHsgcmV0dXJuIH0KICAgICAgICAgICAgc2VsZi5zZXNzaW9uLnN0b3BSdW5uaW5nKCkKICAgICAgICB9CiAgICB9Cn0KCmV4dGVuc2lvbiBDYW1lcmFGZWVkU2VydmljZTogQVZDYXB0dXJlVmlkZW9EYXRhT3V0cHV0U2FtcGxlQnVmZmVyRGVsZWdhdGUgewogICAgZnVuYyBjYXB0dXJlT3V0cHV0KF8gb3V0cHV0OiBBVkNhcHR1cmVPdXRwdXQsIGRpZE91dHB1dCBzYW1wbGVCdWZmZXI6IENNU2FtcGxlQnVmZmVyLAogICAgICAgICAgICAgICAgICAgICAgIGZyb20gY29ubmVjdGlvbjogQVZDYXB0dXJlQ29ubmVjdGlvbikgewogICAgICAgIGlmIGxldCBmb3JtYXREZXNjID0gQ01TYW1wbGVCdWZmZXJHZXRGb3JtYXREZXNjcmlwdGlvbihzYW1wbGVCdWZmZXIpIHsKICAgICAgICAgICAgbGV0IGRpbXMgPSBDTVZpZGVvRm9ybWF0RGVzY3JpcHRpb25HZXREaW1lbnNpb25zKGZvcm1hdERlc2MpCiAgICAgICAgICAgIFNlbGYubGFzdEZyYW1lU2l6ZSA9IChJbnQoZGltcy53aWR0aCksIEludChkaW1zLmhlaWdodCkpCiAgICAgICAgfQogICAgICAgIG9uRnJhbWU/KHNhbXBsZUJ1ZmZlcikKICAgIH0KfQo=
+import AVFoundation
+import CoreMedia
+
+/// 前面カメラのキャプチャ（Android 版 CameraPipeline の縮約移植）。
+///
+/// - 前面カメラ、4:3 フォーマット優先（センサー全域、16:9 クロップなし）
+/// - データ出力・プレビューともミラー反転（自撮り表示 = MediaPipe への入力もミラー済み。
+///   これにより handedness ラベルが本人の解剖学的な左右と一致する。Android と同じ前提）
+/// - 向きは横向き（landscapeRight）固定。iPad を横置きするテレメトリ用途を想定
+///   （縦向き対応は既知の制限として README に記載）
+final class CameraFeedService: NSObject {
+    let session = AVCaptureSession()
+    let previewLayer = AVCaptureVideoPreviewLayer()
+
+    /// フレーム受信コールバック（専用キューで呼ばれる）。
+    var onFrame: ((CMSampleBuffer) -> Void)?
+
+    /// 直近フレームのピクセルサイズ（TrackingEngine がスナップショットへ転記）。
+    static var lastFrameSize: (width: Int, height: Int) = (0, 0)
+
+    private let sessionQueue = DispatchQueue(label: "app.muse.mocap.camera.session")
+    private let videoQueue = DispatchQueue(label: "app.muse.mocap.camera.frames")
+    private var configured = false
+
+    func configure() throws {
+        guard !configured else { return }
+        session.beginConfiguration()
+        defer { session.commitConfiguration() }
+
+        guard let device = AVCaptureDevice.default(.builtInWideAngleCamera, for: .video, position: .front) else {
+            throw NSError(domain: "MocapTelemetry", code: 2,
+                          userInfo: [NSLocalizedDescriptionKey: "前面カメラが見つかりません"])
+        }
+        pickFourThreeFormat(device: device)
+
+        let input = try AVCaptureDeviceInput(device: device)
+        guard session.canAddInput(input) else {
+            throw NSError(domain: "MocapTelemetry", code: 3,
+                          userInfo: [NSLocalizedDescriptionKey: "カメラ入力を追加できません"])
+        }
+        session.addInput(input)
+
+        let output = AVCaptureVideoDataOutput()
+        output.videoSettings = [kCVPixelBufferPixelFormatTypeKey as String: kCVPixelFormatType_32BGRA]
+        output.alwaysDiscardsLateVideoFrames = true
+        output.setSampleBufferDelegate(self, queue: videoQueue)
+        guard session.canAddOutput(output) else {
+            throw NSError(domain: "MocapTelemetry", code: 4,
+                          userInfo: [NSLocalizedDescriptionKey: "映像出力を追加できません"])
+        }
+        session.addOutput(output)
+
+        if let connection = output.connection(with: .video) {
+            connection.isVideoMirrored = true
+            if connection.isVideoOrientationSupported { connection.videoOrientation = .landscapeRight }
+        }
+
+        previewLayer.session = session
+        previewLayer.videoGravity = .resizeAspect   // FIT_CENTER 相当（レターボックス、切り抜きなし）
+        if let connection = previewLayer.connection {
+            connection.isVideoMirrored = true
+            if connection.isVideoOrientationSupported { connection.videoOrientation = .landscapeRight }
+        }
+        configured = true
+    }
+
+    /// 4:3 に最も近く、幅 1280 以下の最大フォーマットを選ぶ（無ければ最大の 4:3、
+    /// それも無ければ既定プリセット .vga640x480=4:3 に落とす）。
+    private func pickFourThreeFormat(device: AVCaptureDevice) {
+        var best: AVCaptureDevice.Format? = nil
+        var bestWidth: Int32 = 0
+        for format in device.formats {
+            let dims = CMVideoFormatDescriptionGetDimensions(format.formatDescription)
+            guard dims.height > 0 else { continue }
+            let aspect = Double(dims.width) / Double(dims.height)
+            if abs(aspect - 4.0 / 3.0) > 0.02 { continue }
+            if dims.width <= 1280 && dims.width > bestWidth {
+                best = format; bestWidth = dims.width
+            }
+        }
+        if let best = best {
+            do {
+                try device.lockForConfiguration()
+                device.activeFormat = best
+                device.activeVideoMinFrameDuration = CMTime(value: 1, timescale: 30)
+                device.activeVideoMaxFrameDuration = CMTime(value: 1, timescale: 30)
+                device.unlockForConfiguration()
+                return
+            } catch {
+                // フォールバックへ
+            }
+        }
+        session.sessionPreset = .vga640x480
+    }
+
+    func start() {
+        sessionQueue.async { [weak self] in
+            guard let self = self, !self.session.isRunning else { return }
+            self.session.startRunning()
+        }
+    }
+
+    func stop() {
+        sessionQueue.async { [weak self] in
+            guard let self = self, self.session.isRunning else { return }
+            self.session.stopRunning()
+        }
+    }
+}
+
+extension CameraFeedService: AVCaptureVideoDataOutputSampleBufferDelegate {
+    func captureOutput(_ output: AVCaptureOutput, didOutput sampleBuffer: CMSampleBuffer,
+                       from connection: AVCaptureConnection) {
+        if let formatDesc = CMSampleBufferGetFormatDescription(sampleBuffer) {
+            let dims = CMVideoFormatDescriptionGetDimensions(formatDesc)
+            Self.lastFrameSize = (Int(dims.width), Int(dims.height))
+        }
+        onFrame?(sampleBuffer)
+    }
+}
