@@ -1,1 +1,29 @@
-aW1wb3J0IFN3aWZ0VUkKaW1wb3J0IEFWRm91bmRhdGlvbgoKLy8vIEFWQ2FwdHVyZVZpZGVvUHJldmlld0xheWVyIOOCkiBTd2lmdFVJIOOBp+ihqOekuuOBmeOCi+ODqeODg+ODkeODvOOAggpzdHJ1Y3QgUHJldmlld1ZpZXc6IFVJVmlld1JlcHJlc2VudGFibGUgewogICAgbGV0IHByZXZpZXdMYXllcjogQVZDYXB0dXJlVmlkZW9QcmV2aWV3TGF5ZXIKCiAgICBmdW5jIG1ha2VVSVZpZXcoY29udGV4dDogQ29udGV4dCkgLT4gUHJldmlld1VJVmlldyB7CiAgICAgICAgbGV0IHZpZXcgPSBQcmV2aWV3VUlWaWV3KCkKICAgICAgICB2aWV3LmxheWVyLmFkZFN1YmxheWVyKHByZXZpZXdMYXllcikKICAgICAgICBwcmV2aWV3TGF5ZXIuZnJhbWUgPSB2aWV3LmJvdW5kcwogICAgICAgIHJldHVybiB2aWV3CiAgICB9CgogICAgZnVuYyB1cGRhdGVVSVZpZXcoXyB1aVZpZXc6IFByZXZpZXdVSVZpZXcsIGNvbnRleHQ6IENvbnRleHQpIHsKICAgICAgICBwcmV2aWV3TGF5ZXIuZnJhbWUgPSB1aVZpZXcuYm91bmRzCiAgICB9CgogICAgZmluYWwgY2xhc3MgUHJldmlld1VJVmlldzogVUlWaWV3IHsKICAgICAgICBvdmVycmlkZSBmdW5jIGxheW91dFN1YnZpZXdzKCkgewogICAgICAgICAgICBzdXBlci5sYXlvdXRTdWJ2aWV3cygpCiAgICAgICAgICAgIGZvciBzdWJsYXllciBpbiBsYXllci5zdWJsYXllcnMgPz8gW10gewogICAgICAgICAgICAgICAgaWYgbGV0IHByZXZpZXcgPSBzdWJsYXllciBhcz8gQVZDYXB0dXJlVmlkZW9QcmV2aWV3TGF5ZXIgewogICAgICAgICAgICAgICAgICAgIHByZXZpZXcuZnJhbWUgPSBib3VuZHMKICAgICAgICAgICAgICAgIH0KICAgICAgICAgICAgfQogICAgICAgIH0KICAgIH0KfQo=
+import SwiftUI
+import AVFoundation
+
+/// AVCaptureVideoPreviewLayer を SwiftUI で表示するラッパー。
+struct PreviewView: UIViewRepresentable {
+    let previewLayer: AVCaptureVideoPreviewLayer
+
+    func makeUIView(context: Context) -> PreviewUIView {
+        let view = PreviewUIView()
+        view.layer.addSublayer(previewLayer)
+        previewLayer.frame = view.bounds
+        return view
+    }
+
+    func updateUIView(_ uiView: PreviewUIView, context: Context) {
+        previewLayer.frame = uiView.bounds
+    }
+
+    final class PreviewUIView: UIView {
+        override func layoutSubviews() {
+            super.layoutSubviews()
+            for sublayer in layer.sublayers ?? [] {
+                if let preview = sublayer as? AVCaptureVideoPreviewLayer {
+                    preview.frame = bounds
+                }
+            }
+        }
+    }
+}
